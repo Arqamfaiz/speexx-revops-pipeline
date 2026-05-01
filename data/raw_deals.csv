@@ -1,0 +1,251 @@
+deal_id,deal_name,company,country,deal_stage,lifecycle_stage,arr_value,currency,owner,created_date,expected_close_date,lead_source,probability_pct,notes
+DL-5000,Robert - Enterprise License,Robert Bosch GmbH,Espana,Won,mql,150434.0,EUR,Sarah Mueller,2023-10-29,2024-03-08,LinkedIn,90,
+DL-5001,SIEMENS - Enterprise License,SIEMENS AG,Spain,discovery,MQL,49575.0,EUR,ana.garcia@speexx.com,2024-12-13,2025-04-14,REFERRAL,20,Follow up next week
+DL-5002,Merck - Enterprise License,Merck,United States,Closed Won,closed won,50266.0,USD,luca.bianchi@speexx.com,2024-03-02,2024-04-23,Organic Search,70,FOLLOW UP
+DL-5003,BOSCH - Enterprise License,BOSCH,england,Demo Scheduled,Closed Lost,24511,€,,2023-03-03,2023-02-06,DIRECT,50,awaiting legal
+DL-5004,SAP - Enterprise License,SAP SE,SPAIN,DISCOVERY,Customer,"€49,910",EUR,Unassigned,2023-10-06,2023-11-12,n/a,80,
+DL-5005,Zalando - Enterprise License,Zalando,The Netherlands,proposal sent,CLOSED LOST,24699,USD,sarah.mueller@speexx.com,2024-02-19,2024-06-09,linkedin,,FOLLOW UP
+DL-5006,,Allianz SE,italy,Proposal Sent,Marketing Qualified Lead,4706 EUR,EUR,l.bianchi@speexx.com,2023-08-05,2023-07-06,n/a,10,Follow up next week
+DL-5007,VW - Enterprise License,VW AG,NL,Proposal Sent,SQL,150012,EUR,ana.garcia@speexx.com,2023-04-06,2023-03-25,unknown,20,no champion
+DL-5008,BOSCH - Enterprise License,BOSCH,SWITZERLAND,Closed Won,CLOSED WON,25372,EUR,,2023-01-25,2023-07-08,referral,50,tbd
+DL-5009,HelloFresh - Enterprise License,HelloFresh,Switzerland,Demo Scheduled,won,250013.0,USD,luca.bianchi@speexx.com,2024-10-31,2024-12-20,webinar,70,Awaiting legal review
+DL-5010,Fresenius - Enterprise License,Fresenius,POLAND,Negotiation,Lost,"€10,125",,Sarah Mueller,2024-03-17,2024-04-10,LinkedIn,70,no champion
+DL-5011,Allianz - Enterprise License,Allianz Se,NL,Demo Scheduled,Marketing Qualified Lead,99665,EUR,james.wilson@speexx.com,2024-05-25,2024-07-02,N/A,70,Champion identified
+DL-5012,BMW - Enterprise License,BMW Group,United Kingdom,discovery,closed won,149999,EUR,luca.bianchi@speexx.com,2024-03-28,2024-09-24,Webinar,80,FOLLOW UP
+DL-5013,HelloFresh - Enterprise License,HelloFresh,Poland,prospecting,MQL,25159,EUR,Unassigned,2024-02-28,2024-07-20,Email,30,Champion?
+DL-5014,basf - Enterprise License,basf,england,NEGOTIATION,marketing qualified lead,49857.0,EUR,james.wilson@speexx.com,2023-03-16,2023-05-26,email,90,Sent proposal
+DL-5015,basf - Enterprise License,basf,england,closed lost,mql,25219,EUR,luca.bianchi@speexx.com,2023-12-03,2024-01-02,Referral,80,Champion?
+DL-5016,Siemens - Enterprise License,Siemens ag,GERMANY,proposal sent,LEAD,49984,GBP,james.wilson,2024-09-07,2024-12-27,LinkedIn Ads,20,follow up
+DL-5017,Allianz - Enterprise License,Allianz SE,SPAIN,NEGOTIATION,Customer,75037,EUR,Sarah Mueller,2023-10-08,2024-02-02,Email Campaign,80,tbd
+DL-5018,Volkswagen - Enterprise License,Volkswagen AG,GB,negotiation,Opp,EUR 25048,GBP,Unassigned,2023-06-18,21.08.2023,LINKEDIN,20,
+DL-5019,HelloFresh - Enterprise License,HelloFresh SE,Netherlands,Proposal,marketing qualified lead,5418.0,GBP,james.wilson,2024-08-15,2025-02-02,Organic Search,100,TBD
+DL-5020,Robert - Enterprise License,Robert Bosch GmbH,u.s.,Closed Lost,LEAD,4723,EUR,l.bianchi@speexx.com,2024-10-11,2025-02-17,WEBINAR,50,Sent proposal
+DL-5021,HelloFresh - Enterprise License,HelloFresh,france,proposal sent,Lead,5418,,marie.dupont@speexx.com,2024-08-13,2024-08-30,EMAIL,90,Awaiting legal review
+DL-5022,Lufthansa - Enterprise License,Lufthansa Group,Poland,Proposal,CLOSED LOST,4680.0,EUR,Luca Bianchi,2024-07-09,2024-11-09,direct,unknown,
+DL-5023,HelloFresh - Enterprise License,HelloFresh,FRANCE,closed lost,Marketing Qualified Lead,,EUR,l.bianchi@speexx.com,2024-03-23,2024-09-15,PPC,100,
+DL-5024,Fresenius - Enterprise License,Fresenius,ES,closed won,Sales qualified,24533 EUR,,Luca Bianchi,2024-07-11,2024-08-19,LINKEDIN,100,FOLLOW UP
+DL-5025,Lufthansa - Enterprise License,Lufthansa Group,Espana,Lost,won,50258,€,james.wilson,2024-04-20,2024-08-17,Partner Referral,70,TBD
+DL-5026,Henkel - Enterprise License,Henkel AG,United states,negotiation,Customer,4526,USD,ana.garcia@speexx.com,2024-11-20,2024-10-21,Email Campaign,50,no champion
+DL-5027,basf - Enterprise License,basf,Holland,prospecting,lead,75091.0,EUR,Ana Garcia,2023-07-17,2024-01-04,,30,awaiting legal
+DL-5028,Deutsche - Enterprise License,Deutsche Telekom AG,ITALY,Lost,Customer,,EUR,ana.garcia@speexx.com,2023-04-12,2023-05-28,paid search,10,awaiting legal
+DL-5029,Siemens - Enterprise License,Siemens AG,GERMANY,closed lost,lead,-1,EUR,luca.bianchi@speexx.com,2024-10-05,2025-03-19,WEBINAR,30,Sent proposal
+DL-5030,Zalando - Enterprise License,Zalando,CH,demo scheduled,mql,50326,€,Sarah Mueller,2023-08-16,2023-11-14,organic search,unknown,Champion?
+DL-5031,ALLIANZ - Enterprise License,ALLIANZ,Deutschland,discovery,Won,4789,USD,,2023-04-24,2023-09-02,email,20,Champion identified
+DL-5032,SIEMENS - Enterprise License,SIEMENS AG,AT,Lost,CLOSED WON,5203.0,EUR,james.wilson@speexx.com,2024-02-28,2024-03-31,LinkedIn Ads,unknown,Champion?
+DL-5033,Zalando - Enterprise License,Zalando SE,Germany,Proposal,sql,-1,€,,2024-09-13,2024-10-05,organic search,,Follow up next week
+DL-5034,E.ON - Enterprise License,E.ON,France,proposal sent,lead,4722,EUR,james.wilson,2024-06-08,2024-07-31,LINKEDIN,20,Awaiting legal review
+DL-5035,Delivery - Enterprise License,Delivery Hero,SPAIN,Closed Won,Sales Qualified Lead,10469,€,Ana Garcia,2024-07-18,2025-01-14,DIRECT,30,tbd
+DL-5036,Deutsche - Enterprise License,Deutsche Telekom,Austria,negotiation,Closed Won,,GBP,J. Wilson,2024-05-14,2024-09-15,Event,unknown,TBD
+DL-5037,Allianz - Enterprise License,Allianz SE,Switzerland,closed won,won,9919,USD,Ana Garcia,2024-04-05,31.05.2024,LinkedIn Ads,80,awaiting legal
+DL-5038,,SAP,Germany,proposal sent,Lead,10298,USD,J. Wilson,2024-01-02,2024-03-18,Webinar,50,no champion
+DL-5039,Allianz - Enterprise License,Allianz SE,CH,closed won,Marketing Qualified Lead,10074,GBP,marie.dupont@speexx.com,2024-01-30,2024-04-25,Webinar,80,Sent proposal
+DL-5040,sap - Enterprise License,sap se,PL,demo,Closed Won,9627.0,eur,l.bianchi@speexx.com,2023-02-20,10.07.2023,organic search,unknown,tbd
+DL-5041,,Merck,Switzerland,Negotiation,MQL,0,EUR,luca.bianchi@speexx.com,2023-01-05,2023-05-17,EMAIL,70,sent proposal
+DL-5042,VW - Enterprise License,VW AG,england,Proposal,Won,24548,EUR,Unassigned,2023-12-21,2024-04-15,PPC,10,Sent proposal
+DL-5043,siemens - Enterprise License,siemens,spain,Proposal,lead,75241.0,USD,Unassigned,2023-01-11,2023-03-01,Organic Search,10,sent proposal
+DL-5044,Siemens - Enterprise License,Siemens ag,italy,Discovery,Lead,"€10,204",EUR,,2023-04-24,2023-05-20,N/A,20,follow up
+DL-5045,VW - Enterprise License,VW AG,POLAND,negotiation,Won,25184,,james.wilson,2023-06-01,2023-11-11,n/a,50,FOLLOW UP
+DL-5046,BMW - Enterprise License,BMW Group,Deutschland,demo scheduled,Won,,EUR,J. Wilson,2023-10-31,05.12.2023,Referral,100,TBD
+DL-5047,BASF - Enterprise License,BASF SE,Italia,Demo,Lead,75279.0,,marie.dupont@speexx.com,2023-07-12,2023-11-27,unknown,20,follow up
+DL-5048,,Deutsche Telekom AG,GB,closed lost,sql,25298.0,€,Unassigned,2024-01-08,2024-04-29,PPC,30,Champion identified
+DL-5049,ALLIANZ - Enterprise License,ALLIANZ,ITALY,Demo Scheduled,marketing qualified lead,9987 EUR,EUR,ana.garcia@speexx.com,2023-04-23,2023-04-08,LinkedIn,90,no champion
+DL-5050,Henkel - Enterprise License,Henkel,GB,demo,Sales Qualified Lead,9550 EUR,€,J. Wilson,2024-06-04,2024-09-11,Direct,,Champion?
+DL-5051,ThyssenKrupp - Enterprise License,ThyssenKrupp,germany,prospecting,closed lost,25481,€,J. Wilson,2024-06-15,17.10.2024,PPC,70,Sent proposal
+DL-5052,Fresenius - Enterprise License,Fresenius,ES,discovery,sql,,eur,ana.garcia@speexx.com,2024-12-17,2025-04-13,direct,10,FOLLOW UP
+DL-5053,SAP - Enterprise License,SAP,Deutschland,Proposal Sent,sql,75204,EUR,ana.garcia@speexx.com,2024-05-30,2024-11-19,LinkedIn,10,
+DL-5054,Thyssenkrupp - Enterprise License,Thyssenkrupp AG,United States,Discovery,closed lost,,EUR,luca.bianchi@speexx.com,2024-03-14,2024-03-05,n/a,20,Follow up next week
+DL-5055,,SIEMENS AG,Italia,closed won,New Lead,25273,USD,luca.bianchi@speexx.com,2024-08-03,2024-10-30,WEBINAR,,sent proposal
+DL-5056,HelloFresh - Enterprise License,HelloFresh SE,CH,Prospecting,customer,EUR 74808,,Sarah Mueller,2024-05-13,2024-07-30,,unknown,Follow up next week
+DL-5057,BOSCH - Enterprise License,BOSCH,GB,DISCOVERY,Opp,9531,eur,Marie Dupont,2024-02-25,2024-05-05,Email,unknown,FOLLOW UP
+DL-5058,BMW - Enterprise License,BMW AG,SWITZERLAND,NEGOTIATION,Opp,250397.0,USD,Ana Garcia,2024-10-03,2025-03-05,Direct,70,Sent proposal
+DL-5059,Siemens - Enterprise License,Siemens ag,NL,closed lost,opportunity,5314.0,EUR,sarah.mueller@speexx.com,2024-08-16,2025-01-10,LinkedIn,100,
+DL-5060,BOSCH - Enterprise License,BOSCH,england,Demo Scheduled,mql,9795,eur,james.wilson,2024-06-19,2024-09-15,Google Ads,10,Champion identified
+DL-5061,Volkswagen - Enterprise License,Volkswagen AG,US,Prospecting,lost,4641,EUR,Sarah Mueller,2023-01-06,2023-05-10,LinkedIn,50,awaiting legal
+DL-5062,MERCK - Enterprise License,MERCK KGAA,GB,Closed Won,Closed Won,,EUR,,2023-03-24,2023-06-20,DIRECT,,sent proposal
+DL-5063,SAP - Enterprise License,SAP,FR,Proposal,closed won,EUR 74642,eur,james.wilson,2024-07-31,2024-12-03,DIRECT,,
+DL-5064,Continental - Enterprise License,Continental,SWITZERLAND,negotiation,Lead,5039.0,USD,luca.bianchi@speexx.com,2024-07-12,2024-09-10,N/A,90,awaiting legal
+DL-5065,Continental - Enterprise License,Continental,Italy,negotiation,closed lost,"€4,643",USD,james.wilson@speexx.com,2023-01-29,2023-01-04,direct,10,tbd
+DL-5066,basf - Enterprise License,basf,France,NEGOTIATION,mql,75395.0,€,Unassigned,2023-05-09,2023-09-03,PPC,80,Champion?
+DL-5067,ALLIANZ - Enterprise License,ALLIANZ,DE,Proposal,Lead,74624,eur,Luca Bianchi,2023-10-25,2024-03-31,Unknown,30,Sent proposal
+DL-5068,HelloFresh - Enterprise License,HelloFresh,spain,Proposal Sent,marketing qualified lead,50459,EUR,sarah.mueller@speexx.com,2024-10-17,2024-12-09,Google Ads,,FOLLOW UP
+DL-5069,DT - Enterprise License,DT AG,United States,closed won,sql,0,eur,Unassigned,2023-07-29,2023-09-07,Partner Referral,,
+DL-5070,Continental - Enterprise License,Continental AG,Italy,DISCOVERY,sql,24689,eur,luca.bianchi@speexx.com,2024-11-04,2025-04-24,direct,unknown,FOLLOW UP
+DL-5071,MERCK - Enterprise License,MERCK KGAA,GB,Negotiation,SQL,10319,EUR,james.wilson,2024-05-19,2024-09-04,Email,10,Champion?
+DL-5072,Volkswagen - Enterprise License,Volkswagen AG,england,closed lost,CUSTOMER,0,,james.wilson,2023-02-04,02.08.2023,linkedin,80,no champion
+DL-5073,E.ON - Enterprise License,E.ON SE,Switzerland,closed won,lead,9564,USD,luca.bianchi@speexx.com,2023-08-04,2023-11-15,google ads,70,tbd
+DL-5074,HelloFresh - Enterprise License,HelloFresh SE,POLAND,Lost,Lead,25485.0,€,james.wilson@speexx.com,2023-11-07,2024-02-29,WEBINAR,,Champion?
+DL-5075,basf - Enterprise License,basf,United States,Demo Scheduled,OPPORTUNITY,10181,eur,,2023-03-11,2023-02-15,REFERRAL,20,follow up
+DL-5076,BASF - Enterprise License,BASF SE,The Netherlands,demo,CLOSED LOST,5367,EUR,,2024-03-06,2024-04-05,PPC,100,awaiting legal
+DL-5077,Robert - Enterprise License,Robert Bosch GmbH,Spain,Demo,closed won,9948 EUR,eur,Sarah Mueller,2024-10-14,2025-03-23,PPC,50,Follow up next week
+DL-5078,Robert - Enterprise License,Robert Bosch GmbH,Switzerland,Closed Lost,won,24573,,J. Wilson,2023-01-06,2023-04-22,n/a,,Awaiting legal review
+DL-5079,,Lufthansa Group,France,Discovery,SQL,10140,€,Sarah Mueller,2024-09-25,2025-03-01,referral,10,Champion?
+DL-5080,eon - Enterprise License,eon,Spain,Proposal Sent,opportunity,99757,EUR,Luca Bianchi,2023-12-05,2023-12-24,,,no champion
+DL-5081,Volkswagen - Enterprise License,Volkswagen AG,GERMANY,discovery,mql,0,USD,Ana Garcia,2024-02-13,2024-08-03,webinar,10,follow up
+DL-5082,Deutsche - Enterprise License,Deutsche Telekom,AUSTRIA,prospecting,Lead,9574,EUR,ana.garcia@speexx.com,2024-07-14,2024-10-20,EMAIL,,
+DL-5083,Fresenius - Enterprise License,Fresenius,Espana,DISCOVERY,Lost,9542,USD,Ana Garcia,2023-03-24,2023-08-26,referral,10,Follow up next week
+DL-5084,SIEMENS - Enterprise License,SIEMENS AG,Holland,Negotiation,LEAD,50255,GBP,Marie Dupont,2023-07-20,2023-12-17,Email Campaign,,follow up
+DL-5085,,Bosch GmbH,Espana,proposal sent,Marketing Qualified Lead,9851.0,EUR,J. Wilson,2024-03-24,2024-05-07,ORGANIC,10,TBD
+DL-5086,DT - Enterprise License,DT AG,Italy,NEGOTIATION,opportunity,4544,EUR,l.bianchi@speexx.com,2023-02-28,2023-04-02,Google Ads,unknown,FOLLOW UP
+DL-5087,Allianz - Enterprise License,Allianz SE,The Netherlands,proposal sent,LEAD,100379,€,Unassigned,2023-09-14,2024-02-14,,70,Awaiting legal review
+DL-5088,Delivery - Enterprise License,Delivery Hero SE,France,proposal sent,Sales Qualified Lead,-1,EUR,Unassigned,2024-07-08,2024-11-27,referral,70,
+DL-5089,Merck - Enterprise License,Merck KGaA,england,DISCOVERY,marketing qualified lead,EUR 4740,EUR,luca.bianchi@speexx.com,2023-08-04,2023-09-18,Direct,70,Champion?
+DL-5090,BASF - Enterprise License,BASF SE,germany,closed lost,Sales qualified,,eur,Ana Garcia,2023-11-04,2023-12-09,Email Campaign,,Follow up next week
+DL-5091,HelloFresh - Enterprise License,HelloFresh SE,ITALY,proposal sent,New Lead,"€100,431",eur,,2023-11-09,01.12.2023,Email Campaign,90,tbd
+DL-5092,siemens - Enterprise License,siemens,POLAND,Proposal Sent,LEAD,75460.0,€,james.wilson@speexx.com,2023-04-22,2023-09-24,N/A,50,follow up
+DL-5093,Siemens - Enterprise License,Siemens AG,AUSTRIA,demo scheduled,Opportunity,49802,USD,james.wilson,2023-10-15,2024-01-07,Organic Search,20,sent proposal
+DL-5094,Merck - Enterprise License,Merck,NL,Demo Scheduled,Won,9517.0,eur,Ana Garcia,2024-11-07,11.02.2025,paid search,70,Champion?
+DL-5095,Merck - Enterprise License,Merck KGaA,Espana,demo,Lost,49782,EUR,james.wilson@speexx.com,2023-11-18,2023-12-18,organic,50,FOLLOW UP
+DL-5096,Zalando - Enterprise License,Zalando,ITALY,NEGOTIATION,Opportunity,"€24,542",EUR,marie.dupont@speexx.com,2023-02-09,2023-04-11,WEBINAR,,
+DL-5097,Siemens - Enterprise License,Siemens ag,Netherlands,Discovery,closed lost,24615.0,USD,Unassigned,2024-09-06,2024-11-19,EMAIL,20,
+DL-5098,Henkel - Enterprise License,Henkel,IT,proposal sent,CLOSED LOST,0,EUR,james.wilson@speexx.com,2023-10-17,2023-09-27,direct,30,Champion?
+DL-5099,SIEMENS - Enterprise License,SIEMENS AG,NL,Proposal,Sales Qualified Lead,25299,GBP,Unassigned,2023-04-19,2023-10-05,LinkedIn,90,tbd
+DL-5100,Zalando - Enterprise License,Zalando,u.s.,demo scheduled,lead,25088 EUR,EUR,Unassigned,2023-03-22,2023-04-24,organic,,Champion identified
+DL-5101,HelloFresh - Enterprise License,HelloFresh SE,Italy,demo,New Lead,5089,USD,J. Wilson,2024-06-21,2024-11-15,Google Ads,50,Champion identified
+DL-5102,Henkel - Enterprise License,Henkel AG,United kingdom,closed won,New Lead,4870 EUR,GBP,J. Wilson,2024-01-06,2024-02-09,google ads,,Sent proposal
+DL-5103,Henkel - Enterprise License,Henkel AG,UK,closed lost,closed won,9793,EUR,l.bianchi@speexx.com,2024-11-21,2025-05-03,LINKEDIN,30,Champion identified
+DL-5104,Siemens - Enterprise License,Siemens AG,germany,Won,Customer,49981,GBP,sarah.mueller@speexx.com,2023-06-20,2023-08-03,Paid Search,30,no champion
+DL-5105,E.ON - Enterprise License,E.ON,NETHERLANDS,Negotiation,closed lost,EUR 49747,EUR,Marie Dupont,2024-02-02,03.06.2024,WEBINAR,100,awaiting legal
+DL-5106,Zalando - Enterprise License,Zalando SE,US,Closed Won,Marketing Qualified Lead,50251,EUR,,2024-04-05,08.08.2024,Event,unknown,
+DL-5107,,Continental,Italia,closed won,Won,-1,USD,sarah.mueller@speexx.com,2024-01-24,2024-04-29,,,no champion
+DL-5108,Henkel - Enterprise License,Henkel,ES,Demo Scheduled,closed won,,€,l.bianchi@speexx.com,2023-10-20,2024-01-24,Webinar,20,Awaiting legal review
+DL-5109,bmw - Enterprise License,bmw,ITALY,Closed Won,CLOSED LOST,10406,EUR,,2023-06-19,2023-08-02,Direct,30,FOLLOW UP
+DL-5110,Deutsche - Enterprise License,Deutsche Telekom,spain,Prospecting,MQL,-1,,Unassigned,2024-07-19,2024-12-10,Event,50,sent proposal
+DL-5111,Merck - Enterprise License,Merck,france,NEGOTIATION,CLOSED WON,EUR 9612,GBP,luca.bianchi@speexx.com,2024-03-12,2024-07-17,google ads,70,
+DL-5112,HelloFresh - Enterprise License,HelloFresh SE,england,demo scheduled,Lost,49834,EUR,Marie Dupont,2023-04-30,2023-08-12,ORGANIC,90,FOLLOW UP
+DL-5113,Delivery - Enterprise License,Delivery Hero,AT,Won,MQL,"€50,398",eur,james.wilson@speexx.com,2024-06-17,2024-09-20,referral,unknown,Sent proposal
+DL-5114,BMW - Enterprise License,BMW Group,France,Demo Scheduled,won,49789,eur,sarah.mueller@speexx.com,2024-04-26,2024-06-17,Unknown,,Champion?
+DL-5115,Deutsche - Enterprise License,Deutsche Telekom,United States,demo,won,"€25,146",EUR,,2024-12-28,2024-12-05,referral,70,
+DL-5116,ThyssenKrupp - Enterprise License,ThyssenKrupp,IT,proposal sent,closed won,24802,,ana.garcia@speexx.com,2024-05-16,2024-11-07,Email Campaign,20,follow up
+DL-5117,Continental - Enterprise License,Continental,USA,Negotiation,CLOSED LOST,,GBP,marie.dupont@speexx.com,2023-11-23,2024-01-05,direct,70,no champion
+DL-5118,Deutsche - Enterprise License,Deutsche Telekom,GB,Proposal,Closed Won,9825.0,€,,2024-02-23,23.03.2024,Unknown,50,Awaiting legal review
+DL-5119,Zalando - Enterprise License,Zalando SE,france,demo scheduled,CLOSED LOST,24670.0,USD,james.wilson@speexx.com,2023-02-16,2023-05-19,organic search,10,tbd
+DL-5120,BASF - Enterprise License,BASF SE,spain,Won,sql,4550.0,GBP,Unassigned,2023-04-03,2023-07-11,direct,30,Awaiting legal review
+DL-5121,volkswagen - Enterprise License,volkswagen,United states,demo scheduled,marketing qualified lead,,GBP,,2024-02-28,2024-05-07,linkedin,70,sent proposal
+DL-5122,SIEMENS - Enterprise License,SIEMENS AG,Switzerland,demo scheduled,Closed Won,5267,EUR,Unassigned,2023-08-24,2024-02-15,Direct,20,FOLLOW UP
+DL-5123,Allianz - Enterprise License,Allianz SE,United Kingdom,Won,Sales Qualified Lead,24655,€,,2024-05-31,2024-05-07,unknown,10,sent proposal
+DL-5124,,BMW AG,UK,Lost,Closed Lost,24885,€,luca.bianchi@speexx.com,2024-04-14,2024-06-18,unknown,50,awaiting legal
+DL-5125,SIEMENS - Enterprise License,SIEMENS AG,United Kingdom,Won,LEAD,49963,eur,luca.bianchi@speexx.com,2024-05-23,2024-09-14,PPC,unknown,sent proposal
+DL-5126,volkswagen - Enterprise License,volkswagen,Italy,discovery,Marketing Qualified Lead,,EUR,Ana Garcia,2023-05-28,2023-11-19,n/a,,
+DL-5127,Merck - Enterprise License,Merck,Netherlands,demo,Lead,10258,GBP,Unassigned,2023-08-27,25.09.2023,Referral,,tbd
+DL-5128,ThyssenKrupp - Enterprise License,ThyssenKrupp,France,Lost,marketing qualified lead,EUR 9972,GBP,Marie Dupont,2024-07-12,30.11.2024,google ads,10,follow up
+DL-5129,E.ON - Enterprise License,E.ON,United states,discovery,Won,4934.0,EUR,Marie Dupont,2023-05-05,2023-06-30,EMAIL,90,Follow up next week
+DL-5130,bmw - Enterprise License,bmw,Spain,demo,SQL,,€,Luca Bianchi,2023-05-01,2023-09-03,Event,,Champion?
+DL-5131,BMW - Enterprise License,BMW Group,Spain,Proposal,won,-1,,sarah.mueller@speexx.com,2024-04-28,2024-09-07,LinkedIn Ads,30,Champion identified
+DL-5132,,Allianz SE,AUSTRIA,Demo,CLOSED WON,50050.0,EUR,Sarah Mueller,2023-01-06,2023-04-09,referral,80,
+DL-5133,Siemens - Enterprise License,Siemens AG,ITALY,negotiation,Closed Lost,24813,eur,Sarah Mueller,2023-07-17,2023-10-09,PPC,50,sent proposal
+DL-5134,SAP - Enterprise License,SAP,PL,closed won,CLOSED LOST,25284,€,,2023-09-27,2024-03-03,n/a,50,follow up
+DL-5135,,Siemens AG,Deutschland,closed lost,CUSTOMER,4668.0,EUR,james.wilson@speexx.com,2023-08-26,2023-11-03,,90,
+DL-5136,Thyssenkrupp - Enterprise License,Thyssenkrupp AG,United States,discovery,Opp,9902,€,Unassigned,2023-12-01,2024-03-01,,20,Champion?
+DL-5137,Deutsche - Enterprise License,Deutsche Telekom,ITALY,DISCOVERY,lost,75073.0,EUR,Luca Bianchi,2023-06-20,2023-12-13,WEBINAR,30,Follow up next week
+DL-5138,Deutsche - Enterprise License,Deutsche Lufthansa AG,Holland,Demo,Opp,-1,EUR,,2024-04-22,2024-08-02,Organic Search,50,Champion identified
+DL-5139,Deutsche - Enterprise License,Deutsche Lufthansa AG,Germany,Proposal,CLOSED LOST,0,€,sarah.mueller@speexx.com,2024-06-22,2024-06-12,n/a,90,Follow up next week
+DL-5140,Delivery - Enterprise License,Delivery Hero SE,United States,prospecting,CLOSED LOST,150343,,luca.bianchi@speexx.com,2024-12-22,2025-03-10,PPC,10,Awaiting legal review
+DL-5141,SIEMENS - Enterprise License,SIEMENS AG,france,Demo Scheduled,mql,74634,,marie.dupont@speexx.com,2024-09-19,2024-11-11,Webinar,20,TBD
+DL-5142,eon - Enterprise License,eon,Spain,Prospecting,CUSTOMER,,USD,Luca Bianchi,2023-10-12,14.12.2023,email,90,TBD
+DL-5143,HelloFresh - Enterprise License,HelloFresh SE,italy,closed won,CLOSED LOST,4773,eur,Marie Dupont,2024-11-16,2024-12-15,LinkedIn Ads,unknown,
+DL-5144,,Siemens AG,england,discovery,Marketing Qualified Lead,,EUR,,2023-11-15,2024-02-07,paid search,30,Awaiting legal review
+DL-5145,MERCK - Enterprise License,MERCK KGAA,Italy,Prospecting,opportunity,9883.0,eur,Marie Dupont,2024-10-03,2024-10-22,google ads,70,Follow up next week
+DL-5146,BASF - Enterprise License,BASF SE,spain,DISCOVERY,sql,24923,€,james.wilson,2024-12-23,2025-03-20,Partner Referral,20,Champion identified
+DL-5147,Lufthansa - Enterprise License,Lufthansa Group,germany,Lost,Customer,25349 EUR,GBP,james.wilson@speexx.com,2024-08-15,2024-11-30,Referral,90,Awaiting legal review
+DL-5148,,Zalando,ES,closed won,Opportunity,25260,eur,luca.bianchi@speexx.com,2024-11-29,2025-02-24,Google Ads,,
+DL-5149,Zalando - Enterprise License,Zalando SE,germany,Closed Lost,OPPORTUNITY,10077,EUR,marie.dupont@speexx.com,2023-07-10,2023-11-22,Organic Search,30,awaiting legal
+DL-5150,Thyssenkrupp - Enterprise License,Thyssenkrupp AG,SPAIN,discovery,LEAD,4866,EUR,luca.bianchi@speexx.com,2023-12-09,2024-03-18,N/A,,Champion?
+DL-5151,Delivery - Enterprise License,Delivery Hero SE,United Kingdom,demo scheduled,opportunity,"€9,882",EUR,,2024-03-21,2024-07-15,unknown,20,awaiting legal
+DL-5152,Henkel - Enterprise License,Henkel,United states,Prospecting,Sales Qualified Lead,0,EUR,james.wilson@speexx.com,2023-10-03,2024-03-12,organic,20,sent proposal
+DL-5153,BOSCH - Enterprise License,BOSCH,Italia,NEGOTIATION,Marketing Qualified Lead,4651,EUR,J. Wilson,2023-12-21,2024-04-30,Email Campaign,20,
+DL-5154,DT - Enterprise License,DT AG,SWITZERLAND,proposal sent,Closed Won,4663,eur,,2023-06-07,2023-11-10,Email,100,
+DL-5155,DT - Enterprise License,DT AG,GB,DISCOVERY,CLOSED LOST,0,GBP,Luca Bianchi,2023-04-09,31.07.2023,Unknown,unknown,
+DL-5156,MERCK - Enterprise License,MERCK KGAA,Germany,Demo Scheduled,CLOSED LOST,49877,GBP,,2023-01-28,08.04.2023,referral,30,Champion identified
+DL-5157,sap - Enterprise License,sap se,Italia,Discovery,Closed Won,10169,,sarah.mueller@speexx.com,2023-02-15,2023-04-24,EMAIL,30,follow up
+DL-5158,basf - Enterprise License,basf,United Kingdom,NEGOTIATION,New Lead,EUR 74854,EUR,james.wilson@speexx.com,2024-11-29,2025-04-24,unknown,90,
+DL-5159,Continental - Enterprise License,Continental,AT,Negotiation,marketing qualified lead,9555,,Luca Bianchi,2023-01-12,2023-05-30,n/a,80,TBD
+DL-5160,,eon,Germany,negotiation,OPPORTUNITY,,€,J. Wilson,2024-01-09,2024-02-20,N/A,90,Follow up next week
+DL-5161,Continental - Enterprise License,Continental,ITALY,Closed Won,closed won,,USD,marie.dupont@speexx.com,2023-10-16,2023-11-09,organic search,,sent proposal
+DL-5162,SAP - Enterprise License,SAP,germany,NEGOTIATION,Closed Lost,10151,GBP,J. Wilson,2023-10-28,2024-02-10,PPC,30,
+DL-5163,BOSCH - Enterprise License,BOSCH,United states,demo,closed lost,EUR 9969,,sarah.mueller@speexx.com,2024-10-10,27.02.2025,Event,10,follow up
+DL-5164,Fresenius - Enterprise License,Fresenius SE,GERMANY,Discovery,sql,10152,€,Marie Dupont,2024-10-15,2024-11-23,paid search,90,FOLLOW UP
+DL-5165,sap - Enterprise License,sap se,DE,closed lost,Opp,25374,,J. Wilson,2024-08-07,2024-10-26,Email Campaign,70,
+DL-5166,Delivery - Enterprise License,Delivery Hero SE,Germany,prospecting,closed won,25431,eur,sarah.mueller@speexx.com,2023-07-10,2023-10-02,google ads,70,sent proposal
+DL-5167,,Continental,IT,demo scheduled,lead,10226,,l.bianchi@speexx.com,2024-09-05,2025-02-28,webinar,,awaiting legal
+DL-5168,Thyssenkrupp - Enterprise License,Thyssenkrupp AG,USA,Proposal,Sales Qualified Lead,9955,EUR,marie.dupont@speexx.com,2024-07-25,2024-08-11,email,10,
+DL-5169,Merck - Enterprise License,Merck,IT,proposal sent,LEAD,-1,USD,luca.bianchi@speexx.com,2023-03-22,2023-09-13,organic search,30,Champion?
+DL-5170,MERCK - Enterprise License,MERCK KGAA,Poland,negotiation,lead,10283,,J. Wilson,2023-06-20,2023-12-10,google ads,90,Champion?
+DL-5171,Bosch - Enterprise License,Bosch GmbH,United Kingdom,discovery,Closed Lost,,GBP,ana.garcia@speexx.com,2023-04-10,2023-08-03,EMAIL,,sent proposal
+DL-5172,VW - Enterprise License,VW AG,Espana,Lost,customer,49825.0,GBP,luca.bianchi@speexx.com,2024-01-07,2024-06-30,direct,100,follow up
+DL-5173,SAP - Enterprise License,SAP,Holland,Proposal,closed lost,50171,GBP,Ana Garcia,2024-02-14,2024-01-18,organic search,,Sent proposal
+DL-5174,,Robert Bosch GmbH,AUSTRIA,Discovery,Sales qualified,25249.0,EUR,l.bianchi@speexx.com,2024-09-16,2025-03-07,paid search,80,Follow up next week
+DL-5175,Fresenius - Enterprise License,Fresenius SE,Italy,Demo,sql,74665.0,,,2024-10-31,2025-02-21,LINKEDIN,80,follow up
+DL-5176,bmw - Enterprise License,bmw,SPAIN,NEGOTIATION,CLOSED WON,"€25,200",EUR,,2023-03-08,2023-03-29,webinar,30,Sent proposal
+DL-5177,,Continental,UK,negotiation,Opportunity,,EUR,Marie Dupont,2023-03-13,2023-03-28,organic search,100,Champion identified
+DL-5178,siemens - Enterprise License,siemens,United kingdom,prospecting,closed won,0,EUR,Sarah Mueller,2023-10-27,2024-02-19,Partner Referral,,tbd
+DL-5179,Bosch - Enterprise License,Bosch GmbH,FRANCE,Proposal,OPPORTUNITY,4748,EUR,luca.bianchi@speexx.com,2023-06-23,2023-10-08,Unknown,50,tbd
+DL-5180,BMW - Enterprise License,BMW Group,germany,Proposal,LEAD,50216,EUR,james.wilson@speexx.com,2023-12-17,2024-03-15,organic search,50,Awaiting legal review
+DL-5181,Merck - Enterprise License,Merck,IT,Demo Scheduled,SQL,24812.0,EUR,james.wilson@speexx.com,2024-01-07,2024-04-04,Email,70,
+DL-5182,Deutsche - Enterprise License,Deutsche Telekom AG,United states,DISCOVERY,Closed Won,24765,,l.bianchi@speexx.com,2023-01-29,2023-04-07,WEBINAR,unknown,follow up
+DL-5183,MERCK - Enterprise License,MERCK KGAA,United States,Negotiation,sql,74996 EUR,,,2024-05-28,2024-08-30,Paid Search,80,Sent proposal
+DL-5184,Volkswagen - Enterprise License,Volkswagen AG,USA,closed lost,CLOSED WON,50308,EUR,Unassigned,2023-07-31,2023-10-10,,50,
+DL-5185,sap - Enterprise License,sap se,u.s.,discovery,customer,150019,EUR,,2024-01-08,30.01.2024,,50,Sent proposal
+DL-5186,BMW - Enterprise License,BMW Group,italy,demo scheduled,Closed Lost,49967,€,Sarah Mueller,2023-07-07,2024-01-03,Paid Search,30,no champion
+DL-5187,Volkswagen - Enterprise License,Volkswagen AG,DE,Closed Lost,OPPORTUNITY,49988.0,EUR,J. Wilson,2023-03-04,2023-05-10,,20,Champion identified
+DL-5188,sap - Enterprise License,sap se,france,closed lost,lead,25082,,,2023-04-13,2023-09-12,N/A,10,sent proposal
+DL-5189,Henkel - Enterprise License,Henkel AG,Italia,Demo Scheduled,Opportunity,9994.0,eur,ana.garcia@speexx.com,2024-09-07,2024-11-29,unknown,70,
+DL-5190,Continental - Enterprise License,Continental AG,Deutschland,Proposal,LEAD,100021.0,GBP,marie.dupont@speexx.com,2023-04-25,2023-06-24,,80,
+DL-5191,HelloFresh - Enterprise License,HelloFresh,United states,discovery,Won,49718,EUR,marie.dupont@speexx.com,2024-07-05,2024-09-03,Referral,,
+DL-5192,BOSCH - Enterprise License,BOSCH,Netherlands,Negotiation,won,50372,,marie.dupont@speexx.com,2023-11-28,2024-01-21,EMAIL,70,Sent proposal
+DL-5193,BMW - Enterprise License,BMW Group,Italia,Proposal Sent,closed won,,GBP,,2024-04-28,2024-07-28,email,10,awaiting legal
+DL-5194,Lufthansa - Enterprise License,Lufthansa Group,ITALY,demo,opportunity,5221,USD,sarah.mueller@speexx.com,2024-10-23,2024-12-11,Email,80,no champion
+DL-5195,Merck - Enterprise License,Merck KGaA,United States,NEGOTIATION,lead,74609,,sarah.mueller@speexx.com,2023-07-24,2023-10-01,Email,100,Sent proposal
+DL-5196,BMW - Enterprise License,BMW AG,IT,discovery,marketing qualified lead,4850,,james.wilson@speexx.com,2024-09-13,2025-02-24,Paid Search,80,tbd
+DL-5197,Henkel - Enterprise License,Henkel AG,u.s.,Closed Lost,LEAD,4590.0,€,Luca Bianchi,2023-06-05,2023-07-27,direct,10,follow up
+DL-5198,Allianz - Enterprise License,Allianz SE,Netherlands,proposal sent,CLOSED WON,99956,eur,luca.bianchi@speexx.com,2024-12-17,2025-03-21,LINKEDIN,unknown,
+DL-5199,BMW - Enterprise License,BMW Group,USA,Prospecting,New Lead,5157.0,EUR,Unassigned,2023-09-19,2024-03-05,unknown,80,Follow up next week
+DL-5200,Merck - Enterprise License,Merck,Deutschland,Proposal,lead,50003,EUR,l.bianchi@speexx.com,2024-03-23,2024-04-14,Google Ads,,follow up
+DL-5201,E.ON - Enterprise License,E.ON SE,GB,closed lost,Customer,49695,€,luca.bianchi@speexx.com,2023-03-31,2023-09-07,LinkedIn,unknown,Awaiting legal review
+DL-5202,Allianz - Enterprise License,Allianz SE,GERMANY,NEGOTIATION,Closed Won,25209,€,sarah.mueller@speexx.com,2023-07-06,2024-01-01,Email,10,Follow up next week
+DL-5203,Deutsche - Enterprise License,Deutsche Telekom AG,CH,demo scheduled,Sales Qualified Lead,25286,USD,,2023-11-27,2024-03-29,LinkedIn,50,tbd
+DL-5204,BOSCH - Enterprise License,BOSCH,u.s.,Prospecting,Opp,,EUR,ana.garcia@speexx.com,2023-07-31,2023-10-31,referral,unknown,Sent proposal
+DL-5205,sap - Enterprise License,sap se,FR,demo,CUSTOMER,10441,,Sarah Mueller,2023-11-07,2024-01-01,Email,10,Champion identified
+DL-5206,Deutsche - Enterprise License,Deutsche Telekom,France,Negotiation,sql,5289,EUR,james.wilson@speexx.com,2024-01-25,2024-02-20,Google Ads,100,
+DL-5207,Fresenius - Enterprise License,Fresenius SE,US,Demo,marketing qualified lead,250318.0,,sarah.mueller@speexx.com,2024-01-02,06.04.2024,EMAIL,90,TBD
+DL-5208,ALLIANZ - Enterprise License,ALLIANZ,France,Discovery,Lost,10368 EUR,GBP,,2023-12-30,2024-04-14,Direct,unknown,Awaiting legal review
+DL-5209,Siemens - Enterprise License,Siemens ag,germany,Prospecting,mql,4659,eur,Unassigned,2023-05-25,2023-08-10,direct,80,Champion?
+DL-5210,Henkel - Enterprise License,Henkel AG,The Netherlands,closed won,CUSTOMER,150259,EUR,,2023-06-11,2023-10-10,Unknown,50,sent proposal
+DL-5211,basf - Enterprise License,basf,United States,demo,mql,24529,EUR,,2024-10-02,2025-01-19,Email,,
+DL-5212,,E.ON,United States,proposal sent,CLOSED WON,99594.0,GBP,Unassigned,2023-06-23,2023-08-16,,30,TBD
+DL-5213,Fresenius - Enterprise License,Fresenius SE,The Netherlands,Closed Won,CLOSED LOST,99763,EUR,luca.bianchi@speexx.com,2024-10-14,2024-10-28,LINKEDIN,30,Sent proposal
+DL-5214,E.ON - Enterprise License,E.ON SE,FRANCE,Discovery,Sales qualified,50234.0,eur,james.wilson,2023-05-13,2023-07-02,DIRECT,80,
+DL-5215,Continental - Enterprise License,Continental,GB,Closed Lost,Opp,249773,EUR,l.bianchi@speexx.com,2024-11-15,2025-04-29,ORGANIC,90,
+DL-5216,siemens - Enterprise License,siemens,POLAND,prospecting,Won,74743,,Unassigned,2023-07-22,2023-07-01,email,100,Sent proposal
+DL-5217,Continental - Enterprise License,Continental,NETHERLANDS,discovery,CUSTOMER,50171,EUR,james.wilson,2024-09-28,2024-12-18,Unknown,,Champion identified
+DL-5218,,HelloFresh SE,u.s.,demo,SQL,4874.0,EUR,J. Wilson,2023-04-09,2023-07-19,Google Ads,20,no champion
+DL-5219,,Delivery Hero,US,Proposal Sent,sql,-1,GBP,Unassigned,2023-10-30,2023-12-15,unknown,50,follow up
+DL-5220,HelloFresh - Enterprise License,HelloFresh,United states,proposal sent,mql,25298,USD,Luca Bianchi,2023-08-16,2023-09-03,,30,Awaiting legal review
+DL-5221,SAP - Enterprise License,SAP SE,AUSTRIA,closed lost,closed won,10452,eur,james.wilson,2023-04-13,08.06.2023,email,70,awaiting legal
+DL-5222,E.ON - Enterprise License,E.ON,Poland,DISCOVERY,lost,49807,€,J. Wilson,2024-03-07,2024-07-20,Paid Search,10,tbd
+DL-5223,Henkel - Enterprise License,Henkel AG,United Kingdom,Demo Scheduled,New Lead,-1,EUR,marie.dupont@speexx.com,2023-05-24,2023-07-13,LINKEDIN,50,TBD
+DL-5224,Lufthansa - Enterprise License,Lufthansa Group,SWITZERLAND,demo,SQL,4911,eur,luca.bianchi@speexx.com,2023-03-14,2023-05-24,Direct,80,Follow up next week
+DL-5225,Zalando - Enterprise License,Zalando SE,Italia,discovery,Customer,50112.0,EUR,Luca Bianchi,2023-05-01,2023-09-25,N/A,30,FOLLOW UP
+DL-5226,volkswagen - Enterprise License,volkswagen,USA,demo,LEAD,4977.0,€,J. Wilson,2023-10-06,2023-10-30,paid search,,Champion?
+DL-5227,Deutsche - Enterprise License,Deutsche Lufthansa AG,italy,negotiation,CUSTOMER,10153,€,marie.dupont@speexx.com,2023-09-05,2024-01-23,EMAIL,unknown,TBD
+DL-5228,BMW - Enterprise License,BMW Group,italy,Closed Won,marketing qualified lead,10006,,Luca Bianchi,2024-01-01,2023-12-09,Email,,no champion
+DL-5229,HelloFresh - Enterprise License,HelloFresh SE,france,Closed Lost,LEAD,-1,eur,ana.garcia@speexx.com,2024-01-27,2024-02-20,EMAIL,90,
+DL-5230,Siemens - Enterprise License,Siemens ag,AT,NEGOTIATION,lead,25035,GBP,marie.dupont@speexx.com,2023-12-22,2024-06-18,Referral,,follow up
+DL-5231,SIEMENS - Enterprise License,SIEMENS AG,NL,negotiation,Customer,75246.0,USD,ana.garcia@speexx.com,2024-10-07,2025-01-13,REFERRAL,70,Champion identified
+DL-5232,siemens - Enterprise License,siemens,Poland,Lost,Lost,10312,USD,Marie Dupont,2023-11-29,2024-04-08,WEBINAR,30,TBD
+DL-5233,ThyssenKrupp - Enterprise License,ThyssenKrupp,Italia,Won,marketing qualified lead,-1,EUR,marie.dupont@speexx.com,2023-04-02,2023-07-10,Unknown,unknown,follow up
+DL-5234,BASF - Enterprise License,BASF SE,Spain,Closed Won,sql,10325.0,USD,sarah.mueller@speexx.com,2023-07-27,2023-10-16,DIRECT,,
+DL-5235,Zalando - Enterprise License,Zalando,France,Won,Lead,EUR 5133,GBP,Unassigned,2024-07-27,2024-10-24,webinar,,Awaiting legal review
+DL-5236,basf - Enterprise License,basf,United kingdom,Proposal Sent,Customer,25494,EUR,J. Wilson,2023-05-17,2023-09-06,Direct,10,Champion identified
+DL-5237,,Deutsche Telekom AG,Italy,demo scheduled,MQL,10331,,Unassigned,2024-12-12,2025-02-20,LINKEDIN,90,follow up
+DL-5238,E.ON - Enterprise License,E.ON,ITALY,Negotiation,closed won,50223,USD,ana.garcia@speexx.com,2024-08-17,2024-12-11,REFERRAL,80,no champion
+DL-5239,Lufthansa - Enterprise License,Lufthansa Group,US,demo scheduled,Lead,50092,,Luca Bianchi,2023-03-20,2023-05-07,referral,80,
+DL-5240,Delivery - Enterprise License,Delivery Hero SE,United kingdom,demo scheduled,Won,,GBP,Sarah Mueller,2024-10-22,2025-03-26,linkedin,10,no champion
+DL-5241,Continental - Enterprise License,Continental AG,Deutschland,proposal sent,lead,25223,€,l.bianchi@speexx.com,2024-07-26,2025-01-22,organic search,,Champion identified
+DL-5242,Henkel - Enterprise License,Henkel,NETHERLANDS,Demo,Sales qualified,49817.0,GBP,james.wilson@speexx.com,2024-12-22,2025-02-08,Webinar,10,Champion?
+DL-5243,siemens - Enterprise License,siemens,spain,Discovery,Sales qualified,25042.0,EUR,Unassigned,2024-12-30,2025-04-14,Unknown,20,Awaiting legal review
+DL-5244,Allianz - Enterprise License,Allianz Se,NETHERLANDS,Negotiation,sql,EUR 74890,EUR,james.wilson,2023-04-07,2023-08-02,Email Campaign,70,Champion identified
+DL-5245,Allianz - Enterprise License,Allianz Se,FRANCE,demo scheduled,won,10162 EUR,€,sarah.mueller@speexx.com,2023-07-08,2023-09-26,organic,,Follow up next week
+DL-5246,,HelloFresh,POLAND,closed won,closed lost,4834,USD,Unassigned,2024-01-18,25.02.2024,LinkedIn Ads,50,
+DL-5247,Fresenius - Enterprise License,Fresenius,POLAND,proposal sent,sql,0,,Marie Dupont,2024-05-25,2024-07-24,LinkedIn Ads,,follow up
+DL-5248,Continental - Enterprise License,Continental AG,SWITZERLAND,discovery,sql,0,EUR,,2023-02-01,2023-01-14,LINKEDIN,,follow up
+DL-5249,Fresenius - Enterprise License,Fresenius,Poland,Won,Marketing Qualified Lead,75302.0,USD,J. Wilson,2023-12-12,2024-04-20,REFERRAL,100,Sent proposal

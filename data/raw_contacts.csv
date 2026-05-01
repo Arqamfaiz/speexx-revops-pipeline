@@ -1,421 +1,421 @@
-contact_id	first_name	last_name	email	phone	company	country	lifecycle_stage	lead_source	owner	created_date	last_activity_date	opted_out
-CTX-1000	Thomas	Mueller	thomas.mueller@bmw.com	4985329037	BMW AG	Italy	CLOSED WON	Direct		8/17/2023	11/6/2023	yes
-CTX-1001	Peter	Weber	peter.weber@bosch.com	0649-3094235	BOSCH	ES	mql	referral		12/11/2023	1/20/2024	FALSE
-CTX-1002	Thomas	Wagner	thomas.wagner@bmw.com		BMW AG	england	Customer	organic	J. Wilson	10/12/2024	3/22/2025	yes
-CTX-1003	Sarah	Schmidt	sarah.schmidt@deutsche.com	N/A	Deutsche Telekom	POLAND	Marketing Qualified Lead	organic	Unassigned	11/19/2023	10/5/2024	TRUE
-CTX-1004	Maria	Hoffmann	maria.hoffmann@	+49 796 2921859	Allianz SE	Holland	lead	Partner Referral	Luca Bianchi	1/26/2024	10/11/2024	FALSE
-CTX-1005	Sarah	Richter	sarah.richter	0600-1326765	Fresenius SE	spain	lead	Unknown	Unassigned	6/6/2023	3/4/2024	TRUE
-CTX-1006	Julia	Becker	julia.becker@merck.com	4979467853	Merck KGaA	Spain	Marketing Qualified Lead	webinar	sarah.mueller@speexx.com	9/29/2023	1/24/2024	FALSE
-CTX-1007	Anna	Schmidt	anna.schmidt@delivery.com	4942614537	Delivery Hero	AT	marketing qualified lead	PPC	marie.dupont@speexx.com	3/2/2023	10/4/2023	yes
-CTX-1008	David	Mueller	david.mueller@hellofresh.com	N/A	HelloFresh	Switzerland	New Lead	PPC	sarah.mueller@speexx.com	10/23/2024	7/26/2025	TRUE
-CTX-1009	Thomas	Fischer	thomas.fischer@sap.com	4984593961	SAP SE	UK	opportunity	Referral	sarah.mueller@speexx.com	5/12/2024	2/13/2025	TRUE
-CTX-1010	Peter	Mueller	peter.mueller@siemens.com	0709-2140194	siemens	PL	closed won		ana.garcia@speexx.com	5/3/2024	8/15/2024	0
-CTX-1011	Michael	Weber	michael.weber@basf.com		basf	FR	opportunity	linkedin	luca.bianchi@speexx.com	11/18/2024	11/13/2025	1
-CTX-1012	Stefan	Richter	stefan.richter@siemens.com	N/A	Siemens AG	CH	Opportunity	organic	Sarah Mueller	7/21/2024	12/9/2024	TRUE
-CTX-1013	Anna	Meyer	anna.meyer@robert.com	4.9888E+11	Robert Bosch GmbH	AT	mql	DIRECT	ana.garcia@speexx.com	9/26/2023	10/16/2023	0
-CTX-1014	Michael	Fischer	michael.fischer@hellofresh.com	4913326769	HelloFresh SE	FRANCE	Opportunity	linkedin		12/29/2023	7/11/2024	TRUE
-CTX-1015	David		david.fischer@sap.com		sap se	england	MQL	Google Ads		12/25/2023	3/25/2024	1
-CTX-1016	Anna	Schmidt	anna.schmidt@fresenius.com		Fresenius SE	GB	closed won	Paid Search	marie.dupont@speexx.com	12/20/2023	11/3/2024	0
-CTX-1017	Thomas	Weber	thomas.weber@eon.com		E.ON SE	Italia	CLOSED WON		luca.bianchi@speexx.com	11/13/2024	8/1/2025	no
-CTX-1018	Julia	Schmidt	julia.schmidt@bmw.com		bmw	US	CUSTOMER	LINKEDIN	Marie Dupont	11/10/2024	7/21/2025	yes
-CTX-1019	Michael	Schneider	michael.schneider@zalando.com	N/A	Zalando	Germany	CLOSED LOST	unknown	Ana Garcia	4/20/2023	1/25/2024	no
-CTX-1020	Julia	Becker	julia.becker@continental.com	4.96302E+11	Continental AG	ITALY	SQL	referral	Ana Garcia	9/11/2023	9/6/2024	FALSE
-CTX-1021	Thomas	Wagner	thomas.wagner@henkel.com	tba	Henkel AG	NETHERLANDS	lead	referral	luca.bianchi@speexx.com	7/9/2024	2/17/2025	no
-CTX-1022	Anna	Wagner		+49 646 1452421	volkswagen	CH	Opportunity	Email	ana.garcia@speexx.com	11/26/2024	5/12/2025	0
-CTX-1023	Maria	Weber	maria.weber@henkel.com	4936757737	Henkel AG	ITALY	SQL	n/a	marie.dupont@speexx.com	3/25/2023	7/14/2023	no
-CTX-1024	Sarah	Meyer	sarah.meyer@sap.com	706 4978 2669	SAP SE	Austria	customer	Google Ads		9/13/2024	10/4/2024	0
-CTX-1025	Laura	Wagner	laura.wagner@hellofresh.com	N/A	HelloFresh SE	The Netherlands	CLOSED WON	Email Campaign	Unassigned	3/12/2023	7/27/2023	0
-CTX-1026	Michael	Schmidt	michael.schmidt@bmw.com	tba	BMW AG	United kingdom	Sales Qualified Lead	paid search	J. Wilson	9/7/2023	5/14/2024	
-CTX-1027	Michael	Becker	michael.becker@zalando.com	438 6764 8434	Zalando	USA	opportunity	Partner Referral	J. Wilson	4/3/2024	7/10/2024	0
-CTX-1028	Thomas	Richter	thomas.richter@delivery.com	tba	Delivery Hero SE	SPAIN	SQL	Direct	sarah.mueller@speexx.com	7/16/2023	4/24/2024	1
-CTX-1029	Julia	Becker	julia.becker@allianz.com	4.97016E+11	ALLIANZ	Germany	New Lead	DIRECT	Sarah Mueller	8/10/2024	10/9/2024	
-CTX-1030	Maria	Hoffmann	maria.hoffmann@fresenius.com	0682-2010496	Fresenius SE	AUSTRIA	sql	REFERRAL	james.wilson@speexx.com	8/20/2023	11/8/2023	TRUE
-CTX-1031	Maria	Becker	maria.becker@delivery.com	4.92826E+11	Delivery Hero SE	Austria	Marketing Qualified Lead	organic	james.wilson@speexx.com	4/26/2024	2/24/2025	1
-CTX-1032	David	Schmidt	david.schmidt@continental.com	+49 542 6407658	Continental	Italia	LEAD	LinkedIn Ads	luca.bianchi@speexx.com	12/17/2024	7/31/2025	1
-CTX-1033	Julia	Hoffmann	julia.hoffmann@henkel.com		Henkel	AT	Opportunity	Webinar	Sarah Mueller	5/18/2024	12/10/2024	
-CTX-1034	Anna	Richter	anna.richter@continental.com	+49 308 5480460	Continental	UK	Lost	REFERRAL	Marie Dupont	2/25/2023	12/4/2023	TRUE
-CTX-1035	Laura	Wagner	laura.wagner@allianz.com	4942713008	Allianz Se	Espana	CLOSED LOST	unknown	Marie Dupont	4/27/2023	6/1/2023	1
-CTX-1036	Maria	Meyer	maria.meyer@eon.com	N/A	E.ON SE	italy	OPPORTUNITY	LINKEDIN	Marie Dupont	1/3/2023	7/18/2023	FALSE
-CTX-1037	Maria	Mueller	maria.mueller@vw.com	tba	VW AG	United States	CLOSED WON	Organic Search	Marie Dupont	12/23/2024	11/23/2025	TRUE
-CTX-1038	Thomas	Becker	thomas@bmw.com	0741-9186400	BMW Group	NETHERLANDS	closed won	PPC		9/30/2024	11/20/2024	no
-CTX-1039	Julia	Weber	julia.weber@siemens.com	4.99929E+11	SIEMENS AG	germany	Sales qualified	N/A	marie.dupont@speexx.com	11/29/2023	4/7/2024	TRUE
-CTX-1040	David	Weber		490 6881 5847	HelloFresh	u.s.	MQL	email	james.wilson	11/6/2023	7/6/2023	no
-CTX-1041	Sarah	Fischer	sarah.fischer@fresenius.com		Fresenius SE	NL	lead	google ads	Sarah Mueller	8/13/2023	1/27/2024	yes
-CTX-1042	Julia	Fischer	julia@robert.com		Robert Bosch GmbH	u.s.	customer	Event	Sarah Mueller	1/10/2024	1/17/2024	1
-CTX-1043	Laura	Schmidt	laura.schmidt@continental.com		Continental	The Netherlands	marketing qualified lead	google ads	sarah.mueller@speexx.com	11/19/2024	4/23/2025	no
-CTX-1044	Thomas	Schmidt	thomas.schmidt@dt.com		DT AG	u.s.	Sales Qualified Lead		luca.bianchi@speexx.com	5/19/2023	11/20/2023	FALSE
-CTX-1045	Peter	Richter	peter.richter@zalando.com	tba	Zalando	NL	Sales Qualified Lead	Referral	Unassigned	3/4/2023	8/19/2023	TRUE
-CTX-1046	Stefan	Mueller	stefan.mueller@bmw.com	tba	BMW AG	Francia	marketing qualified lead	Paid Search	luca.bianchi@speexx.com	5/14/2023	11/15/2023	
-CTX-1047	Stefan	Schmidt	stefan.schmidt@continental.com	N/A	Continental AG	US	Marketing Qualified Lead	paid search	ana.garcia@speexx.com	8/15/2023	9/17/2023	TRUE
-CTX-1048	Sarah	Hoffmann	sarah.hoffmann@zalando.com	N/A	Zalando SE	PL	Closed Won	EMAIL	Marie Dupont	7/15/2024	2/18/2025	0
-CTX-1049	Sarah	Meyer	sarah.meyer@bosch.com	994 7929 1842	BOSCH	SWITZERLAND	CLOSED LOST	DIRECT	ana.garcia@speexx.com	4/30/2024	1/14/2025	FALSE
-CTX-1050	Julia	Becker	julia@deutsche.com		Deutsche Telekom AG	FRANCE	MQL	LinkedIn Ads	Unassigned	12/25/2023	11/25/2024	yes
-CTX-1051	Thomas	Schneider	thomas.schneider@zalando.com	261 1815 2336	Zalando SE	GERMANY	CLOSED WON	Email Campaign	luca.bianchi@speexx.com	4/4/2023	11/2/2023	1
-CTX-1052	Michael	Richter	michael.richter@bosch.com	316 3248 5186	Bosch GmbH	NL	OPPORTUNITY	Google Ads	sarah.mueller@speexx.com	3/16/2024	10/22/2024	TRUE
-CTX-1053	Julia	Wagner	julia.wagner@eon.com	539 7626 7843	eon	Espana	marketing qualified lead	email	sarah.mueller@speexx.com	5/27/2024	8/22/2024	no
-CTX-1054	Peter	Schmidt	peter.schmidt@henkel.com	4994989976	Henkel	FRANCE	CUSTOMER	WEBINAR	ana.garcia@speexx.com	9/7/2023	8/2/2024	TRUE
-CTX-1055	Michael	Schmidt	michael.schmidt@	169 8682 8245	BOSCH	ITALY	New Lead	Direct	l.bianchi@speexx.com	22/07/2023	12/27/2023	no
-CTX-1056	David	Mueller	david.mueller@siemens.com	tba	siemens	The Netherlands	Lost	LinkedIn Ads	sarah.mueller@speexx.com	10/21/2023	6/1/2024	no
-CTX-1057	Laura	Richter	laura.richter@fresenius.com		Fresenius	Spain	Marketing Qualified Lead	LinkedIn		1/8/2024	12/8/2024	yes
-CTX-1058	Julia	Hoffmann	julia.hoffmann@delivery.com	4912446861	Delivery Hero	France	OPPORTUNITY	Unknown	J. Wilson	11/14/2023	1/23/2024	TRUE
-CTX-1059	THOMAS	Weber	thomas.weber@allianz.com	4968743530	ALLIANZ	US	CLOSED WON	direct		7/6/2024	2/20/2025	FALSE
-CTX-1060	Laura	Fischer	laura.fischer@volkswagen.com	+49 491 9437374	Volkswagen AG	United States	Lost	n/a	Unassigned	7/18/2023	9/8/2023	
-CTX-1061	Thomas	Weber	contact@allianz.com		Allianz Se	Spain	Marketing Qualified Lead	Event	J. Wilson	7/10/2023	10/6/2024	0
-CTX-1062	Julia	Schneider	julia.schneider@siemens.com	0362-4618086	Siemens ag	IT	LEAD	direct	J. Wilson	4/28/2024	5/22/2024	FALSE
-CTX-1063	Maria	Hoffmann	maria.hoffmann@continental.com	0398-8201433	Continental	Deutschland	won	Event	Sarah Mueller	4/24/2023	1/27/2024	
-CTX-1064	Laura	Richter	laura.richter@siemens.com	4.92428E+11	SIEMENS AG	Holland	Customer	N/A	Marie Dupont	4/26/2024	7/28/2024	TRUE
-CTX-1065	THOMAS	Becker	thomas.becker@siemens.com	982 1783 6438	Siemens ag	IT	marketing qualified lead	Event	Ana Garcia	7/26/2023	3/7/2024	yes
-CTX-1066	Peter	Schneider	peter.schneider@thyssenkrupp.com	N/A	ThyssenKrupp	USA	CLOSED LOST	Email Campaign	james.wilson@speexx.com	1/12/2024	7/9/2024	no
-CTX-1067	Anna	Meyer	anna.meyer@fresenius.com		Fresenius	GB	Closed Won	ORGANIC	l.bianchi@speexx.com	10/9/2023	5/26/2024	0
-CTX-1068	Peter	Becker	peter.becker@allianz.com	4945135070	Allianz SE	POLAND	CLOSED LOST	direct	Marie Dupont	5/21/2023	1/27/2024	FALSE
-CTX-1069	Thomas	Schneider	thomas@allianz.com	N/A	Allianz SE	United kingdom	MQL	Event	Luca Bianchi	6/26/2023	2/20/2024	
-CTX-1070	Julia	Hoffmann	julia.hoffmann@allianz.com	4.93759E+11	Allianz Se	Deutschland	CUSTOMER	LinkedIn Ads		11/13/2023	6/21/2024	
-CTX-1071	Anna	Schmidt	anna.schmidt@	0356-4293399	E.ON	Francia	won	linkedin	l.bianchi@speexx.com	11/8/2023	1/25/2024	TRUE
-1072	STEFAN	Hoffmann	stefan.hoffmann@volkswagen.com	N/A	volkswagen	POLAND	Sales qualified	email	james.wilson	2/12/2023	1/30/2024	TRUE
-CTX-1073	Julia	Becker	julia.becker@henkel.com	4979119463	Henkel AG	United States	CLOSED WON	Google Ads	james.wilson	4/20/2024	7/1/2024	FALSE
-CTX-1074	Anna	Weber	anna.weber@basf.com	0881-3673322	BASF SE	AUSTRIA	Closed Won	unknown	luca.bianchi@speexx.com	3/4/2024	6/22/2024	0
-CTX-1075	Anna	Mueller	anna@bmw.com	tba	bmw	USA	Sales Qualified Lead	Event	Luca Bianchi	9/3/2024	3/19/2025	
-CTX-1076	David	Richter		4.97482E+11	BMW AG	AUSTRIA	Lead	webinar		11/27/2024	7/18/2025	TRUE
-CTX-1077	Stefan	Richter	stefan.richter@robert.com		Robert Bosch GmbH	Netherlands	closed lost	DIRECT		9/19/2024	9/6/2025	TRUE
-CTX-1078	Stefan	Becker	stefan.becker@bmw.com		BMW Group	Switzerland	closed won	LinkedIn	Ana Garcia	8/15/2024	3/13/2025	
-CTX-1079	Stefan	Becker	stefan.becker@siemens.com	4996343485	siemens	FR	Sales qualified	Direct	Luca Bianchi	6/15/2024	11/14/2024	1
-CTX-1080	Michael	Becker	michael.becker@vw.com		VW AG	United States	CLOSED WON	Partner Referral	Marie Dupont	12/24/2023	4/5/2024	
-CTX-1081	Sarah	Richter	contact@delivery.com	tba	Delivery Hero SE	italy	sql	EMAIL	marie.dupont@speexx.com	5/21/2023	1/19/2024	no
-CTX-1082	Michael	Weber	michael.weber@vw.com	906 9116 4052	VW AG	IT	CUSTOMER	ORGANIC	sarah.mueller@speexx.com	10/23/2024	8/27/2025	FALSE
-CTX-1083	Peter	Weber	peter.weber@continental.com		Continental	Switzerland	New Lead	direct	l.bianchi@speexx.com	7/10/2024	10/16/2024	TRUE
-CTX-1084	Stefan	Wagner	stefan.wagner@henkel.com	437 5947 1187	Henkel	US	Lost	Event	Marie Dupont	12/2/2023	11/7/2024	FALSE
-CTX-1085	David	Weber	david.weber@sap.com	tba	SAP SE	United Kingdom	Won	Referral		12/3/2024	10/4/2025	FALSE
-CTX-1086	Laura	Becker	laura.becker@eon.com	tba	E.ON	The Netherlands	CLOSED WON	organic	luca.bianchi@speexx.com	3/21/2023	10/19/2023	no
-CTX-1087	Stefan	Mueller	stefan.mueller@merck.com	170 8734 1519	Merck KGaA	england	closed won	LinkedIn Ads		11/19/2024	10/13/2025	yes
-CTX-1088	Peter	Wagner	info@continental.com	954 1056 1372	Continental AG	Holland	CLOSED WON	Email Campaign	Luca Bianchi	1/20/2024	5/16/2024	FALSE
-CTX-1089	David	Meyer	david.meyer@bosch.com	4989717834	BOSCH	italy	lead	ORGANIC	Ana Garcia	7/13/2023	4/14/2024	FALSE
-CTX-1090	Anna	Schneider	anna.schneider@eon.com	tba	E.ON SE	IT	closed lost	LinkedIn Ads	marie.dupont@speexx.com	8/28/2023	6/7/2024	no
-CTX-1091	Anna	Meyer	anna.meyer@zalando.com	tba	Zalando	CH	won	google ads	Ana Garcia	1/26/2024	5/9/2024	0
-CTX-1092	Thomas	Becker	thomas.becker@deutsche.com	4954689713	Deutsche Lufthansa AG	France	lead	Google Ads	Marie Dupont	7/2/2024	3/4/2025	FALSE
-CTX-1093	Stefan	Fischer	stefan.fischer@basf.com	+49 468 9603633	basf	Italy	closed lost	referral	Marie Dupont	7/19/2024	11/29/2024	
-CTX-1094	Stefan	Hoffmann	stefan.hoffmann@henkel.com	4.97402E+11	Henkel AG	IT	lead	Unknown	james.wilson@speexx.com	6/6/2023	3/9/2024	TRUE
-CTX-1095	Laura	Mueller	laura.mueller@allianz.com	+49 109 4669507	Allianz SE	CH	MQL	EMAIL	sarah.mueller@speexx.com	19/02/2023	11/20/2023	1
-CTX-1096	Anna	Richter	anna.richter@delivery.com	4960070135	Delivery Hero SE	SWITZERLAND	opportunity	paid search	marie.dupont@speexx.com	3/16/2024	2/11/2025	TRUE
-CTX-1097	Thomas	Wagner	thomas@basf.com	+49 760 6557798	BASF SE	Holland	Marketing Qualified Lead	Direct		7/19/2024	6/20/2025	TRUE
-CTX-1098	Julia	Meyer	julia.meyer@siemens.com	tba	SIEMENS AG	ES	lead	WEBINAR	sarah.mueller@speexx.com	8/24/2024	12/20/2024	FALSE
-CTX-1099	Peter	Hoffmann	peter.hoffmann@fresenius.com	776 7227 2404	Fresenius	Austria	New Lead	REFERRAL	Marie Dupont	2/11/2024	6/27/2024	TRUE
-1100	Maria	Schneider	maria.schneider@basf.com		BASF SE	Netherlands	customer	Email	sarah.mueller@speexx.com	1/5/2024	7/21/2024	FALSE
-CTX-1101	Laura	Fischer	laura.fischer@merck.com	N/A	Merck	United states	CLOSED LOST	LINKEDIN	luca.bianchi@speexx.com	6/23/2023	11/25/2023	TRUE
-CTX-1102	Maria	Meyer	maria.meyer@fresenius.com	N/A	Fresenius	Holland	closed lost	REFERRAL	ana.garcia@speexx.com	12/4/2023	6/22/2024	0
-CTX-1103	THOMAS	Hoffmann	thomas.hoffmann@	242 5961 4965	sap se	PL	lost	LinkedIn	Marie Dupont	7/12/2024	1/21/2025	FALSE
-CTX-1104	David	Hoffmann	david.hoffmann@thyssenkrupp.com		Thyssenkrupp AG	PL	New Lead	Email Campaign	Sarah Mueller	2/15/2024	11/2/2024	
-CTX-1105	Laura	Hoffmann	laura.hoffmann@delivery.com	218 3321 6707	Delivery Hero SE	POLAND	OPPORTUNITY	N/A		8/15/2023	4/18/2024	0
-CTX-1106	David		david.schmidt@continental.com	N/A	Continental AG	United kingdom	Sales qualified	email	marie.dupont@speexx.com	11/23/2023	10/15/2024	yes
-CTX-1107	Maria	Mueller	maria.mueller@fresenius.com	0691-2707116	Fresenius	spain	Opportunity	Unknown	Luca Bianchi	4/5/2024	9/12/2024	yes
-CTX-1108	Stefan	Wagner	stefan.wagner@merck.com		MERCK KGAA	france	Lead	LinkedIn	Luca Bianchi	12/23/2023	10/23/2024	TRUE
-CTX-1109	Stefan	Wagner	stefan.wagner@henkel.com	N/A	Henkel	SPAIN	closed won	Unknown	Ana Garcia	5/13/2024	12/26/2024	no
-CTX-1110	Julia	Schmidt	julia.schmidt@merck.com	+49 860 9309978	Merck	GERMANY	LEAD		Luca Bianchi	8/14/2023	3/18/2024	FALSE
-CTX-1111	Michael	Weber	michael.weber@siemens.com	+49 342 4521171	Siemens ag	United kingdom	closed lost	WEBINAR	Luca Bianchi	9/27/2023	6/28/2024	TRUE
-CTX-1112	Peter	Weber	peter.weber@bmw.com		bmw	POLAND	Won	LinkedIn	l.bianchi@speexx.com	10/1/2023	8/17/2024	yes
-CTX-1113	Maria	Becker	maria.becker@allianz.com	tba	Allianz SE	AT	Closed Won	Referral	Ana Garcia	4/6/2023	12/15/2023	1
-CTX-1114	Peter	Weber	peter.weber@volkswagen.com		volkswagen	Poland	Sales Qualified Lead	google ads		8/14/2024	11/3/2024	1
-CTX-1115	Thomas	Meyer	thomas.meyer@bmw.com	4.94022E+11	BMW Group	France	closed lost	referral	Luca Bianchi	1/16/2024	1/20/2024	TRUE
-CTX-1116	Peter	Schmidt	peter.schmidt@henkel.com	N/A	Henkel	FR	Opp	Referral	marie.dupont@speexx.com	5/4/2024	11/30/2024	no
-CTX-1117	Michael	Schmidt	michael.schmidt@allianz.com	tba	ALLIANZ	FR	CLOSED LOST	unknown	J. Wilson	5/7/2023	10/5/2023	TRUE
-CTX-1118	Michael	Becker		0496-8060918	BASF SE	france	MQL	Partner Referral	J. Wilson	9/4/2023	3/25/2024	
-CTX-1119	Sarah	Richter	sarah.richter@henkel.com		Henkel AG	GB	lead	REFERRAL	sarah.mueller@speexx.com	12/19/2024	7/29/2025	FALSE
-CTX-1120	David		david.hoffmann@fresenius.com	0608-6816746	Fresenius SE	DE	LEAD	organic search	ana.garcia@speexx.com	11/13/2023	3/31/2024	
-CTX-1121	Thomas	Weber	thomas.weber@delivery.com	4978293320	Delivery Hero	POLAND	mql	n/a	ana.garcia@speexx.com	10/4/2024	12/19/2024	TRUE
-CTX-1122	Anna	Richter	anna@delivery.com		Delivery Hero	Switzerland	Marketing Qualified Lead	N/A	Unassigned	3/5/2024	8/11/2024	0
-CTX-1123	Thomas	Richter	thomas.richter@continental.com	4930208677	Continental	Germany	Closed Lost	WEBINAR	marie.dupont@speexx.com	1/13/2024	1/17/2024	0
-CTX-1124	Anna	Wagner		0195-1736524	Volkswagen AG	FRANCE	closed lost	PPC	Luca Bianchi	7/30/2023	2/16/2024	FALSE
-CTX-1125	Stefan	Hoffmann	stefan.hoffmann@siemens.com	4.92168E+11	siemens	GB	marketing qualified lead	linkedin	luca.bianchi@speexx.com	11/9/2024	6/5/2025	FALSE
-CTX-1126	Laura	Meyer	laura.meyer@deutsche.com	+49 821 1676621	Deutsche Telekom	United kingdom	lost	DIRECT	james.wilson	11/12/2023	2/9/2024	TRUE
-CTX-1127	Maria	Becker	maria.becker@merck.com	0233-4324120	Merck KGaA	Poland	MQL	Paid Search	J. Wilson	9/13/2023	4/27/2024	TRUE
-CTX-1128	Thomas	Meyer	thomas.meyer@bosch.com	4947561442	Bosch GmbH	germany	Lost	direct	luca.bianchi@speexx.com	4/17/2024	1/23/2025	no
-CTX-1129	Anna	Schmidt			BMW AG	Holland	Opportunity	LinkedIn Ads	sarah.mueller@speexx.com	5/21/2023	9/10/2023	TRUE
-CTX-1130	Sarah	Mueller	sarah.mueller@thyssenkrupp.com	4.95071E+11	Thyssenkrupp AG	United states	sql	REFERRAL	l.bianchi@speexx.com	1/2/2024	12/24/2024	0
-CTX-1131	Stefan	Mueller	info@delivery.com	tba	Delivery Hero	NL	Won	Organic Search	ana.garcia@speexx.com	8/4/2024	11/15/2024	TRUE
-CTX-1132	Peter	Schneider	peter.schneider@vw.com	4.93517E+11	VW AG	DE	lead	Email Campaign		1/23/2023	9/29/2023	0
-CTX-1133	Julia	Richter	julia.richter@delivery.com	N/A	Delivery Hero SE	AUSTRIA	SQL	webinar	Marie Dupont	1/1/2024	6/26/2024	0
-CTX-1134	JULIA	Schmidt	julia.schmidt@delivery.com	4.94094E+11	Delivery Hero	CH	CUSTOMER	EMAIL	luca.bianchi@speexx.com	10/16/2024	4/13/2025	
-CTX-1135	Maria	Schmidt	maria.schmidt@thyssenkrupp.com	tba	Thyssenkrupp AG	POLAND	CUSTOMER	paid search	ana.garcia@speexx.com	10/28/2024	9/7/2025	no
-CTX-1136	Anna	Wagner	anna.wagner@zalando.com	4.92277E+11	Zalando	Spain	mql	Event	sarah.mueller@speexx.com	9/13/2024	2/10/2025	no
-CTX-1137	Michael	Schmidt	michael.schmidt@siemens.com		SIEMENS AG	ES	Opp	LinkedIn Ads	luca.bianchi@speexx.com	6/24/2023	11/5/2023	FALSE
-CTX-1138	Sarah	Hoffmann		4980139805	siemens	Francia	Won	DIRECT	Sarah Mueller	12/14/2024	12/14/2025	TRUE
-CTX-1139	Laura	Hoffmann	laura.hoffmann@	4.91542E+11	E.ON	POLAND	Customer	Partner Referral	ana.garcia@speexx.com	11/24/2024	12/28/2024	FALSE
-CTX-1140	Maria		maria.richter@basf.com	0900-8039616	basf	Poland	New Lead	direct	Unassigned	11/30/2023	5/24/2024	yes
-CTX-1141	Sarah	Wagner	sarah.wagner@zalando.com		Zalando	USA	Customer	DIRECT	james.wilson	8/8/2024	4/16/2025	FALSE
-CTX-1142	Michael	Schneider	michael.schneider@volkswagen.com	627 3604 2075	Volkswagen AG	United kingdom	Lead	unknown	Ana Garcia	11/25/2023	8/19/2024	TRUE
-CTX-1143	Julia	Fischer	julia.fischer@sap.com	N/A	sap se	DE	closed lost	WEBINAR	ana.garcia@speexx.com	1/12/2026	5/24/2026	FALSE
-CTX-1144	Sarah	Mueller	sarah.mueller@basf.com	+49 311 5514473	BASF SE	DE	Sales qualified	Partner Referral	l.bianchi@speexx.com	6/16/2023	11/19/2023	1
-CTX-1145	Maria	Wagner	maria.wagner@lufthansa.com	593 2045 6509	Lufthansa Group	england	Lost	Webinar	Unassigned	9/16/2023	8/16/2024	1
-CTX-1146	Michael	Schneider	michael.schneider@eon.com	+49 838 1427068	E.ON	Italy	closed lost	LINKEDIN	ana.garcia@speexx.com	2/28/2023	6/21/2023	
-CTX-1147	David	Meyer	david.meyer@eon.com		E.ON SE	Italia	New Lead	webinar	ana.garcia@speexx.com	6/24/2023	11/21/2023	no
-CTX-1148	Thomas	Becker	thomas.becker@siemens.com		siemens	AT	closed lost	N/A	james.wilson@speexx.com	8/20/2024	11/20/2024	FALSE
-1149	David	Meyer	david.meyer@zalando.com	+49 882 3658100	Zalando SE	SPAIN	Closed Lost	LINKEDIN	Marie Dupont	11/17/2023	11/24/2023	0
-CTX-1150	Laura	Fischer	laura.fischer@siemens.com	tba	SIEMENS AG	SWITZERLAND	CLOSED LOST		ana.garcia@speexx.com	1/5/2023	12/22/2023	TRUE
-CTX-1151	Peter	Becker	peter.becker@lufthansa.com	828 1612 7147	Lufthansa Group	spain	LEAD	organic	l.bianchi@speexx.com	6/18/2023	5/21/2024	FALSE
-CTX-1152	Anna	Mueller	anna.mueller@delivery.com		Delivery Hero SE	france	Customer	PPC	Luca Bianchi	3/2/2024	5/1/2024	1
-CTX-1153	Thomas	Schmidt	thomas.schmidt@thyssenkrupp.com	+49 402 3690622	ThyssenKrupp	spain	lost	paid search		9/15/2024	7/5/2025	no
-CTX-1154	Julia	Schmidt	julia.schmidt@eon.com	0932-3931009	E.ON SE	Deutschland	marketing qualified lead	ORGANIC	sarah.mueller@speexx.com	4/14/2023	3/18/2024	TRUE
-CTX-1155	Peter	Meyer	peter.meyer@continental.com	0955-7471232	Continental AG	AUSTRIA	closed won	n/a		10/2/2023	5/13/2024	TRUE
-CTX-1156	Stefan	Wagner	stefan.wagner@lufthansa.com	tba	Lufthansa Group	AUSTRIA	LEAD	referral	marie.dupont@speexx.com	1/30/2023	10/22/2023	
-CTX-1157	Stefan	Schmidt	stefan@henkel.com	428 4946 6421	Henkel	CH	mql	unknown	J. Wilson	9/12/2023	3/23/2024	yes
-CTX-1158	Michael	Schmidt	michael.schmidt@continental.com	662 1002 2489	Continental	United kingdom	CUSTOMER	unknown	Luca Bianchi	8/9/2024	7/18/2025	no
-CTX-1159	Peter	Meyer	peter.meyer@siemens.com	tba	siemens	Espana	Opp	PPC	sarah.mueller@speexx.com	4/10/2024	12/18/2024	TRUE
-CTX-1160	Maria	Schmidt	maria.schmidt@bmw.com	N/A	BMW Group	AUSTRIA	MQL		Marie Dupont	20/07/2023	5/14/2024	no
-CTX-1161	Laura	Schneider	info@delivery.com	4.9647E+11	Delivery Hero SE	PL	closed won	unknown	james.wilson	6/27/2023	4/2/2024	0
-CTX-1162	Laura	Fischer	laura.fischer@sap.com	tba	sap se	ES	opportunity	Email Campaign		10/1/2024	4/14/2025	TRUE
-CTX-1163	Anna	Mueller	anna.mueller@sap.com	tba	sap se	italy	New Lead	direct	Marie Dupont	6/14/2023	12/26/2023	yes
-CTX-1164	Maria	Meyer	maria.meyer@merck.com	4.95142E+11	Merck KGaA	DE	sql	unknown	Sarah Mueller	1/14/2023	8/21/2023	1
-1165	Laura	Weber	laura.weber@robert.com	tba	Robert Bosch GmbH	Spain	Marketing Qualified Lead	unknown	james.wilson@speexx.com	8/21/2024	5/22/2025	yes
-CTX-1166	Thomas	Meyer	thomas.meyer@deutsche.com		Deutsche Telekom AG	ES	Closed Won	Google Ads	Ana Garcia	11/10/2024	4/3/2025	TRUE
-CTX-1167	Laura	Meyer	laura.meyer@eon.com	0891-9945709	E.ON SE	US	Sales Qualified Lead	Email Campaign	marie.dupont@speexx.com	4/1/2024	5/7/2024	TRUE
-CTX-1168	Anna	Becker	anna.becker@delivery.com	tba	Delivery Hero	NETHERLANDS	MQL	Paid Search		2/8/2023	3/3/2023	FALSE
-CTX-1169	Peter	Richter	peter.richter@allianz.com	864 7406 9941	ALLIANZ	IT	Lost	LinkedIn	james.wilson	12/3/2024	10/30/2025	0
-CTX-1170	Anna	Richter	anna.richter@merck.com	0316-7923193	Merck KGaA	Francia	sql	organic	Unassigned	5/7/2023	2/12/2024	no
-CTX-1171	Laura	Schmidt	laura.schmidt@bmw.com		bmw	CH	CLOSED LOST	DIRECT	Marie Dupont	3/10/2023	12/24/2023	0
-CTX-1172	Peter	Wagner	peter@sap.com	tba	SAP SE	Germany	marketing qualified lead	LinkedIn Ads	marie.dupont@speexx.com	11/17/2023	4/8/2024	TRUE
-CTX-1173	Laura	Fischer	laura@bmw.com	N/A	BMW Group	AT	Lost	LinkedIn	ana.garcia@speexx.com	3/20/2023	1/15/2024	1
-CTX-1174	Julia	Becker	julia@eon.com		E.ON SE	US	mql	referral		4/3/2023	5/5/2023	1
-CTX-1175	Peter	Fischer	info@siemens.com		Siemens ag	CH	Opp	Paid Search	Luca Bianchi	7/31/2023	11/22/2023	
-1176	Maria	Meyer	maria.meyer@lufthansa.com		Lufthansa Group	USA	New Lead	webinar	Marie Dupont	5/8/2024	4/18/2025	no
-1177	DAVID	Fischer	david.fischer@merck.com	+49 744 9600719	MERCK KGAA	Spain	CUSTOMER	direct	Sarah Mueller	10/24/2024	8/30/2025	no
-CTX-1178	David	Schneider	david.schneider@deutsche.com	4961735818	Deutsche Telekom AG	UK	won	unknown	marie.dupont@speexx.com	9/7/2024	11/22/2024	FALSE
-CTX-1179	Julia	Becker	julia.becker@fresenius.com		Fresenius	Austria	Sales qualified	n/a		2/9/2023	8/7/2023	FALSE
-CTX-1180	Maria	Schneider	maria.schneider@bmw.com		BMW Group	United States	marketing qualified lead	LinkedIn	Ana Garcia	8/27/2023	1/3/2024	1
-CTX-1181	Laura	Wagner	laura.wagner@merck.com	N/A	Merck	The Netherlands	New Lead	linkedin	Sarah Mueller	9/18/2024	4/11/2025	0
-CTX-1182	Laura	Hoffmann	laura@delivery.com		Delivery Hero SE	SWITZERLAND	CLOSED LOST		james.wilson	12/24/2024	10/25/2025	TRUE
-CTX-1183	Julia	Becker	julia.becker@continental.com	4.93642E+11	Continental AG	Germany	Marketing Qualified Lead	Direct		7/26/2023	7/2/2024	yes
-CTX-1184	Maria	Hoffmann	maria@sap.com	4.95136E+11	sap se	United states	closed won	unknown	Sarah Mueller	1/16/2023	9/30/2023	1
-CTX-1185	Peter	Schmidt	peter.schmidt@eon.com	4925605267	E.ON SE	ITALY	lost	referral		7/4/2024	12/31/2024	
-CTX-1186	Laura	Mueller	laura.mueller@delivery.com	4934532913	Delivery Hero SE	ITALY	Sales qualified	REFERRAL	Unassigned	9/12/2023	1/7/2024	FALSE
-CTX-1187	Michael	Hoffmann	michael.hoffmann@lufthansa.com	4.9665E+11	Lufthansa Group	Francia	LEAD	unknown	james.wilson	4/20/2023	2/9/2024	TRUE
-CTX-1188	Anna	Richter	anna.richter@henkel.com		Henkel	United States	CLOSED LOST	Partner Referral	james.wilson@speexx.com	6/13/2026	10/12/2026	1
-CTX-1189	David	Hoffmann	david@volkswagen.com	tba	volkswagen	The Netherlands	closed won	Email	J. Wilson	7/8/2023	9/22/2023	no
-CTX-1190	Anna	Schneider	anna.schneider@henkel.com	N/A	Henkel AG	USA	Customer	PPC	luca.bianchi@speexx.com	5/18/2023	9/28/2023	0
-CTX-1191	Peter	Richter	peter.richter@merck.com		Merck KGaA	ITALY	CLOSED LOST	direct	luca.bianchi@speexx.com	2/12/2026	4/27/2026	TRUE
-CTX-1192	Peter	Wagner	peter.wagner@zalando.com	N/A	Zalando SE	AUSTRIA	closed won	linkedin	james.wilson@speexx.com	8/8/2024	10/11/2024	FALSE
-CTX-1193	Sarah	Schmidt	sarah.schmidt@deutsche.com	259 2381 7387	Deutsche Telekom	Spain	Sales qualified	REFERRAL	Marie Dupont	2/11/2024	12/27/2024	TRUE
-CTX-1194	Julia	Richter		tba	SAP SE	GERMANY	Lost	DIRECT		2/5/2023	11/8/2023	FALSE
-CTX-1195	THOMAS	Becker	thomas@volkswagen.com	+49 452 5811072	Volkswagen AG	The Netherlands	LEAD	Email Campaign		2/27/2024	6/24/2024	TRUE
-CTX-1196	Laura	Meyer	laura@sap.com	tba	sap se	UK	New Lead	Direct	Ana Garcia	7/28/2024	9/1/2024	TRUE
-CTX-1197	Julia	Weber	julia.weber@bosch.com	+49 150 9975319	Bosch GmbH	AT	Sales qualified	paid search	james.wilson@speexx.com	4/11/2024	11/12/2024	1
-CTX-1198	David	Meyer	david.meyer@continental.com	+49 656 8887754	Continental	germany	Sales Qualified Lead	N/A	Marie Dupont	12/5/2023	8/27/2024	FALSE
-CTX-1199	David	Wagner	david.wagner@hellofresh.com		HelloFresh	Italia	OPPORTUNITY	Organic Search	james.wilson@speexx.com	11/27/2023	9/21/2024	FALSE
-CTX-1200	Maria	Fischer	maria.fischer@siemens.com	0193-6677780	Siemens AG	germany	SQL	Unknown	J. Wilson	8/18/2024	5/30/2025	0
-CTX-1201	DAVID	Fischer	david.fischer@siemens.com	tba	SIEMENS AG	Holland	sql	Paid Search	Luca Bianchi	1/2/2024	6/1/2024	1
-CTX-1202	Laura	Meyer	laura.meyer@continental.com	799 9151 3525	Continental	Germany	OPPORTUNITY	EMAIL	marie.dupont@speexx.com	10/15/2024	12/3/2024	
-CTX-1203	Thomas	Mueller	thomas@robert.com	4939624910	Robert Bosch GmbH	SPAIN	Lost	Unknown		2/2/2023	3/14/2023	no
-CTX-1204	Anna	Meyer	anna.meyer@merck.com	4941006711	Merck KGaA	UK	won	REFERRAL	l.bianchi@speexx.com	1/13/2024	4/13/2024	
-CTX-1205	Laura	Wagner	laura.wagner@allianz.com		ALLIANZ	AT	Closed Lost	Webinar	Unassigned	8/13/2024	7/3/2025	yes
-CTX-1206	Peter	Hoffmann		116 9480 3213	DT AG	POLAND	MQL	DIRECT	J. Wilson	7/12/2024	12/20/2024	TRUE
-CTX-1207	SARAH	Richter	sarah.richter@eon.com	0338-5299058	E.ON SE	Poland	lead	Webinar		8/7/2024	4/13/2025	FALSE
-CTX-1208	Stefan	Weber	stefan@siemens.com	896 7266 1886	Siemens ag	POLAND	won	ORGANIC	ana.garcia@speexx.com	1/26/2024	4/11/2024	0
-CTX-1209	Laura	Fischer	laura.fischer@bosch.com	tba	BOSCH	DE	Closed Won	Partner Referral	Sarah Mueller	11/20/2024	6/30/2025	TRUE
-CTX-1210	Julia	Becker	julia.becker@merck.com	4965510043	Merck KGaA	spain	OPPORTUNITY	WEBINAR	l.bianchi@speexx.com	5/14/2024	10/17/2024	TRUE
-CTX-1211	Peter	Hoffmann	peter.hoffmann@continental.com	N/A	Continental AG	AUSTRIA	Won	organic search	ana.garcia@speexx.com	5/30/2023	2/29/2024	FALSE
-CTX-1212	Michael	Richter	michael.richter@eon.com	N/A	E.ON	ITALY	Lost	Organic Search	Sarah Mueller	7/15/2024	11/30/2024	0
-CTX-1213	Thomas	Mueller	thomas.mueller@bmw.com	4985254207	bmw	Switzerland	won	DIRECT	ana.garcia@speexx.com	1/31/2024	4/20/2024	TRUE
-CTX-1214	Peter	Meyer	peter.meyer@lufthansa.com	4.99371E+11	Lufthansa Group	AT	Marketing Qualified Lead	Email	Luca Bianchi	11/6/2023	9/14/2024	FALSE
-CTX-1215	Maria	Fischer	maria.fischer@merck.com	0983-3317095	Merck	Francia	Closed Lost	Google Ads	james.wilson@speexx.com	3/12/2024	5/25/2024	TRUE
-CTX-1216	Peter	Wagner	peter.wagner@henkel.com	4991282861	Henkel AG	Italia	lost	organic search	ana.garcia@speexx.com	3/29/2024	11/28/2024	TRUE
-CTX-1217	Laura	Hoffmann	laura.hoffmann@thyssenkrupp.com	N/A	Thyssenkrupp AG	Switzerland	CUSTOMER	REFERRAL	Ana Garcia	1/18/2024	2/8/2024	yes
-CTX-1218	Peter		peter.wagner@fresenius.com	4984853354	Fresenius	POLAND	opportunity		Ana Garcia	8/31/2024	1/24/2025	no
-CTX-1219	Julia	Wagner	julia.wagner@bmw.com	N/A	bmw	AUSTRIA	closed lost	LINKEDIN		2/25/2023	7/3/2023	0
-CTX-1220	Julia	Schmidt	julia.schmidt@allianz.com	+49 623 3682671	Allianz Se	france	closed won	DIRECT	james.wilson	12/24/2024	8/9/2025	1
-CTX-1221	Julia	Schmidt	julia.schmidt@robert.com	4965049584	Robert Bosch GmbH	spain	CUSTOMER	Direct	l.bianchi@speexx.com	1/4/2023	4/20/2023	TRUE
-CTX-1222	Julia	Schneider	julia.schneider@siemens.com		siemens	Switzerland	mql	paid search		1/22/2026	7/29/2026	yes
-CTX-1223	Thomas	Wagner	thomas.wagner@merck.com		Merck KGaA	Deutschland	Opportunity		l.bianchi@speexx.com	10/27/2023	4/25/2024	TRUE
-CTX-1224	Stefan	Hoffmann	stefan.hoffmann@thyssenkrupp.com	+49 298 1026523	ThyssenKrupp	United states	OPPORTUNITY	WEBINAR	Luca Bianchi	10/9/2024	1/25/2025	TRUE
-CTX-1225	Michael	Weber	michael.weber@bmw.com	+49 505 1488508	BMW Group	Deutschland	Lost	google ads	luca.bianchi@speexx.com	11/12/2023	7/4/2024	
-CTX-1226	Peter	Becker	peter.becker@henkel.com	4.95936E+11	Henkel AG	DE	closed lost	Email	james.wilson@speexx.com	6/17/2024	11/21/2024	0
-CTX-1227	Anna	Weber	anna.weber@henkel.com	N/A	Henkel AG	France	CUSTOMER	unknown	james.wilson@speexx.com	5/23/2024	1/25/2025	
-CTX-1228	Sarah	Meyer	sarah.meyer@bosch.com	N/A	BOSCH	FRANCE	CUSTOMER	ORGANIC	Sarah Mueller	6/12/2024	5/15/2025	1
-CTX-1229	Anna	Hoffmann	anna.hoffmann@volkswagen.com	4912047721	Volkswagen AG	AT	Closed Lost	WEBINAR	Luca Bianchi	8/3/2023	10/14/2023	1
-CTX-1230	Stefan	Fischer	stefan.fischer@sap.com		SAP SE	Deutschland	opportunity	webinar	Unassigned	11/15/2023	10/23/2024	
-CTX-1231	Thomas	Becker	thomas.becker@merck.com		Merck	FR	sql	webinar		4/6/2023	9/19/2023	no
-CTX-1232	David	Mueller	david.mueller@allianz.com	tba	Allianz SE	United States	CLOSED WON	email	l.bianchi@speexx.com	4/26/2023	3/8/2024	FALSE
-CTX-1233	Laura	Schneider	laura.schneider@thyssenkrupp.com	N/A	Thyssenkrupp AG	Holland	OPPORTUNITY	PPC	Unassigned	3/9/2023	8/13/2023	yes
-CTX-1234	Thomas	Hoffmann	thomas.hoffmann@allianz.com	252 8421 9704	ALLIANZ	SWITZERLAND	Closed Won		J. Wilson	9/2/2024	2/11/2025	1
-CTX-1235	Stefan	Weber	stefan@henkel.com	940 6885 2797	Henkel	NL	customer	organic search	J. Wilson	4/2/2023	1/29/2024	yes
-CTX-1236	Peter	Wagner	peter.wagner@basf.com	4.93878E+11	basf	Holland	lead	Unknown	marie.dupont@speexx.com	3/21/2024	5/29/2024	FALSE
-CTX-1237	Julia	Wagner	julia.wagner@continental.com		Continental	Austria	Closed Lost	Event	sarah.mueller@speexx.com	3/11/2024	12/26/2024	no
-CTX-1238	Peter	Schmidt	peter.schmidt@merck.com	583 2279 9834	MERCK KGAA	United States	CLOSED LOST	organic		12/8/2024	12/13/2024	no
-CTX-1239	David	Richter	david.richter@thyssenkrupp.com	692 3770 1845	Thyssenkrupp AG	POLAND	New Lead	organic search	james.wilson	12/6/2023	2/8/2024	
-CTX-1240	THOMAS	Weber	thomas.weber@bmw.com	+49 705 3535634	BMW Group	FR	OPPORTUNITY	paid search	james.wilson@speexx.com	9/22/2024	12/9/2024	no
-CTX-1241	Maria	Wagner	maria.wagner@dt.com	4973918769	DT AG	CH	Closed Won	Email	luca.bianchi@speexx.com	3/26/2024	12/22/2024	yes
-CTX-1242	Anna	Weber	anna.weber@continental.com		Continental AG	Holland	CLOSED WON	REFERRAL	Marie Dupont	11/25/2024	3/4/2025	
-CTX-1243	PETER	Schneider	peter.schneider@vw.com	4914569008	VW AG	Poland	CLOSED LOST	Google Ads	Marie Dupont	1/11/2023	2/24/2023	TRUE
-CTX-1244	Maria	Hoffmann	maria.hoffmann@sap.com		SAP	france	OPPORTUNITY	organic	james.wilson	12/13/2024	4/27/2025	TRUE
-CTX-1245	David	Schmidt	david.schmidt@thyssenkrupp.com	+49 728 2782574	ThyssenKrupp	spain	CUSTOMER	Unknown	james.wilson@speexx.com	9/16/2024	9/16/2024	TRUE
-CTX-1246	Maria	Weber	maria.weber@bosch.com		BOSCH	NETHERLANDS	lost	DIRECT	Ana Garcia	5/2/2024	1/1/2025	FALSE
-CTX-1247	Peter	Richter		0406-7544871	volkswagen	France	CUSTOMER		Marie Dupont	4/15/2024	5/3/2024	FALSE
-CTX-1248	Anna	Hoffmann	anna@dt.com	tba	DT AG	USA	CLOSED WON	LinkedIn	Marie Dupont	2/3/2024	3/10/2024	TRUE
-CTX-1249	Julia	Becker	julia.becker@zalando.com	0414-2632292	Zalando	GERMANY	New Lead	LINKEDIN	Ana Garcia	4/27/2024	4/9/2025	yes
-CTX-1250	Peter	Schmidt	peter.schmidt@hellofresh.com	4959650807	HelloFresh	POLAND	closed lost	ORGANIC	james.wilson@speexx.com	7/12/2024	5/31/2025	yes
-CTX-1251	Julia	Mueller	julia@thyssenkrupp.com		ThyssenKrupp	France	Sales qualified	LinkedIn Ads	l.bianchi@speexx.com	2/23/2026	12/25/2026	TRUE
-1252	David	Hoffmann	david.hoffmann@allianz.com	+49 197 7071696	Allianz Se	AT	Sales Qualified Lead	Google Ads		11/5/2023	7/4/2024	no
-CTX-1253	Julia	Schneider	julia.schneider@hellofresh.com	N/A	HelloFresh SE	germany	won	Google Ads	Sarah Mueller	2/25/2023	10/10/2023	0
-CTX-1254	Maria	Fischer	info@hellofresh.com	N/A	HelloFresh	Netherlands	sql	Email	ana.garcia@speexx.com	8/24/2023	12/1/2023	0
-CTX-1255	Sarah	Fischer	sarah.fischer@volkswagen.com	0325-5951988	volkswagen	FR	closed won		luca.bianchi@speexx.com	2/2/2023	5/23/2023	no
-CTX-1256	David	Weber	david.weber@	N/A	Siemens AG	GB	Won	REFERRAL	Sarah Mueller	9/10/2023	9/16/2023	yes
-CTX-1257	Michael	Schneider	michael.schneider@lufthansa.com	+49 978 1409590	Lufthansa Group	IT	customer	Paid Search	Ana Garcia	9/2/2023	2/19/2024	
-CTX-1258	Anna	Weber	anna.weber@henkel.com	+49 443 1919587	Henkel	italy	Opp	Event	james.wilson@speexx.com	12/15/2024	12/10/2025	FALSE
-CTX-1259	Laura	Fischer	info@robert.com	+49 819 4519758	Robert Bosch GmbH	NETHERLANDS	Marketing Qualified Lead	Event	ana.garcia@speexx.com	9/2/2023	5/15/2024	
-CTX-1260	Thomas	Becker	thomas.becker@delivery.com	0292-8681853	Delivery Hero	u.s.	sql	Direct	Sarah Mueller	11/25/2024	8/6/2025	TRUE
-CTX-1261	Michael	Richter	michael.richter@zalando.com		Zalando SE	GERMANY	closed lost	webinar	marie.dupont@speexx.com	10/28/2023	4/12/2024	no
-CTX-1262	Stefan	Richter	stefan.richter@merck.com	tba	Merck KGaA	United kingdom	opportunity	LinkedIn Ads	james.wilson@speexx.com	4/13/2024	4/2/2025	TRUE
-CTX-1263	Julia	Fischer	julia.fischer@bosch.com	0452-3482092	Bosch GmbH	germany	MQL	email		11/21/2023	2/3/2024	no
-CTX-1264	Peter	Schneider	peter.schneider@		Siemens AG	u.s.	CLOSED LOST	referral	luca.bianchi@speexx.com	6/3/2024	11/17/2024	TRUE
-CTX-1265	Stefan	Fischer	stefan@merck.com		MERCK KGAA	United states	Closed Won	LinkedIn	Marie Dupont	8/16/2023	2/21/2024	yes
-CTX-1266	Peter	Mueller	contact@bmw.com	0922-8423991	bmw	NL	SQL	Referral	james.wilson	12/26/2023	9/19/2024	0
-CTX-1267	Thomas	Hoffmann	thomas.hoffmann@basf.com	667 9037 1691	BASF SE	France	Customer	DIRECT	luca.bianchi@speexx.com	1/7/2023	9/1/2023	FALSE
-CTX-1268	Anna	Mueller	contact@bosch.com	N/A	BOSCH	ITALY	closed lost	Email Campaign	Unassigned	11/4/2023	10/20/2024	no
-CTX-1269	Thomas	Meyer	info@eon.com	751 6832 1798	E.ON SE	POLAND	opportunity		marie.dupont@speexx.com	1/18/2023	10/8/2023	FALSE
-CTX-1270	Julia	Schmidt	julia.schmidt@fresenius.com	113 3243 9489	Fresenius SE	Spain	Opp	Unknown	Ana Garcia	7/10/2024	10/1/2024	FALSE
-CTX-1271	Michael	Schneider	michael@eon.com	N/A	E.ON SE	Espana	Opp	DIRECT	Marie Dupont	7/12/2023	2/23/2024	
-CTX-1272	Peter	Schneider	peter.schneider@delivery.com	+49 414 3102926	Delivery Hero	Italia	LEAD	n/a		1/30/2023	5/10/2023	FALSE
-CTX-1273	Anna	Richter	anna.richter@merck.com	129 2487 3384	MERCK KGAA	DE	closed lost	WEBINAR	ana.garcia@speexx.com	4/25/2024	1/6/2025	FALSE
-CTX-1274	Laura	Hoffmann	laura.hoffmann@allianz.com	4.9497E+11	Allianz SE	FRANCE	CLOSED WON	PPC	james.wilson@speexx.com	8/15/2024	2/25/2025	yes
-CTX-1275	Michael	Richter	michael.richter@deutsche.com	N/A	Deutsche Telekom AG	UK	CLOSED LOST	DIRECT	marie.dupont@speexx.com	4/26/2023	12/9/2023	FALSE
-CTX-1276	Laura	Wagner	laura.wagner@bmw.com	4.96997E+11	bmw	GB	Closed Won	email	Marie Dupont	7/13/2023	9/3/2023	TRUE
-CTX-1277	Thomas	Meyer	thomas.meyer@sap.com	tba	sap se	NETHERLANDS	Opportunity	LinkedIn		7/25/2023	9/25/2023	1
-CTX-1278	David		david.becker@deutsche.com	4979786361	Deutsche Telekom AG	AT	opportunity	Unknown	luca.bianchi@speexx.com	12/2/2026	9/5/2027	0
-CTX-1279	Laura	Richter	laura.richter@siemens.com	N/A	SIEMENS AG	germany	LEAD	Google Ads	l.bianchi@speexx.com	3/16/2024	2/16/2025	
-CTX-1280	Laura	Hoffmann			Thyssenkrupp AG	United States	Opp	organic search		7/29/2024	1/19/2025	yes
-CTX-1281	Thomas	Wagner	thomas.wagner@lufthansa.com	+49 804 2098911	Lufthansa Group	NL	CLOSED WON	Email Campaign	l.bianchi@speexx.com	2/26/2024	9/28/2024	1
-CTX-1282	Anna	Becker	anna.becker@merck.com	4992520800	MERCK KGAA	GERMANY	Won	Paid Search	Unassigned	11/21/2023	3/9/2024	1
-CTX-1283	Sarah	Mueller	sarah.mueller@volkswagen.com	314 6690 2256	Volkswagen AG	POLAND	won	DIRECT	Ana Garcia	2/16/2024	7/25/2024	FALSE
-CTX-1284	Maria		maria.wagner@bmw.com	tba	BMW Group	AUSTRIA	Sales Qualified Lead	Event	luca.bianchi@speexx.com	6/11/2024	8/27/2024	1
-CTX-1285	Maria	Wagner	maria.wagner@vw.com	N/A	VW AG	Deutschland	Won	Email Campaign	Ana Garcia	10/11/2024	10/29/2024	FALSE
-CTX-1286	Julia	Weber	julia.weber@robert.com		Robert Bosch GmbH	GERMANY	CUSTOMER	Event	marie.dupont@speexx.com	9/22/2023	11/7/2023	yes
-CTX-1287	Julia	Fischer	julia.fischer		Bosch GmbH	POLAND	Sales Qualified Lead	LinkedIn	Sarah Mueller	5/27/2024	10/14/2024	no
-CTX-1288	Maria	Weber	maria.weber@merck.com	+49 352 5659599	MERCK KGAA	DE	Customer	organic	Marie Dupont	5/17/2024	4/25/2025	FALSE
-CTX-1289	Sarah	Richter	info@basf.com	4922113193	BASF SE	Italia	customer	linkedin		10/16/2024	3/27/2025	yes
-CTX-1290	Anna	Weber	anna.weber	N/A	Allianz Se	USA	Lead	organic search		27/04/2024	3/15/2025	no
-CTX-1291	Julia	Mueller	julia.mueller@basf.com	4.96667E+11	basf	spain	lost	Webinar		10/5/2024	11/17/2024	yes
-CTX-1292	Peter	Schneider	peter.schneider@basf.com	4.91725E+11	basf	Holland	Marketing Qualified Lead	Event	james.wilson@speexx.com	8/7/2024	10/6/2024	TRUE
-CTX-1293	Laura	Wagner	laura.wagner@continental.com	4.98834E+11	Continental	SWITZERLAND	MQL	direct	james.wilson	5/21/2024	1/6/2025	FALSE
-CTX-1294	Peter	Hoffmann	peter.hoffmann@hellofresh.com		HelloFresh	Switzerland	Sales qualified	n/a		4/14/2024	2/18/2025	TRUE
-CTX-1295	Anna	Weber	anna.weber@eon.com	0366-3849886	E.ON SE	AUSTRIA	OPPORTUNITY		Ana Garcia	1/26/2024	3/25/2024	0
-CTX-1296	Anna	Schneider	anna.schneider@thyssenkrupp.com	tba	ThyssenKrupp	italy	customer		sarah.mueller@speexx.com	1/5/2024	2/1/2024	FALSE
-CTX-1297	Julia	Mueller	julia.mueller@thyssenkrupp.com	4.91636E+11	Thyssenkrupp AG	ITALY	Customer	linkedin	Marie Dupont	6/17/2023	11/3/2023	FALSE
-CTX-1298	Stefan	Mueller	contact@eon.com	+49 126 5769447	E.ON	POLAND	Marketing Qualified Lead	N/A	Unassigned	7/4/2023	3/5/2024	no
-CTX-1299	Sarah	Hoffmann	sarah.hoffmann@hellofresh.com		HelloFresh SE	Germany	Marketing Qualified Lead	email	james.wilson	12/4/2023	6/25/2024	FALSE
-CTX-1300	Anna	Fischer	anna.fischer@sap.com		SAP SE	Holland	Marketing Qualified Lead	Email Campaign		2/17/2024	5/22/2024	yes
-CTX-1301	Maria	Schmidt	maria.schmidt	4.97306E+11	Siemens ag	US	SQL	DIRECT	Unassigned	12/16/2023	7/21/2024	1
-CTX-1302	Stefan	Mueller	stefan.mueller@merck.com	4.93515E+11	Merck KGaA	Deutschland	New Lead	LinkedIn Ads	Unassigned	2/16/2023	3/30/2023	yes
-CTX-1303	Sarah	Meyer	sarah@merck.com	0180-5350628	MERCK KGAA	england	MQL	linkedin	marie.dupont@speexx.com	11/17/2024	11/6/2025	yes
-CTX-1304	Stefan	Becker	stefan.becker@volkswagen.com	N/A	Volkswagen AG	AUSTRIA	Lost	LinkedIn	marie.dupont@speexx.com	9/23/2024	8/9/2025	
-1305	Michael	Schmidt	michael.schmidt@volkswagen.com		Volkswagen AG	england	MQL	PPC	marie.dupont@speexx.com	6/1/2023	1/8/2024	yes
-CTX-1306	David	Hoffmann	contact@fresenius.com	690 6174 2040	Fresenius SE	Poland	CUSTOMER	EMAIL		7/16/2026	3/26/2027	0
-CTX-1307	David	Wagner	david.wagner@siemens.com	4.9835E+11	SIEMENS AG	Spain	CLOSED LOST	Referral	james.wilson	10/22/2023	12/5/2023	no
-CTX-1308	Julia	Schneider	julia.schneider@sap.com	tba	sap se	Spain	mql	Paid Search	ana.garcia@speexx.com	9/12/2024	7/25/2025	FALSE
-CTX-1309	Thomas	Richter	thomas.richter@deutsche.com	0718-2747213	Deutsche Telekom AG	USA	New Lead	PPC	Unassigned	9/22/2023	6/7/2024	FALSE
-CTX-1310	Julia	Schmidt	info@deutsche.com	N/A	Deutsche Telekom	The Netherlands	OPPORTUNITY	direct	Luca Bianchi	6/10/2023	10/24/2023	0
-CTX-1311	Maria	Meyer	maria.meyer@zalando.com	0569-9659648	Zalando SE	CH	Marketing Qualified Lead	webinar	ana.garcia@speexx.com	9/9/2023	12/2/2023	yes
-CTX-1312	Anna	Wagner	anna.wagner@siemens.com	4.98485E+11	Siemens ag	CH	Lead	email	luca.bianchi@speexx.com	10/18/2024	7/23/2025	no
-CTX-1313	Peter	Wagner		+49 390 4585870	sap se	Italia	CUSTOMER	Partner Referral	J. Wilson	6/13/2026	11/15/2026	yes
-CTX-1314	LAURA	Schmidt	laura.schmidt@siemens.com		siemens	The Netherlands	opportunity	direct	marie.dupont@speexx.com	9/23/2023	7/12/2024	TRUE
-CTX-1315	Maria	Richter	maria.richter@dt.com	0183-2547674	DT AG	FRANCE	Opp		Ana Garcia	12/2/2023	8/23/2024	yes
-CTX-1316	Sarah	Hoffmann	sarah.hoffmann@thyssenkrupp.com	4978878589	ThyssenKrupp	AT	CLOSED WON	n/a	sarah.mueller@speexx.com	3/9/2024	12/20/2024	0
-CTX-1317	Thomas	Hoffmann	thomas.hoffmann@henkel.com	531 1797 5999	Henkel AG	france	Sales Qualified Lead	LinkedIn Ads	Unassigned	5/4/2023	5/5/2023	FALSE
-CTX-1318	Laura	Meyer	laura.meyer@allianz.com	4953649791	Allianz SE	germany	CUSTOMER	email	ana.garcia@speexx.com	3/3/2024	2/9/2025	no
-CTX-1319	Sarah	Schmidt	sarah.schmidt@sap.com	tba	SAP SE	GERMANY	sql	organic search	james.wilson	8/8/2024	12/11/2024	no
-CTX-1320	Thomas	Richter	thomas.richter@fresenius.com	201 9876 3755	Fresenius SE	Netherlands	SQL	LinkedIn Ads	james.wilson	2/16/2024	5/4/2024	1
-CTX-1321	Maria	Schneider	maria.schneider@siemens.com	tba	siemens	AUSTRIA	LEAD	unknown	Ana Garcia	11/30/2023	4/15/2024	TRUE
-CTX-1322	Peter	Becker	peter.becker@merck.com	4.97042E+11	Merck KGaA	UK	Opp	linkedin		3/9/2023	10/11/2023	
-CTX-1323	DAVID	Mueller	david.mueller@siemens.com	+49 712 5209218	Siemens AG	england	sql	Paid Search	james.wilson	9/27/2024	9/19/2025	FALSE
-CTX-1324	Julia	Richter	julia.richter@bmw.com	4.96676E+11	BMW AG	GB	Lost	Organic Search	l.bianchi@speexx.com	8/4/2023	8/8/2023	TRUE
-CTX-1325	Maria	Richter	maria.richter@delivery.com	+49 952 8468826	Delivery Hero SE	USA	marketing qualified lead	N/A	ana.garcia@speexx.com	2/7/2024	9/21/2024	TRUE
-CTX-1326	Michael	Mueller	michael.mueller@bmw.com		BMW AG	SWITZERLAND	marketing qualified lead	Direct	l.bianchi@speexx.com	12/27/2024	3/24/2025	
-CTX-1327	Michael	Hoffmann	michael.hoffmann@hellofresh.com	+49 683 4824620	HelloFresh	SWITZERLAND	closed won	organic	Unassigned	9/9/2024	4/18/2025	yes
-CTX-1328	SARAH	Schmidt	sarah.schmidt@hellofresh.com	4936119862	HelloFresh	United states	Lead	Email Campaign	Sarah Mueller	4/22/2024	7/31/2024	TRUE
-CTX-1329	Peter	Weber	peter.weber@allianz.com	tba	Allianz SE	AT	New Lead	REFERRAL	Sarah Mueller	10/2/2024	8/15/2025	no
-CTX-1330	Thomas	Becker	thomas.becker@merck.com	0163-8414160	MERCK KGAA	france	lost	organic	Luca Bianchi	29/03/2023	10/20/2023	FALSE
-CTX-1331	Stefan	Wagner	stefan.wagner@deutsche.com	4.91827E+11	Deutsche Telekom AG	Austria	Lost	unknown	james.wilson	11/6/2024	7/10/2025	no
-CTX-1332	Julia	Fischer	julia.fischer@robert.com	+49 697 3443176	Robert Bosch GmbH	germany	Sales qualified	unknown	Unassigned	3/3/2023	3/30/2023	yes
-CTX-1333	Peter	Fischer		N/A	sap se	AT	CUSTOMER	ORGANIC	luca.bianchi@speexx.com	7/26/2023	7/27/2023	FALSE
-CTX-1334	Michael	Becker	michael.becker@fresenius.com	4.92558E+11	Fresenius	ES	opportunity		J. Wilson	9/2/2023	3/4/2024	TRUE
-CTX-1335	Anna	Fischer	anna.fischer@sap.com	0280-5392083	sap se	IT	OPPORTUNITY	Referral	james.wilson	6/28/2023	1/3/2024	0
-CTX-1336	Julia	Richter	julia.richter@fresenius.com	435 5049 1872	Fresenius	GB	customer	google ads	Unassigned	12/29/2024	10/24/2025	no
-CTX-1337	Michael	Schmidt	michael.schmidt@thyssenkrupp.com	+49 610 9705569	Thyssenkrupp AG	CH	Sales Qualified Lead	referral		9/21/2024	1/19/2025	yes
-CTX-1338	Michael	Weber	michael.weber@henkel.com	N/A	Henkel	Holland	CLOSED WON	Email Campaign	Ana Garcia	8/8/2024	4/19/2025	0
-CTX-1339	Sarah	Wagner	sarah@siemens.com	+49 625 2311290	SIEMENS AG	SPAIN	Closed Lost	LINKEDIN	ana.garcia@speexx.com	3/28/2024	9/12/2024	1
-CTX-1340	Sarah	Weber	sarah.weber@sap.com		sap se	Austria	Sales qualified	referral	Marie Dupont	5/22/2023	1/19/2024	FALSE
-CTX-1341	Laura	Hoffmann	laura.hoffmann@	+49 527 4516248	Merck KGaA	england	Won	WEBINAR	ana.garcia@speexx.com	4/17/2024	11/20/2024	yes
-CTX-1342	Laura	Weber		N/A	VW AG	PL	marketing qualified lead	webinar	l.bianchi@speexx.com	1/24/2023	12/17/2023	1
-CTX-1343	Thomas		thomas.schneider@allianz.com	+49 495 5761669	ALLIANZ	SWITZERLAND	sql	Webinar	Unassigned	7/20/2024	2/5/2025	TRUE
-CTX-1344	Thomas	Schneider	info@eon.com	0937-8965487	eon	UK	Customer	email	l.bianchi@speexx.com	5/4/2024	1/28/2025	0
-CTX-1345	Stefan	Becker	stefan@continental.com		Continental	england	lost	LinkedIn Ads	Marie Dupont	2/10/2026	8/30/2026	TRUE
-CTX-1346	Michael	Schneider	michael.schneider@bmw.com		BMW AG	AT	closed won		james.wilson@speexx.com	7/4/2024	3/20/2025	TRUE
-CTX-1347	David	Mueller	david.mueller@allianz.com	N/A	Allianz SE	AT	Marketing Qualified Lead	paid search	Luca Bianchi	12/12/2024	12/12/2025	no
-CTX-1348	Julia	Becker	julia.becker@bmw.com	4930601948	BMW AG	Spain	Lead	ORGANIC		6/24/2023	10/12/2023	no
-CTX-1349	Anna	Richter	anna.richter@zalando.com	+49 890 7331646	Zalando	CH	closed won	organic search	sarah.mueller@speexx.com	11/6/2024	2/12/2025	FALSE
-CTX-1350	Michael	Schmidt	michael.schmidt@hellofresh.com		HelloFresh SE	Spain	OPPORTUNITY	LinkedIn Ads	sarah.mueller@speexx.com	6/21/2023	11/29/2023	TRUE
-CTX-1351	Maria		info@continental.com	4.96031E+11	Continental	Espana	OPPORTUNITY	LinkedIn Ads	marie.dupont@speexx.com	3/9/2023	2/24/2024	0
-CTX-1352	David	Schmidt	david.schmidt@volkswagen.com	0338-1355901	volkswagen	GERMANY	mql	google ads	ana.garcia@speexx.com	9/15/2024	12/27/2024	TRUE
-CTX-1353	Maria	Fischer	maria.fischer@zalando.com	4996979318	Zalando	germany	customer	webinar	ana.garcia@speexx.com	9/1/2023	6/3/2024	TRUE
-CTX-1354	MICHAEL	Fischer	michael.fischer@fresenius.com	4926852512	Fresenius SE	Holland	Sales qualified	unknown	Sarah Mueller	6/17/2024	2/11/2025	1
-CTX-1355	Julia	Fischer	julia.fischer@dt.com	tba	DT AG	GB	CLOSED LOST	Email Campaign		6/30/2023	3/2/2024	TRUE
-CTX-1356	Maria	Wagner	maria.wagner@allianz.com	4.95604E+11	Allianz Se	Italia	Sales Qualified Lead	Organic Search	sarah.mueller@speexx.com	9/1/2024	3/11/2025	no
-CTX-1357	Maria	Wagner	maria.wagner@basf.com	+49 227 7456309	basf	The Netherlands	Lost	Email		1/29/2024	6/3/2024	FALSE
-CTX-1358	David	Mueller	david.mueller@deutsche.com		Deutsche Lufthansa AG	AT	Lead	paid search	Luca Bianchi	12/24/2024	7/28/2025	TRUE
-CTX-1359	Maria	Weber	maria.weber@delivery.com	866 4432 7520	Delivery Hero SE	Italia	MQL	linkedin	Unassigned	5/27/2024	7/15/2024	FALSE
-CTX-1360	Maria	Richter	maria.richter@henkel.com	160 3993 4143	Henkel AG	Switzerland	CUSTOMER	EMAIL	luca.bianchi@speexx.com	10/23/2023	9/6/2024	FALSE
-CTX-1361	JULIA	Schmidt	julia.schmidt@bmw.com	4999298044	bmw	France	won	Organic Search	Ana Garcia	1/22/2024	6/6/2024	no
-CTX-1362	David	Meyer	david.meyer@	N/A	Fresenius SE	GB	customer	email	Marie Dupont	12/11/2023	2/20/2024	TRUE
-CTX-1363	Stefan	Schmidt	info@eon.com	N/A	E.ON	italy	Sales qualified	Unknown	Ana Garcia	12/17/2024	1/27/2025	0
-CTX-1364	Maria	Becker	maria.becker@hellofresh.com	N/A	HelloFresh SE	FRANCE	marketing qualified lead	n/a	marie.dupont@speexx.com	1/30/2024	6/2/2024	FALSE
-CTX-1365	Julia	Schmidt	julia.schmidt@allianz.com		ALLIANZ	GB	customer	referral		1/30/2023	12/3/2023	FALSE
-CTX-1366	Peter	Wagner	peter.wagner@delivery.com	4.95678E+11	Delivery Hero	Holland	customer	Webinar	Ana Garcia	10/31/2024	10/31/2024	1
-CTX-1367	Anna	Hoffmann	anna.hoffmann@eon.com	4971821057	eon	spain	Won	N/A	james.wilson@speexx.com	2/2/2024	4/16/2024	TRUE
-CTX-1368	Stefan	Meyer	stefan@volkswagen.com	+49 606 5890476	Volkswagen AG	US	customer	LinkedIn Ads	Unassigned	12/6/2024	6/24/2025	1
-CTX-1369	Julia	Mueller	julia.mueller@merck.com	234 6298 1886	Merck KGaA	United Kingdom	CLOSED WON	linkedin	l.bianchi@speexx.com	12/12/2023	12/2/2024	no
-1370	Sarah	Schneider	sarah.schneider@deutsche.com	0485-8165734	Deutsche Telekom	ES	won	webinar	l.bianchi@speexx.com	7/20/2023	10/4/2023	yes
-CTX-1371	Michael	Mueller	michael.mueller@bosch.com	+49 808 2503425	Bosch GmbH	Italy	marketing qualified lead	Google Ads	Sarah Mueller	2/11/2024	1/4/2025	
-CTX-1372	Michael	Mueller	michael.mueller@merck.com		MERCK KGAA	POLAND	Customer	organic search	Ana Garcia	8/9/2024	5/10/2025	
-CTX-1373	David	Schmidt		+49 220 4031041	E.ON	PL	SQL	Referral	marie.dupont@speexx.com	7/5/2024	4/18/2025	1
-CTX-1374	Anna	Schmidt	anna.schmidt@bosch.com		Bosch GmbH	US	CLOSED LOST	unknown	J. Wilson	11/2/2023	10/6/2024	TRUE
-CTX-1375	Michael	Mueller	michael.mueller@sap.com		sap se	Francia	CLOSED WON	paid search	james.wilson	11/3/2023	10/23/2024	TRUE
-CTX-1376	Laura	Fischer	laura.fischer@allianz.com	0719-3752186	Allianz SE	AT	Opportunity	Google Ads	Luca Bianchi	10/3/2023	7/9/2024	yes
-CTX-1377	Thomas	Meyer	thomas.meyer@zalando.com	N/A	Zalando SE	France	marketing qualified lead		ana.garcia@speexx.com	1/7/2024	5/30/2024	
-CTX-1378	Sarah	Hoffmann	sarah.hoffmann@allianz.com	4.95843E+11	ALLIANZ	DE	SQL	Email	l.bianchi@speexx.com	6/24/2023	7/21/2023	0
-CTX-1379	Michael	Hoffmann	michael.hoffmann@	0412-2458649	Henkel AG	england	Marketing Qualified Lead	REFERRAL	Sarah Mueller	7/7/2023	8/5/2023	FALSE
-CTX-1380	Sarah	Richter	sarah.richter@thyssenkrupp.com	tba	ThyssenKrupp	Germany	lead	WEBINAR	J. Wilson	3/10/2024	2/11/2025	
-CTX-1381	Stefan	Mueller	stefan.mueller@fresenius.com		Fresenius SE	United kingdom	marketing qualified lead	webinar		6/22/2023	3/24/2024	FALSE
-CTX-1382	Sarah	Weber	sarah.weber@thyssenkrupp.com		Thyssenkrupp AG	IT	MQL	N/A	ana.garcia@speexx.com	9/29/2023	11/22/2023	TRUE
-CTX-1383	Peter	Schneider	peter.schneider@basf.com		basf	NL	closed won	LinkedIn Ads	Luca Bianchi	1/10/2023	3/6/2023	no
-CTX-1384	David	Schneider	david.schneider@robert.com	N/A	Robert Bosch GmbH	NL	Closed Lost	Unknown		12/7/2026	2/10/2027	0
-CTX-1385	Maria	Richter	maria.richter@basf.com	0153-6740173	BASF SE	FR	LEAD	Email Campaign	J. Wilson	4/23/2023	1/9/2024	TRUE
-CTX-1386	Michael	Weber	michael@bosch.com	235 7574 1628	Bosch GmbH	ITALY	Sales Qualified Lead	LinkedIn	Ana Garcia	12/18/2024	1/13/2025	yes
-CTX-1387	Maria	Richter	maria.richter@volkswagen.com	4.99345E+11	Volkswagen AG	AT	mql	Organic Search	sarah.mueller@speexx.com	8/25/2023	2/5/2024	FALSE
-CTX-1388	Sarah	Becker	sarah.becker@bmw.com	4958504268	BMW AG	Austria	Lost	Direct	J. Wilson	4/14/2023	5/28/2023	FALSE
-CTX-1389	Julia	Hoffmann	julia.hoffmann@bosch.com	4.94268E+11	Bosch GmbH	germany	Sales Qualified Lead	EMAIL	Luca Bianchi	8/23/2024	6/5/2025	0
-CTX-1390	Peter	Becker	peter.becker@zalando.com	N/A	Zalando SE	france	lost	unknown	Sarah Mueller	3/22/2024	12/7/2024	yes
-1391	Laura	Wagner	laura.wagner@basf.com	972 4609 5855	basf	Austria	Closed Lost	Google Ads	james.wilson@speexx.com	10/6/2023	7/5/2024	FALSE
-CTX-1392	Sarah	Mueller	sarah.mueller@zalando.com	0647-2949258	Zalando SE	Francia	Lead	Partner Referral	Marie Dupont	10/12/2023	8/20/2024	1
-CTX-1393	Peter	Mueller	peter.mueller@zalando.com	4.92899E+11	Zalando SE	Germany	CLOSED WON	referral	Marie Dupont	12/31/2023	7/6/2024	TRUE
-CTX-1394	David	Schmidt	david.schmidt@thyssenkrupp.com	4919321974	ThyssenKrupp	SPAIN	CLOSED WON	email	Sarah Mueller	4/15/2024	6/24/2024	TRUE
-1395	Stefan	Schmidt	stefan.schmidt@basf.com		BASF SE	Holland	customer	paid search	J. Wilson	1/22/2023	11/6/2023	no
-CTX-1396	Julia	Weber	julia.weber@volkswagen.com		volkswagen	United States	Closed Won	LinkedIn	ana.garcia@speexx.com	6/8/2023	10/1/2023	yes
-CTX-1397	Thomas	Becker	thomas.becker@sap.com	4.9606E+11	SAP SE	france	CUSTOMER	DIRECT	l.bianchi@speexx.com	8/18/2023	2/12/2024	FALSE
-CTX-1398	Sarah		sarah.becker		HelloFresh SE	The Netherlands	lead	Direct	james.wilson@speexx.com	9/29/2023	12/3/2023	TRUE
-CTX-1399	Maria	Meyer	maria.meyer@vw.com	tba	VW AG	USA	Customer	referral	Ana Garcia	3/10/2024	10/11/2024	
-CTX-1147	David	Meyer	david.meyer@eon.com		E.ON SE	Italia	New Lead	webinar	ana.garcia@speexx.com	6/24/2023	11/21/2023	no
-CTX-1198	David	Meyer	david.meyer@continental.com	+49 656 8887754	Continental	germany	Sales Qualified Lead	N/A	Marie Dupont	12/5/2023	8/27/2024	FALSE
-1177	DAVID	Fischer	david.fischer@merck.com	+49 744 9600719	MERCK KGAA	Spain	CUSTOMER	direct	Sarah Mueller	10/24/2024	8/30/2025	no
-CTX-1191	Peter	Richter	peter.richter@merck.com		Merck KGaA	ITALY	CLOSED LOST	direct	luca.bianchi@speexx.com	2/12/2026	4/27/2026	TRUE
-CTX-1056	David	Mueller	david.mueller@siemens.com	tba	siemens	The Netherlands	Lost	LinkedIn Ads	sarah.mueller@speexx.com	10/21/2023	6/1/2024	no
-CTX-1179	Julia	Becker	julia.becker@fresenius.com		Fresenius	Austria	Sales qualified	n/a		2/9/2023	8/7/2023	FALSE
-CTX-1022	Anna	Wagner		+49 646 1452421	volkswagen	CH	Opportunity	Email	ana.garcia@speexx.com	11/26/2024	5/12/2025	0
-CTX-1060	Laura	Fischer	laura.fischer@volkswagen.com	+49 491 9437374	Volkswagen AG	United States	Lost	n/a	Unassigned	7/18/2023	9/8/2023	
-CTX-1092	Thomas	Becker	thomas.becker@deutsche.com	4954689713	Deutsche Lufthansa AG	France	lead	Google Ads	Marie Dupont	7/2/2024	3/4/2025	FALSE
-CTX-1000	Thomas	Mueller	thomas.mueller@bmw.com	4985329037	BMW AG	Italy	CLOSED WON	Direct		8/17/2023	11/6/2023	yes
-CTX-1052	Michael	Richter	michael.richter@bosch.com	316 3248 5186	Bosch GmbH	NL	OPPORTUNITY	Google Ads	sarah.mueller@speexx.com	3/16/2024	10/22/2024	TRUE
-CTX-1004	Maria	Hoffmann	maria.hoffmann@	+49 796 2921859	Allianz SE	Holland	lead	Partner Referral	Luca Bianchi	1/26/2024	10/11/2024	FALSE
-CTX-1092	Thomas	Becker	thomas.becker@deutsche.com	4954689713	Deutsche Lufthansa AG	France	lead	Google Ads	Marie Dupont	7/2/2024	3/4/2025	FALSE
-CTX-1142	Michael	Schneider	michael.schneider@volkswagen.com	627 3604 2075	Volkswagen AG	United kingdom	Lead	unknown	Ana Garcia	11/25/2023	8/19/2024	TRUE
-CTX-1121	Thomas	Weber	thomas.weber@delivery.com	4978293320	Delivery Hero	POLAND	mql	n/a	ana.garcia@speexx.com	10/4/2024	12/19/2024	TRUE
-CTX-1034	Anna	Richter	anna.richter@continental.com	+49 308 5480460	Continental	UK	Lost	REFERRAL	Marie Dupont	2/25/2023	12/4/2023	TRUE
-CTX-1028	Thomas	Richter	thomas.richter@delivery.com	tba	Delivery Hero SE	SPAIN	SQL	Direct	sarah.mueller@speexx.com	7/16/2023	4/24/2024	1
-CTX-1015	David		david.fischer@sap.com		sap se	england	MQL	Google Ads		12/25/2023	3/25/2024	1
-CTX-1089	David	Meyer	david.meyer@bosch.com	4989717834	BOSCH	italy	lead	ORGANIC	Ana Garcia	7/13/2023	4/14/2024	FALSE
-CTX-1092	Thomas	Becker	thomas.becker@deutsche.com	4954689713	Deutsche Lufthansa AG	France	lead	Google Ads	Marie Dupont	7/2/2024	3/4/2025	FALSE
+contact_id,first_name,last_name,email,phone,company,country,lifecycle_stage,lead_source,owner,created_date,last_activity_date,opted_out
+CTX-1000,Thomas,Mueller,thomas.mueller@bmw.com,004985329037,BMW AG,Italy,CLOSED WON,Direct,,2023-08-17,2023-11-06,yes
+CTX-1001,Peter,Weber,peter.weber@bosch.com,0649-3094235,BOSCH,ES,mql,referral,,2023-12-11,2024-01-20,false
+CTX-1002,Thomas,Wagner,thomas.wagner@bmw.com,,BMW AG,england,Customer,organic,J. Wilson,2024-10-12,2025-03-22,yes
+CTX-1003,Sarah,Schmidt,sarah.schmidt@deutsche.com,N/A,Deutsche Telekom,POLAND,Marketing Qualified Lead,organic,Unassigned,2023-11-19,2024-10-05,true
+CTX-1004,Maria,Hoffmann,maria.hoffmann@,+49 796 2921859,Allianz SE,Holland,lead,Partner Referral,Luca Bianchi,2024-01-26,2024-10-11,False
+CTX-1005,Sarah,Richter,sarah.richter,0600-1326765,Fresenius SE,spain,lead,Unknown,Unassigned,2023-06-06,2024-03-04,true
+CTX-1006,Julia,Becker,julia.becker@merck.com,004979467853,Merck KGaA,Spain,Marketing Qualified Lead,webinar,sarah.mueller@speexx.com,2023-09-29,2024-01-24,false
+CTX-1007,Anna,Schmidt,anna.schmidt@delivery.com,004942614537,Delivery Hero,AT,marketing qualified lead,PPC,marie.dupont@speexx.com,2023-03-02,2023-10-04,yes
+CTX-1008,David,Mueller,david.mueller@hellofresh.com,N/A,HelloFresh,Switzerland,New Lead,PPC,sarah.mueller@speexx.com,2024-10-23,2025-07-26,True
+CTX-1009,Thomas,Fischer,thomas.fischer@sap.com,004984593961,SAP SE,UK,opportunity,Referral,sarah.mueller@speexx.com,2024-05-12,2025-02-13,True
+CTX-1010,Peter,Mueller,peter.mueller@siemens.com,0709-2140194,siemens,PL,closed won,,ana.garcia@speexx.com,2024-05-03,2024-08-15,0
+CTX-1011,Michael,Weber,michael.weber@basf.com,,basf,FR,opportunity,linkedin,luca.bianchi@speexx.com,2024-11-18,2025-11-13,1
+CTX-1012,Stefan,Richter,stefan.richter@siemens.com,N/A,Siemens AG,CH,Opportunity,organic,Sarah Mueller,2024-07-21,2024-12-09,True
+CTX-1013,Anna,Meyer,anna.meyer@robert.com,+498879525611,Robert Bosch GmbH,AT,mql,DIRECT,ana.garcia@speexx.com,2023-09-26,2023-10-16,0
+CTX-1014,Michael,Fischer,michael.fischer@hellofresh.com,004913326769,HelloFresh SE,FRANCE,Opportunity,linkedin,,2023-12-29,2024-07-11,True
+CTX-1015,David,,david.fischer@sap.com,,sap se,england,MQL,Google Ads,,2023-12-25,2024-03-25,1
+CTX-1016,Anna,Schmidt,anna.schmidt@fresenius.com,,Fresenius SE,GB,closed won,Paid Search,marie.dupont@speexx.com,2023-12-20,2024-11-03,0
+CTX-1017,Thomas,Weber,thomas.weber@eon.com,,E.ON SE,Italia,CLOSED WON,,luca.bianchi@speexx.com,2024-11-13,2025-08-01,no
+CTX-1018,Julia,Schmidt,julia.schmidt@bmw.com,,bmw,US,CUSTOMER,LINKEDIN,Marie Dupont,2024-11-10,2025-07-21,yes
+CTX-1019,Michael,Schneider,michael.schneider@zalando.com,N/A,Zalando,Germany,CLOSED LOST,unknown,Ana Garcia,2023-04-20,2024-01-25,no
+CTX-1020,Julia,Becker,julia.becker@continental.com,+496302109556,Continental AG,ITALY,SQL,referral,Ana Garcia,2023-09-11,2024-09-06,false
+CTX-1021,Thomas,Wagner,thomas.wagner@henkel.com,tba,Henkel AG,NETHERLANDS,lead,referral,luca.bianchi@speexx.com,2024-07-09,2025-02-17,no
+CTX-1022,Anna,Wagner,,+49 646 1452421,volkswagen,CH,Opportunity,Email,ana.garcia@speexx.com,2024-11-26,2025-05-12,0
+CTX-1023,Maria,Weber,maria.weber@henkel.com,004936757737,Henkel AG,ITALY,SQL,n/a,marie.dupont@speexx.com,2023-03-25,2023-07-14,no
+CTX-1024,Sarah,Meyer,sarah.meyer@sap.com,706 4978 2669,SAP SE,Austria,customer,Google Ads,,2024-09-13,2024-10-04,0
+CTX-1025,Laura,Wagner,laura.wagner@hellofresh.com,N/A,HelloFresh SE,The Netherlands,CLOSED WON,Email Campaign,Unassigned,2023-03-12,2023-07-27,0
+CTX-1026,Michael,Schmidt,michael.schmidt@bmw.com,tba,BMW AG,United kingdom,Sales Qualified Lead,paid search,J. Wilson,2023-09-07,2024-05-14,
+CTX-1027,Michael,Becker,michael.becker@zalando.com,438 6764 8434,Zalando,USA,opportunity,Partner Referral,J. Wilson,2024-04-03,2024-07-10,0
+CTX-1028,Thomas,Richter,thomas.richter@delivery.com,tba,Delivery Hero SE,SPAIN,SQL,Direct,sarah.mueller@speexx.com,2023-07-16,2024-04-24,1
+CTX-1029,Julia,Becker,julia.becker@allianz.com,+497015992643,ALLIANZ,Germany,New Lead,DIRECT,Sarah Mueller,2024-08-10,2024-10-09,
+CTX-1030,Maria,Hoffmann,maria.hoffmann@fresenius.com,0682-2010496,Fresenius SE,AUSTRIA,sql,REFERRAL,james.wilson@speexx.com,2023-08-20,2023-11-08,True
+CTX-1031,Maria,Becker,maria.becker@delivery.com,+492825957977,Delivery Hero SE,Austria,Marketing Qualified Lead,organic,james.wilson@speexx.com,2024-04-26,2025-02-24,1
+CTX-1032,David,Schmidt,david.schmidt@continental.com,+49 542 6407658,Continental,Italia,LEAD,LinkedIn Ads,luca.bianchi@speexx.com,2024-12-17,2025-07-31,1
+CTX-1033,Julia,Hoffmann,julia.hoffmann@henkel.com,,Henkel,AT,Opportunity,Webinar,Sarah Mueller,2024-05-18,2024-12-10,
+CTX-1034,Anna,Richter,anna.richter@continental.com,+49 308 5480460,Continental,UK,Lost,REFERRAL,Marie Dupont,2023-02-25,2023-12-04,True
+CTX-1035,Laura,Wagner,laura.wagner@allianz.com,004942713008,Allianz Se,Espana,CLOSED LOST,unknown,Marie Dupont,2023-04-27,2023-06-01,1
+CTX-1036,Maria,Meyer,maria.meyer@eon.com,N/A,E.ON SE,italy,OPPORTUNITY,LINKEDIN,Marie Dupont,2023-01-03,2023-07-18,false
+CTX-1037,Maria,Mueller,maria.mueller@vw.com,tba,VW AG,United States,CLOSED WON,Organic Search,Marie Dupont,2024-12-23,2025-11-23,true
+CTX-1038,Thomas,Becker,thomas@bmw.com,0741-9186400,BMW Group,NETHERLANDS,closed won,PPC,,2024-09-30,2024-11-20,no
+CTX-1039,Julia,Weber,julia.weber@siemens.com,+499929101065,SIEMENS AG,germany,Sales qualified,N/A,marie.dupont@speexx.com,2023-11-29,2024-04-07,True
+CTX-1040,David,Weber,,490 6881 5847,HelloFresh,u.s.,MQL,email,james.wilson,11/06/2023,2023-07-06,no
+CTX-1041,Sarah,Fischer,sarah.fischer@fresenius.com,,Fresenius SE,NL,lead,google ads,Sarah Mueller,2023-08-13,2024-01-27,yes
+CTX-1042,Julia,Fischer,julia@robert.com,,Robert Bosch GmbH,u.s.,customer,Event,Sarah Mueller,2024-01-10,2024-01-17,1
+CTX-1043,Laura,Schmidt,laura.schmidt@continental.com,,Continental,The Netherlands,marketing qualified lead,google ads,sarah.mueller@speexx.com,2024-11-19,2025-04-23,no
+CTX-1044,Thomas,Schmidt,thomas.schmidt@dt.com,,DT AG,u.s.,Sales Qualified Lead,,luca.bianchi@speexx.com,2023-05-19,2023-11-20,False
+CTX-1045,Peter,Richter,peter.richter@zalando.com,tba,Zalando,NL,Sales Qualified Lead,Referral,Unassigned,2023-03-04,2023-08-19,true
+CTX-1046,Stefan,Mueller,stefan.mueller@bmw.com,tba,BMW AG,Francia,marketing qualified lead,Paid Search,luca.bianchi@speexx.com,2023-05-14,2023-11-15,
+CTX-1047,Stefan,Schmidt,stefan.schmidt@continental.com,N/A,Continental AG,US,Marketing Qualified Lead,paid search,ana.garcia@speexx.com,2023-08-15,2023-09-17,true
+CTX-1048,Sarah,Hoffmann,sarah.hoffmann@zalando.com,N/A,Zalando SE,PL,Closed Won,EMAIL,Marie Dupont,2024-07-15,2025-02-18,0
+CTX-1049,Sarah,Meyer,sarah.meyer@bosch.com,994 7929 1842,BOSCH,SWITZERLAND,CLOSED LOST,DIRECT,ana.garcia@speexx.com,2024-04-30,2025-01-14,false
+CTX-1050,Julia,Becker,julia@deutsche.com,,Deutsche Telekom AG,FRANCE,MQL,LinkedIn Ads,Unassigned,2023-12-25,2024-11-25,yes
+CTX-1051,Thomas,Schneider,thomas.schneider@zalando.com,261 1815 2336,Zalando SE,GERMANY,CLOSED WON,Email Campaign,luca.bianchi@speexx.com,2023-04-04,2023-11-02,1
+CTX-1052,Michael,Richter,michael.richter@bosch.com,316 3248 5186,Bosch GmbH,NL,OPPORTUNITY,Google Ads,sarah.mueller@speexx.com,2024-03-16,2024-10-22,true
+CTX-1053,Julia,Wagner,julia.wagner@eon.com,539 7626 7843,eon,Espana,marketing qualified lead,email,sarah.mueller@speexx.com,2024-05-27,2024-08-22,no
+CTX-1054,Peter,Schmidt,peter.schmidt@henkel.com,004994989976,Henkel,FRANCE,CUSTOMER,WEBINAR,ana.garcia@speexx.com,2023-09-07,2024-08-02,true
+CTX-1055,Michael,Schmidt,michael.schmidt@,169 8682 8245,BOSCH,ITALY,New Lead,Direct,l.bianchi@speexx.com,22/07/2023,2023-12-27,no
+CTX-1056,David,Mueller,david.mueller@siemens.com,tba,siemens,The Netherlands,Lost,LinkedIn Ads,sarah.mueller@speexx.com,2023-10-21,2024-06-01,no
+CTX-1057,Laura,Richter,laura.richter@fresenius.com,,Fresenius,Spain,Marketing Qualified Lead,LinkedIn,,2024-01-08,2024-12-08,yes
+CTX-1058,Julia,Hoffmann,julia.hoffmann@delivery.com,004912446861,Delivery Hero,France,OPPORTUNITY,Unknown,J. Wilson,2023-11-14,2024-01-23,true
+CTX-1059,THOMAS,Weber,thomas.weber@allianz.com,004968743530,ALLIANZ,US,CLOSED WON,direct,,2024-07-06,2025-02-20,false
+CTX-1060,Laura,Fischer,laura.fischer@volkswagen.com,+49 491 9437374,Volkswagen AG,United States,Lost,n/a,Unassigned,2023-07-18,2023-09-08,
+CTX-1061,Thomas,Weber,contact@allianz.com,,Allianz Se,Spain,Marketing Qualified Lead,Event,J. Wilson,07/10/2023,2024-10-06,0
+CTX-1062,Julia,Schneider,julia.schneider@siemens.com,0362-4618086,Siemens ag,IT,LEAD,direct,J. Wilson,2024-04-28,2024-05-22,false
+CTX-1063,Maria,Hoffmann,maria.hoffmann@continental.com,0398-8201433,Continental,Deutschland,won,Event,Sarah Mueller,2023-04-24,2024-01-27,
+CTX-1064,Laura,Richter,laura.richter@siemens.com,+492428156550,SIEMENS AG,Holland,Customer,N/A,Marie Dupont,2024-04-26,2024-07-28,true
+CTX-1065,THOMAS,Becker,thomas.becker@siemens.com,982 1783 6438,Siemens ag,IT,marketing qualified lead,Event,Ana Garcia,2023-07-26,2024-03-07,yes
+CTX-1066,Peter,Schneider,peter.schneider@thyssenkrupp.com,N/A,ThyssenKrupp,USA,CLOSED LOST,Email Campaign,james.wilson@speexx.com,2024-01-12,2024-07-09,no
+CTX-1067,Anna,Meyer,anna.meyer@fresenius.com,,Fresenius,GB,Closed Won,ORGANIC,l.bianchi@speexx.com,2023-10-09,2024-05-26,0
+CTX-1068,Peter,Becker,peter.becker@allianz.com,004945135070,Allianz SE,POLAND,CLOSED LOST,direct,Marie Dupont,2023-05-21,2024-01-27,false
+CTX-1069,Thomas,Schneider,thomas@allianz.com,N/A,Allianz SE,United kingdom,MQL,Event,Luca Bianchi,2023-06-26,2024-02-20,
+CTX-1070,Julia,Hoffmann,julia.hoffmann@allianz.com,+493758823240,Allianz Se,Deutschland,CUSTOMER,LinkedIn Ads,,2023-11-13,2024-06-21,
+CTX-1071,Anna,Schmidt,anna.schmidt@,0356-4293399,E.ON,Francia,won,linkedin,l.bianchi@speexx.com,2023-11-08,2024-01-25,true
+1072,STEFAN,Hoffmann,stefan.hoffmann@volkswagen.com,N/A,volkswagen,POLAND,Sales qualified,email,james.wilson,2023-02-12,2024-01-30,True
+CTX-1073,Julia,Becker,julia.becker@henkel.com,004979119463,Henkel AG,United States,CLOSED WON,Google Ads,james.wilson,2024-04-20,2024-07-01,False
+CTX-1074,Anna,Weber,anna.weber@basf.com,0881-3673322,BASF SE,AUSTRIA,Closed Won,unknown,luca.bianchi@speexx.com,2024-03-04,2024-06-22,0
+CTX-1075,Anna,Mueller,anna@bmw.com,tba,bmw,USA,Sales Qualified Lead,Event,Luca Bianchi,2024-09-03,2025-03-19,
+CTX-1076,David,Richter,,+497481631841,BMW AG,AUSTRIA,Lead,webinar,,2024-11-27,2025-07-18,true
+CTX-1077,Stefan,Richter,stefan.richter@robert.com,,Robert Bosch GmbH,Netherlands,closed lost,DIRECT,,2024-09-19,2025-09-06,True
+CTX-1078,Stefan,Becker,stefan.becker@bmw.com,,BMW Group,Switzerland,closed won,LinkedIn,Ana Garcia,2024-08-15,2025-03-13,
+CTX-1079,Stefan,Becker,stefan.becker@siemens.com,004996343485,siemens,FR,Sales qualified,Direct,Luca Bianchi,2024-06-15,2024-11-14,1
+CTX-1080,Michael,Becker,michael.becker@vw.com,,VW AG,United States,CLOSED WON,Partner Referral,Marie Dupont,2023-12-24,2024-04-05,
+CTX-1081,Sarah,Richter,contact@delivery.com,tba,Delivery Hero SE,italy,sql,EMAIL,marie.dupont@speexx.com,2023-05-21,2024-01-19,no
+CTX-1082,Michael,Weber,michael.weber@vw.com,906 9116 4052,VW AG,IT,CUSTOMER,ORGANIC,sarah.mueller@speexx.com,2024-10-23,2025-08-27,False
+CTX-1083,Peter,Weber,peter.weber@continental.com,,Continental,Switzerland,New Lead,direct,l.bianchi@speexx.com,2024-07-10,2024-10-16,true
+CTX-1084,Stefan,Wagner,stefan.wagner@henkel.com,437 5947 1187,Henkel,US,Lost,Event,Marie Dupont,2023-12-02,2024-11-07,False
+CTX-1085,David,Weber,david.weber@sap.com,tba,SAP SE,United Kingdom,Won,Referral,,2024-12-03,2025-10-04,False
+CTX-1086,Laura,Becker,laura.becker@eon.com,tba,E.ON,The Netherlands,CLOSED WON,organic,luca.bianchi@speexx.com,2023-03-21,2023-10-19,no
+CTX-1087,Stefan,Mueller,stefan.mueller@merck.com,170 8734 1519,Merck KGaA,england,closed won,LinkedIn Ads,,2024-11-19,2025-10-13,yes
+CTX-1088,Peter,Wagner,info@continental.com,954 1056 1372,Continental AG,Holland,CLOSED WON,Email Campaign,Luca Bianchi,2024-01-20,2024-05-16,false
+CTX-1089,David,Meyer,david.meyer@bosch.com,004989717834,BOSCH,italy,lead,ORGANIC,Ana Garcia,2023-07-13,2024-04-14,false
+CTX-1090,Anna,Schneider,anna.schneider@eon.com,tba,E.ON SE,IT,closed lost,LinkedIn Ads,marie.dupont@speexx.com,2023-08-28,2024-06-07,no
+CTX-1091,Anna,Meyer,anna.meyer@zalando.com,tba,Zalando,CH,won,google ads,Ana Garcia,2024-01-26,2024-05-09,0
+CTX-1092,Thomas,Becker,thomas.becker@deutsche.com,004954689713,Deutsche Lufthansa AG,France,lead,Google Ads,Marie Dupont,2024-07-02,2025-03-04,false
+CTX-1093,Stefan,Fischer,stefan.fischer@basf.com,+49 468 9603633,basf,Italy,closed lost,referral,Marie Dupont,2024-07-19,2024-11-29,
+CTX-1094,Stefan,Hoffmann,stefan.hoffmann@henkel.com,+497402059279,Henkel AG,IT,lead,Unknown,james.wilson@speexx.com,2023-06-06,2024-03-09,True
+CTX-1095,Laura,Mueller,laura.mueller@allianz.com,+49 109 4669507,Allianz SE,CH,MQL,EMAIL,sarah.mueller@speexx.com,19/02/2023,2023-11-20,1
+CTX-1096,Anna,Richter,anna.richter@delivery.com,004960070135,Delivery Hero SE,SWITZERLAND,opportunity,paid search,marie.dupont@speexx.com,2024-03-16,2025-02-11,True
+CTX-1097,Thomas,Wagner,thomas@basf.com,+49 760 6557798,BASF SE,Holland,Marketing Qualified Lead,Direct,,2024-07-19,2025-06-20,True
+CTX-1098,Julia,Meyer,julia.meyer@siemens.com,tba,SIEMENS AG,ES,lead,WEBINAR,sarah.mueller@speexx.com,2024-08-24,2024-12-20,False
+CTX-1099,Peter,Hoffmann,peter.hoffmann@fresenius.com,776 7227 2404,Fresenius,Austria,New Lead,REFERRAL,Marie Dupont,2024-02-11,2024-06-27,true
+1100,Maria,Schneider,maria.schneider@basf.com,,BASF SE,Netherlands,customer,Email,sarah.mueller@speexx.com,2024-01-05,2024-07-21,False
+CTX-1101,Laura,Fischer,laura.fischer@merck.com,N/A,Merck,United states,CLOSED LOST,LINKEDIN,luca.bianchi@speexx.com,2023-06-23,2023-11-25,True
+CTX-1102,Maria,Meyer,maria.meyer@fresenius.com,N/A,Fresenius,Holland,closed lost,REFERRAL,ana.garcia@speexx.com,2023-12-04,2024-06-22,0
+CTX-1103,THOMAS,Hoffmann,thomas.hoffmann@,242 5961 4965,sap se,PL,lost,LinkedIn,Marie Dupont,2024-07-12,2025-01-21,False
+CTX-1104,David,Hoffmann,david.hoffmann@thyssenkrupp.com,,Thyssenkrupp AG,PL,New Lead,Email Campaign,Sarah Mueller,02-15-2024,2024-11-02,
+CTX-1105,Laura,Hoffmann,laura.hoffmann@delivery.com,218 3321 6707,Delivery Hero SE,POLAND,OPPORTUNITY,N/A,,2023-08-15,2024-04-18,0
+CTX-1106,David,,david.schmidt@continental.com,N/A,Continental AG,United kingdom,Sales qualified,email,marie.dupont@speexx.com,2023-11-23,2024-10-15,yes
+CTX-1107,Maria,Mueller,maria.mueller@fresenius.com,0691-2707116,Fresenius,spain,Opportunity,Unknown,Luca Bianchi,2024-04-05,2024-09-12,yes
+CTX-1108,Stefan,Wagner,stefan.wagner@merck.com,,MERCK KGAA,france,Lead,LinkedIn,Luca Bianchi,2023-12-23,2024-10-23,true
+CTX-1109,Stefan,Wagner,stefan.wagner@henkel.com,N/A,Henkel,SPAIN,closed won,Unknown,Ana Garcia,2024-05-13,2024-12-26,no
+CTX-1110,Julia,Schmidt,julia.schmidt@merck.com,+49 860 9309978,Merck,GERMANY,LEAD,,Luca Bianchi,2023-08-14,2024-03-18,False
+CTX-1111,Michael,Weber,michael.weber@siemens.com,+49 342 4521171,Siemens ag,United kingdom,closed lost,WEBINAR,Luca Bianchi,2023-09-27,2024-06-28,true
+CTX-1112,Peter,Weber,peter.weber@bmw.com,,bmw,POLAND,Won,LinkedIn,l.bianchi@speexx.com,2023-10-01,2024-08-17,yes
+CTX-1113,Maria,Becker,maria.becker@allianz.com,tba,Allianz SE,AT,Closed Won,Referral,Ana Garcia,2023-04-06,2023-12-15,1
+CTX-1114,Peter,Weber,peter.weber@volkswagen.com,,volkswagen,Poland,Sales Qualified Lead,google ads,,2024-08-14,2024-11-03,1
+CTX-1115,Thomas,Meyer,thomas.meyer@bmw.com,+494022360089,BMW Group,France,closed lost,referral,Luca Bianchi,2024-01-16,2024-01-20,True
+CTX-1116,Peter,Schmidt,peter.schmidt@henkel.com,N/A,Henkel,FR,Opp,Referral,marie.dupont@speexx.com,2024-05-04,2024-11-30,no
+CTX-1117,Michael,Schmidt,michael.schmidt@allianz.com,tba,ALLIANZ,FR,CLOSED LOST,unknown,J. Wilson,2023-05-07,2023-10-05,True
+CTX-1118,Michael,Becker,,0496-8060918,BASF SE,france,MQL,Partner Referral,J. Wilson,09-04-2023,2024-03-25,
+CTX-1119,Sarah,Richter,sarah.richter@henkel.com,,Henkel AG,GB,lead,REFERRAL,sarah.mueller@speexx.com,2024-12-19,2025-07-29,False
+CTX-1120,David,,david.hoffmann@fresenius.com,0608-6816746,Fresenius SE,DE,LEAD,organic search,ana.garcia@speexx.com,2023-11-13,2024-03-31,
+CTX-1121,Thomas,Weber,thomas.weber@delivery.com,004978293320,Delivery Hero,POLAND,mql,n/a,ana.garcia@speexx.com,2024-10-04,2024-12-19,true
+CTX-1122,Anna,Richter,anna@delivery.com,,Delivery Hero,Switzerland,Marketing Qualified Lead,N/A,Unassigned,2024-03-05,2024-08-11,0
+CTX-1123,Thomas,Richter,thomas.richter@continental.com,004930208677,Continental,Germany,Closed Lost,WEBINAR,marie.dupont@speexx.com,2024-01-13,2024-01-17,0
+CTX-1124,Anna,Wagner,,0195-1736524,Volkswagen AG,FRANCE,closed lost,PPC,Luca Bianchi,2023-07-30,2024-02-16,False
+CTX-1125,Stefan,Hoffmann,stefan.hoffmann@siemens.com,+492168041588,siemens,GB,marketing qualified lead,linkedin,luca.bianchi@speexx.com,2024-11-09,2025-06-05,False
+CTX-1126,Laura,Meyer,laura.meyer@deutsche.com,+49 821 1676621,Deutsche Telekom,United kingdom,lost,DIRECT,james.wilson,2023-11-12,2024-02-09,True
+CTX-1127,Maria,Becker,maria.becker@merck.com,0233-4324120,Merck KGaA,Poland,MQL,Paid Search,J. Wilson,2023-09-13,2024-04-27,true
+CTX-1128,Thomas,Meyer,thomas.meyer@bosch.com,004947561442,Bosch GmbH,germany,Lost,direct,luca.bianchi@speexx.com,2024-04-17,2025-01-23,no
+CTX-1129,Anna,Schmidt,,,BMW AG,Holland,Opportunity,LinkedIn Ads,sarah.mueller@speexx.com,2023-05-21,2023-09-10,True
+CTX-1130,Sarah,Mueller,sarah.mueller@thyssenkrupp.com,+495070780669,Thyssenkrupp AG,United states,sql,REFERRAL,l.bianchi@speexx.com,2024-01-02,2024-12-24,0
+CTX-1131,Stefan,Mueller,info@delivery.com,tba,Delivery Hero,NL,Won,Organic Search,ana.garcia@speexx.com,2024-08-04,2024-11-15,true
+CTX-1132,Peter,Schneider,peter.schneider@vw.com,+493516922421,VW AG,DE,lead,Email Campaign,,2023-01-23,2023-09-29,0
+CTX-1133,Julia,Richter,julia.richter@delivery.com,N/A,Delivery Hero SE,AUSTRIA,SQL,webinar,Marie Dupont,2024-01-01,2024-06-26,0
+CTX-1134,JULIA,Schmidt,julia.schmidt@delivery.com,+494094152811,Delivery Hero,CH,CUSTOMER,EMAIL,luca.bianchi@speexx.com,2024-10-16,2025-04-13,
+CTX-1135,Maria,Schmidt,maria.schmidt@thyssenkrupp.com,tba,Thyssenkrupp AG,POLAND,CUSTOMER,paid search,ana.garcia@speexx.com,2024-10-28,2025-09-07,no
+CTX-1136,Anna,Wagner,anna.wagner@zalando.com,+492277326067,Zalando,Spain,mql,Event,sarah.mueller@speexx.com,2024-09-13,2025-02-10,no
+CTX-1137,Michael,Schmidt,michael.schmidt@siemens.com,,SIEMENS AG,ES,Opp,LinkedIn Ads,luca.bianchi@speexx.com,06-24-2023,2023-11-05,false
+CTX-1138,Sarah,Hoffmann,,004980139805,siemens,Francia,Won,DIRECT,Sarah Mueller,2024-12-14,2025-12-14,True
+CTX-1139,Laura,Hoffmann,laura.hoffmann@,+491541964762,E.ON,POLAND,Customer,Partner Referral,ana.garcia@speexx.com,2024-11-24,2024-12-28,False
+CTX-1140,Maria,,maria.richter@basf.com,0900-8039616,basf,Poland,New Lead,direct,Unassigned,2023-11-30,2024-05-24,yes
+CTX-1141,Sarah,Wagner,sarah.wagner@zalando.com,,Zalando,USA,Customer,DIRECT,james.wilson,2024-08-08,2025-04-16,False
+CTX-1142,Michael,Schneider,michael.schneider@volkswagen.com,627 3604 2075,Volkswagen AG,United kingdom,Lead,unknown,Ana Garcia,2023-11-25,2024-08-19,True
+CTX-1143,Julia,Fischer,julia.fischer@sap.com,N/A,sap se,DE,closed lost,WEBINAR,ana.garcia@speexx.com,2026-01-12,2026-05-24,False
+CTX-1144,Sarah,Mueller,sarah.mueller@basf.com,+49 311 5514473,BASF SE,DE,Sales qualified,Partner Referral,l.bianchi@speexx.com,2023-06-16,2023-11-19,1
+CTX-1145,Maria,Wagner,maria.wagner@lufthansa.com,593 2045 6509,Lufthansa Group,england,Lost,Webinar,Unassigned,2023-09-16,2024-08-16,1
+CTX-1146,Michael,Schneider,michael.schneider@eon.com,+49 838 1427068,E.ON,Italy,closed lost,LINKEDIN,ana.garcia@speexx.com,2023-02-28,2023-06-21,
+CTX-1147,David,Meyer,david.meyer@eon.com,,E.ON SE,Italia,New Lead,webinar,ana.garcia@speexx.com,2023-06-24,2023-11-21,no
+CTX-1148,Thomas,Becker,thomas.becker@siemens.com,,siemens,AT,closed lost,N/A,james.wilson@speexx.com,2024-08-20,2024-11-20,False
+1149,David,Meyer,david.meyer@zalando.com,+49 882 3658100,Zalando SE,SPAIN,Closed Lost,LINKEDIN,Marie Dupont,2023-11-17,2023-11-24,0
+CTX-1150,Laura,Fischer,laura.fischer@siemens.com,tba,SIEMENS AG,SWITZERLAND,CLOSED LOST,,ana.garcia@speexx.com,2023-01-05,2023-12-22,true
+CTX-1151,Peter,Becker,peter.becker@lufthansa.com,828 1612 7147,Lufthansa Group,spain,LEAD,organic,l.bianchi@speexx.com,2023-06-18,2024-05-21,False
+CTX-1152,Anna,Mueller,anna.mueller@delivery.com,,Delivery Hero SE,france,Customer,PPC,Luca Bianchi,2024-03-02,2024-05-01,1
+CTX-1153,Thomas,Schmidt,thomas.schmidt@thyssenkrupp.com,+49 402 3690622,ThyssenKrupp,spain,lost,paid search,,2024-09-15,2025-07-05,no
+CTX-1154,Julia,Schmidt,julia.schmidt@eon.com,0932-3931009,E.ON SE,Deutschland,marketing qualified lead,ORGANIC,sarah.mueller@speexx.com,2023-04-14,2024-03-18,true
+CTX-1155,Peter,Meyer,peter.meyer@continental.com,0955-7471232,Continental AG,AUSTRIA,closed won,n/a,,2023-10-02,2024-05-13,true
+CTX-1156,Stefan,Wagner,stefan.wagner@lufthansa.com,tba,Lufthansa Group,AUSTRIA,LEAD,referral,marie.dupont@speexx.com,2023-01-30,2023-10-22,
+CTX-1157,Stefan,Schmidt,stefan@henkel.com,428 4946 6421,Henkel,CH,mql,unknown,J. Wilson,2023-09-12,2024-03-23,yes
+CTX-1158,Michael,Schmidt,michael.schmidt@continental.com,662 1002 2489,Continental,United kingdom,CUSTOMER,unknown,Luca Bianchi,2024-08-09,2025-07-18,no
+CTX-1159,Peter,Meyer,peter.meyer@siemens.com,tba,siemens,Espana,Opp,PPC,sarah.mueller@speexx.com,2024-04-10,2024-12-18,true
+CTX-1160,Maria,Schmidt,maria.schmidt@bmw.com,N/A,BMW Group,AUSTRIA,MQL,,Marie Dupont,20/07/2023,2024-05-14,no
+CTX-1161,Laura,Schneider,info@delivery.com,+496470052645,Delivery Hero SE,PL,closed won,unknown,james.wilson,2023-06-27,2024-04-02,0
+CTX-1162,Laura,Fischer,laura.fischer@sap.com,tba,sap se,ES,opportunity,Email Campaign,,10-01-2024,2025-04-14,true
+CTX-1163,Anna,Mueller,anna.mueller@sap.com,tba,sap se,italy,New Lead,direct,Marie Dupont,2023-06-14,2023-12-26,yes
+CTX-1164,Maria,Meyer,maria.meyer@merck.com,+495141593270,Merck KGaA,DE,sql,unknown,Sarah Mueller,2023-01-14,2023-08-21,1
+1165,Laura,Weber,laura.weber@robert.com,tba,Robert Bosch GmbH,Spain,Marketing Qualified Lead,unknown,james.wilson@speexx.com,2024-08-21,2025-05-22,yes
+CTX-1166,Thomas,Meyer,thomas.meyer@deutsche.com,,Deutsche Telekom AG,ES,Closed Won,Google Ads,Ana Garcia,2024-11-10,2025-04-03,True
+CTX-1167,Laura,Meyer,laura.meyer@eon.com,0891-9945709,E.ON SE,US,Sales Qualified Lead,Email Campaign,marie.dupont@speexx.com,2024-04-01,2024-05-07,true
+CTX-1168,Anna,Becker,anna.becker@delivery.com,tba,Delivery Hero,NETHERLANDS,MQL,Paid Search,,2023-02-08,2023-03-03,False
+CTX-1169,Peter,Richter,peter.richter@allianz.com,864 7406 9941,ALLIANZ,IT,Lost,LinkedIn,james.wilson,2024-12-03,2025-10-30,0
+CTX-1170,Anna,Richter,anna.richter@merck.com,0316-7923193,Merck KGaA,Francia,sql,organic,Unassigned,2023-05-07,2024-02-12,no
+CTX-1171,Laura,Schmidt,laura.schmidt@bmw.com,,bmw,CH,CLOSED LOST,DIRECT,Marie Dupont,2023-03-10,2023-12-24,0
+CTX-1172,Peter,Wagner,peter@sap.com,tba,SAP SE,Germany,marketing qualified lead,LinkedIn Ads,marie.dupont@speexx.com,2023-11-17,2024-04-08,true
+CTX-1173,Laura,Fischer,laura@bmw.com,N/A,BMW Group,AT,Lost,LinkedIn,ana.garcia@speexx.com,2023-03-20,2024-01-15,1
+CTX-1174,Julia,Becker,julia@eon.com,,E.ON SE,US,mql,referral,,2023-04-03,2023-05-05,1
+CTX-1175,Peter,Fischer,info@siemens.com,,Siemens ag,CH,Opp,Paid Search,Luca Bianchi,2023-07-31,2023-11-22,
+1176,Maria,Meyer,maria.meyer@lufthansa.com,,Lufthansa Group,USA,New Lead,webinar,Marie Dupont,2024-05-08,2025-04-18,no
+1177,DAVID,Fischer,david.fischer@merck.com,+49 744 9600719,MERCK KGAA,Spain,CUSTOMER,direct,Sarah Mueller,2024-10-24,2025-08-30,no
+CTX-1178,David,Schneider,david.schneider@deutsche.com,004961735818,Deutsche Telekom AG,UK,won,unknown,marie.dupont@speexx.com,2024-09-07,2024-11-22,False
+CTX-1179,Julia,Becker,julia.becker@fresenius.com,,Fresenius,Austria,Sales qualified,n/a,,2023-02-09,2023-08-07,False
+CTX-1180,Maria,Schneider,maria.schneider@bmw.com,,BMW Group,United States,marketing qualified lead,LinkedIn,Ana Garcia,2023-08-27,2024-01-03,1
+CTX-1181,Laura,Wagner,laura.wagner@merck.com,N/A,Merck,The Netherlands,New Lead,linkedin,Sarah Mueller,2024-09-18,2025-04-11,0
+CTX-1182,Laura,Hoffmann,laura@delivery.com,,Delivery Hero SE,SWITZERLAND,CLOSED LOST,,james.wilson,2024-12-24,2025-10-25,True
+CTX-1183,Julia,Becker,julia.becker@continental.com,+493642220886,Continental AG,Germany,Marketing Qualified Lead,Direct,,2023-07-26,2024-07-02,yes
+CTX-1184,Maria,Hoffmann,maria@sap.com,+495136298935,sap se,United states,closed won,unknown,Sarah Mueller,2023-01-16,2023-09-30,1
+CTX-1185,Peter,Schmidt,peter.schmidt@eon.com,004925605267,E.ON SE,ITALY,lost,referral,,2024-07-04,2024-12-31,
+CTX-1186,Laura,Mueller,laura.mueller@delivery.com,004934532913,Delivery Hero SE,ITALY,Sales qualified,REFERRAL,Unassigned,2023-09-12,2024-01-07,false
+CTX-1187,Michael,Hoffmann,michael.hoffmann@lufthansa.com,+496649672597,Lufthansa Group,Francia,LEAD,unknown,james.wilson,2023-04-20,2024-02-09,true
+CTX-1188,Anna,Richter,anna.richter@henkel.com,,Henkel,United States,CLOSED LOST,Partner Referral,james.wilson@speexx.com,2026-06-13,2026-10-12,1
+CTX-1189,David,Hoffmann,david@volkswagen.com,tba,volkswagen,The Netherlands,closed won,Email,J. Wilson,2023-07-08,2023-09-22,no
+CTX-1190,Anna,Schneider,anna.schneider@henkel.com,N/A,Henkel AG,USA,Customer,PPC,luca.bianchi@speexx.com,2023-05-18,2023-09-28,0
+CTX-1191,Peter,Richter,peter.richter@merck.com,,Merck KGaA,ITALY,CLOSED LOST,direct,luca.bianchi@speexx.com,2026-02-12,2026-04-27,true
+CTX-1192,Peter,Wagner,peter.wagner@zalando.com,N/A,Zalando SE,AUSTRIA,closed won,linkedin,james.wilson@speexx.com,2024-08-08,2024-10-11,false
+CTX-1193,Sarah,Schmidt,sarah.schmidt@deutsche.com,259 2381 7387,Deutsche Telekom,Spain,Sales qualified,REFERRAL,Marie Dupont,2024-02-11,2024-12-27,true
+CTX-1194,Julia,Richter,,tba,SAP SE,GERMANY,Lost,DIRECT,,2023-02-05,2023-11-08,false
+CTX-1195,THOMAS,Becker,thomas@volkswagen.com,+49 452 5811072,Volkswagen AG,The Netherlands,LEAD,Email Campaign,,2024-02-27,2024-06-24,True
+CTX-1196,Laura,Meyer,laura@sap.com,tba,sap se,UK,New Lead,Direct,Ana Garcia,2024-07-28,2024-09-01,true
+CTX-1197,Julia,Weber,julia.weber@bosch.com,+49 150 9975319,Bosch GmbH,AT,Sales qualified,paid search,james.wilson@speexx.com,04-11-2024,2024-11-12,1
+CTX-1198,David,Meyer,david.meyer@continental.com,+49 656 8887754,Continental,germany,Sales Qualified Lead,N/A,Marie Dupont,2023-12-05,2024-08-27,false
+CTX-1199,David,Wagner,david.wagner@hellofresh.com,,HelloFresh,Italia,OPPORTUNITY,Organic Search,james.wilson@speexx.com,2023-11-27,2024-09-21,False
+CTX-1200,Maria,Fischer,maria.fischer@siemens.com,0193-6677780,Siemens AG,germany,SQL,Unknown,J. Wilson,2024-08-18,2025-05-30,0
+CTX-1201,DAVID,Fischer,david.fischer@siemens.com,tba,SIEMENS AG,Holland,sql,Paid Search,Luca Bianchi,2024-01-02,2024-06-01,1
+CTX-1202,Laura,Meyer,laura.meyer@continental.com,799 9151 3525,Continental,Germany,OPPORTUNITY,EMAIL,marie.dupont@speexx.com,2024-10-15,2024-12-03,
+CTX-1203,Thomas,Mueller,thomas@robert.com,004939624910,Robert Bosch GmbH,SPAIN,Lost,Unknown,,2023-02-02,2023-03-14,no
+CTX-1204,Anna,Meyer,anna.meyer@merck.com,004941006711,Merck KGaA,UK,won,REFERRAL,l.bianchi@speexx.com,2024-01-13,2024-04-13,
+CTX-1205,Laura,Wagner,laura.wagner@allianz.com,,ALLIANZ,AT,Closed Lost,Webinar,Unassigned,2024-08-13,2025-07-03,yes
+CTX-1206,Peter,Hoffmann,,116 9480 3213,DT AG,POLAND,MQL,DIRECT,J. Wilson,2024-07-12,2024-12-20,True
+CTX-1207,SARAH,Richter,sarah.richter@eon.com,0338-5299058,E.ON SE,Poland,lead,Webinar,,2024-08-07,2025-04-13,False
+CTX-1208,Stefan,Weber,stefan@siemens.com,896 7266 1886,Siemens ag,POLAND,won,ORGANIC,ana.garcia@speexx.com,2024-01-26,2024-04-11,0
+CTX-1209,Laura,Fischer,laura.fischer@bosch.com,tba,BOSCH,DE,Closed Won,Partner Referral,Sarah Mueller,2024-11-20,2025-06-30,true
+CTX-1210,Julia,Becker,julia.becker@merck.com,004965510043,Merck KGaA,spain,OPPORTUNITY,WEBINAR,l.bianchi@speexx.com,2024-05-14,2024-10-17,true
+CTX-1211,Peter,Hoffmann,peter.hoffmann@continental.com,N/A,Continental AG,AUSTRIA,Won,organic search,ana.garcia@speexx.com,2023-05-30,2024-02-29,false
+CTX-1212,Michael,Richter,michael.richter@eon.com,N/A,E.ON,ITALY,Lost,Organic Search,Sarah Mueller,2024-07-15,2024-11-30,0
+CTX-1213,Thomas,Mueller,thomas.mueller@bmw.com,004985254207,bmw,Switzerland,won,DIRECT,ana.garcia@speexx.com,2024-01-31,2024-04-20,True
+CTX-1214,Peter,Meyer,peter.meyer@lufthansa.com,+499371391276,Lufthansa Group,AT,Marketing Qualified Lead,Email,Luca Bianchi,2023-11-06,2024-09-14,false
+CTX-1215,Maria,Fischer,maria.fischer@merck.com,0983-3317095,Merck,Francia,Closed Lost,Google Ads,james.wilson@speexx.com,2024-03-12,2024-05-25,True
+CTX-1216,Peter,Wagner,peter.wagner@henkel.com,004991282861,Henkel AG,Italia,lost,organic search,ana.garcia@speexx.com,2024-03-29,2024-11-28,true
+CTX-1217,Laura,Hoffmann,laura.hoffmann@thyssenkrupp.com,N/A,Thyssenkrupp AG,Switzerland,CUSTOMER,REFERRAL,Ana Garcia,2024-01-18,2024-02-08,yes
+CTX-1218,Peter,,peter.wagner@fresenius.com,004984853354,Fresenius,POLAND,opportunity,,Ana Garcia,2024-08-31,2025-01-24,no
+CTX-1219,Julia,Wagner,julia.wagner@bmw.com,N/A,bmw,AUSTRIA,closed lost,LINKEDIN,,2023-02-25,2023-07-03,0
+CTX-1220,Julia,Schmidt,julia.schmidt@allianz.com,+49 623 3682671,Allianz Se,france,closed won,DIRECT,james.wilson,2024-12-24,2025-08-09,1
+CTX-1221,Julia,Schmidt,julia.schmidt@robert.com,004965049584,Robert Bosch GmbH,spain,CUSTOMER,Direct,l.bianchi@speexx.com,2023-01-04,2023-04-20,True
+CTX-1222,Julia,Schneider,julia.schneider@siemens.com,,siemens,Switzerland,mql,paid search,,2026-01-22,2026-07-29,yes
+CTX-1223,Thomas,Wagner,thomas.wagner@merck.com,,Merck KGaA,Deutschland,Opportunity,,l.bianchi@speexx.com,2023-10-27,2024-04-25,true
+CTX-1224,Stefan,Hoffmann,stefan.hoffmann@thyssenkrupp.com,+49 298 1026523,ThyssenKrupp,United states,OPPORTUNITY,WEBINAR,Luca Bianchi,2024-10-09,2025-01-25,True
+CTX-1225,Michael,Weber,michael.weber@bmw.com,+49 505 1488508,BMW Group,Deutschland,Lost,google ads,luca.bianchi@speexx.com,2023-11-12,2024-07-04,
+CTX-1226,Peter,Becker,peter.becker@henkel.com,+495936227006,Henkel AG,DE,closed lost,Email,james.wilson@speexx.com,2024-06-17,2024-11-21,0
+CTX-1227,Anna,Weber,anna.weber@henkel.com,N/A,Henkel AG,France,CUSTOMER,unknown,james.wilson@speexx.com,2024-05-23,2025-01-25,
+CTX-1228,Sarah,Meyer,sarah.meyer@bosch.com,N/A,BOSCH,FRANCE,CUSTOMER,ORGANIC,Sarah Mueller,2024-06-12,2025-05-15,1
+CTX-1229,Anna,Hoffmann,anna.hoffmann@volkswagen.com,004912047721,Volkswagen AG,AT,Closed Lost,WEBINAR,Luca Bianchi,2023-08-03,2023-10-14,1
+CTX-1230,Stefan,Fischer,stefan.fischer@sap.com,,SAP SE,Deutschland,opportunity,webinar,Unassigned,2023-11-15,2024-10-23,
+CTX-1231,Thomas,Becker,thomas.becker@merck.com,,Merck,FR,sql,webinar,,2023-04-06,2023-09-19,no
+CTX-1232,David,Mueller,david.mueller@allianz.com,tba,Allianz SE,United States,CLOSED WON,email,l.bianchi@speexx.com,2023-04-26,2024-03-08,false
+CTX-1233,Laura,Schneider,laura.schneider@thyssenkrupp.com,N/A,Thyssenkrupp AG,Holland,OPPORTUNITY,PPC,Unassigned,2023-03-09,2023-08-13,yes
+CTX-1234,Thomas,Hoffmann,thomas.hoffmann@allianz.com,252 8421 9704,ALLIANZ,SWITZERLAND,Closed Won,,J. Wilson,2024-09-02,2025-02-11,1
+CTX-1235,Stefan,Weber,stefan@henkel.com,940 6885 2797,Henkel,NL,customer,organic search,J. Wilson,2023-04-02,2024-01-29,yes
+CTX-1236,Peter,Wagner,peter.wagner@basf.com,+493877911915,basf,Holland,lead,Unknown,marie.dupont@speexx.com,2024-03-21,2024-05-29,False
+CTX-1237,Julia,Wagner,julia.wagner@continental.com,,Continental,Austria,Closed Lost,Event,sarah.mueller@speexx.com,2024-03-11,2024-12-26,no
+CTX-1238,Peter,Schmidt,peter.schmidt@merck.com,583 2279 9834,MERCK KGAA,United States,CLOSED LOST,organic,,2024-12-08,2024-12-13,no
+CTX-1239,David,Richter,david.richter@thyssenkrupp.com,692 3770 1845,Thyssenkrupp AG,POLAND,New Lead,organic search,james.wilson,2023-12-06,2024-02-08,
+CTX-1240,THOMAS,Weber,thomas.weber@bmw.com,+49 705 3535634,BMW Group,FR,OPPORTUNITY,paid search,james.wilson@speexx.com,2024-09-22,2024-12-09,no
+CTX-1241,Maria,Wagner,maria.wagner@dt.com,004973918769,DT AG,CH,Closed Won,Email,luca.bianchi@speexx.com,2024-03-26,2024-12-22,yes
+CTX-1242,Anna,Weber,anna.weber@continental.com,,Continental AG,Holland,CLOSED WON,REFERRAL,Marie Dupont,2024-11-25,2025-03-04,
+CTX-1243,PETER,Schneider,peter.schneider@vw.com,004914569008,VW AG,Poland,CLOSED LOST,Google Ads,Marie Dupont,2023-01-11,2023-02-24,true
+CTX-1244,Maria,Hoffmann,maria.hoffmann@sap.com,,SAP,france,OPPORTUNITY,organic,james.wilson,2024-12-13,2025-04-27,true
+CTX-1245,David,Schmidt,david.schmidt@thyssenkrupp.com,+49 728 2782574,ThyssenKrupp,spain,CUSTOMER,Unknown,james.wilson@speexx.com,2024-09-16,2024-09-16,True
+CTX-1246,Maria,Weber,maria.weber@bosch.com,,BOSCH,NETHERLANDS,lost,DIRECT,Ana Garcia,05/02/2024,2025-01-01,False
+CTX-1247,Peter,Richter,,0406-7544871,volkswagen,France,CUSTOMER,,Marie Dupont,2024-04-15,2024-05-03,false
+CTX-1248,Anna,Hoffmann,anna@dt.com,tba,DT AG,USA,CLOSED WON,LinkedIn,Marie Dupont,2024-02-03,2024-03-10,True
+CTX-1249,Julia,Becker,julia.becker@zalando.com,0414-2632292,Zalando,GERMANY,New Lead,LINKEDIN,Ana Garcia,2024-04-27,2025-04-09,yes
+CTX-1250,Peter,Schmidt,peter.schmidt@hellofresh.com,004959650807,HelloFresh,POLAND,closed lost,ORGANIC,james.wilson@speexx.com,2024-07-12,2025-05-31,yes
+CTX-1251,Julia,Mueller,julia@thyssenkrupp.com,,ThyssenKrupp,France,Sales qualified,LinkedIn Ads,l.bianchi@speexx.com,2026-02-23,2026-12-25,true
+1252,David,Hoffmann,david.hoffmann@allianz.com,+49 197 7071696,Allianz Se,AT,Sales Qualified Lead,Google Ads,,2023-11-05,2024-07-04,no
+CTX-1253,Julia,Schneider,julia.schneider@hellofresh.com,N/A,HelloFresh SE,germany,won,Google Ads,Sarah Mueller,2023-02-25,2023-10-10,0
+CTX-1254,Maria,Fischer,info@hellofresh.com,N/A,HelloFresh,Netherlands,sql,Email,ana.garcia@speexx.com,2023-08-24,2023-12-01,0
+CTX-1255,Sarah,Fischer,sarah.fischer@volkswagen.com,0325-5951988,volkswagen,FR,closed won,,luca.bianchi@speexx.com,2023-02-02,2023-05-23,no
+CTX-1256,David,Weber,david.weber@,N/A,Siemens AG,GB,Won,REFERRAL,Sarah Mueller,2023-09-10,2023-09-16,yes
+CTX-1257,Michael,Schneider,michael.schneider@lufthansa.com,+49 978 1409590,Lufthansa Group,IT,customer,Paid Search,Ana Garcia,2023-09-02,2024-02-19,
+CTX-1258,Anna,Weber,anna.weber@henkel.com,+49 443 1919587,Henkel,italy,Opp,Event,james.wilson@speexx.com,2024-12-15,2025-12-10,False
+CTX-1259,Laura,Fischer,info@robert.com,+49 819 4519758,Robert Bosch GmbH,NETHERLANDS,Marketing Qualified Lead,Event,ana.garcia@speexx.com,2023-09-02,2024-05-15,
+CTX-1260,Thomas,Becker,thomas.becker@delivery.com,0292-8681853,Delivery Hero,u.s.,sql,Direct,Sarah Mueller,2024-11-25,2025-08-06,true
+CTX-1261,Michael,Richter,michael.richter@zalando.com,,Zalando SE,GERMANY,closed lost,webinar,marie.dupont@speexx.com,2023-10-28,2024-04-12,no
+CTX-1262,Stefan,Richter,stefan.richter@merck.com,tba,Merck KGaA,United kingdom,opportunity,LinkedIn Ads,james.wilson@speexx.com,2024-04-13,2025-04-02,true
+CTX-1263,Julia,Fischer,julia.fischer@bosch.com,0452-3482092,Bosch GmbH,germany,MQL,email,,2023-11-21,2024-02-03,no
+CTX-1264,Peter,Schneider,peter.schneider@,,Siemens AG,u.s.,CLOSED LOST,referral,luca.bianchi@speexx.com,2024-06-03,2024-11-17,True
+CTX-1265,Stefan,Fischer,stefan@merck.com,,MERCK KGAA,United states,Closed Won,LinkedIn,Marie Dupont,2023-08-16,2024-02-21,yes
+CTX-1266,Peter,Mueller,contact@bmw.com,0922-8423991,bmw,NL,SQL,Referral,james.wilson,2023-12-26,2024-09-19,0
+CTX-1267,Thomas,Hoffmann,thomas.hoffmann@basf.com,667 9037 1691,BASF SE,France,Customer,DIRECT,luca.bianchi@speexx.com,2023-01-07,2023-09-01,false
+CTX-1268,Anna,Mueller,contact@bosch.com,N/A,BOSCH,ITALY,closed lost,Email Campaign,Unassigned,2023-11-04,2024-10-20,no
+CTX-1269,Thomas,Meyer,info@eon.com,751 6832 1798,E.ON SE,POLAND,opportunity,,marie.dupont@speexx.com,2023-01-18,2023-10-08,false
+CTX-1270,Julia,Schmidt,julia.schmidt@fresenius.com,113 3243 9489,Fresenius SE,Spain,Opp,Unknown,Ana Garcia,2024-07-10,2024-10-01,False
+CTX-1271,Michael,Schneider,michael@eon.com,N/A,E.ON SE,Espana,Opp,DIRECT,Marie Dupont,2023-07-12,2024-02-23,
+CTX-1272,Peter,Schneider,peter.schneider@delivery.com,+49 414 3102926,Delivery Hero,Italia,LEAD,n/a,,2023-01-30,2023-05-10,False
+CTX-1273,Anna,Richter,anna.richter@merck.com,129 2487 3384,MERCK KGAA,DE,closed lost,WEBINAR,ana.garcia@speexx.com,2024-04-25,2025-01-06,false
+CTX-1274,Laura,Hoffmann,laura.hoffmann@allianz.com,+494969546654,Allianz SE,FRANCE,CLOSED WON,PPC,james.wilson@speexx.com,2024-08-15,2025-02-25,yes
+CTX-1275,Michael,Richter,michael.richter@deutsche.com,N/A,Deutsche Telekom AG,UK,CLOSED LOST,DIRECT,marie.dupont@speexx.com,2023-04-26,2023-12-09,false
+CTX-1276,Laura,Wagner,laura.wagner@bmw.com,+496997362444,bmw,GB,Closed Won,email,Marie Dupont,2023-07-13,2023-09-03,true
+CTX-1277,Thomas,Meyer,thomas.meyer@sap.com,tba,sap se,NETHERLANDS,Opportunity,LinkedIn,,2023-07-25,2023-09-25,1
+CTX-1278,David,,david.becker@deutsche.com,004979786361,Deutsche Telekom AG,AT,opportunity,Unknown,luca.bianchi@speexx.com,2026-12-02,2027-09-05,0
+CTX-1279,Laura,Richter,laura.richter@siemens.com,N/A,SIEMENS AG,germany,LEAD,Google Ads,l.bianchi@speexx.com,2024-03-16,2025-02-16,
+CTX-1280,Laura,Hoffmann,,,Thyssenkrupp AG,United States,Opp,organic search,,2024-07-29,2025-01-19,yes
+CTX-1281,Thomas,Wagner,thomas.wagner@lufthansa.com,+49 804 2098911,Lufthansa Group,NL,CLOSED WON,Email Campaign,l.bianchi@speexx.com,2024-02-26,2024-09-28,1
+CTX-1282,Anna,Becker,anna.becker@merck.com,004992520800,MERCK KGAA,GERMANY,Won,Paid Search,Unassigned,2023-11-21,2024-03-09,1
+CTX-1283,Sarah,Mueller,sarah.mueller@volkswagen.com,314 6690 2256,Volkswagen AG,POLAND,won,DIRECT,Ana Garcia,2024-02-16,2024-07-25,false
+CTX-1284,Maria,,maria.wagner@bmw.com,tba,BMW Group,AUSTRIA,Sales Qualified Lead,Event,luca.bianchi@speexx.com,2024-06-11,2024-08-27,1
+CTX-1285,Maria,Wagner,maria.wagner@vw.com,N/A,VW AG,Deutschland,Won,Email Campaign,Ana Garcia,2024-10-11,2024-10-29,false
+CTX-1286,Julia,Weber,julia.weber@robert.com,,Robert Bosch GmbH,GERMANY,CUSTOMER,Event,marie.dupont@speexx.com,2023-09-22,2023-11-07,yes
+CTX-1287,Julia,Fischer,julia.fischer,,Bosch GmbH,POLAND,Sales Qualified Lead,LinkedIn,Sarah Mueller,2024-05-27,2024-10-14,no
+CTX-1288,Maria,Weber,maria.weber@merck.com,+49 352 5659599,MERCK KGAA,DE,Customer,organic,Marie Dupont,2024-05-17,2025-04-25,false
+CTX-1289,Sarah,Richter,info@basf.com,004922113193,BASF SE,Italia,customer,linkedin,,2024-10-16,2025-03-27,yes
+CTX-1290,Anna,Weber,anna.weber,N/A,Allianz Se,USA,Lead,organic search,,27/04/2024,2025-03-15,no
+CTX-1291,Julia,Mueller,julia.mueller@basf.com,+496666776123,basf,spain,lost,Webinar,,2024-10-05,2024-11-17,yes
+CTX-1292,Peter,Schneider,peter.schneider@basf.com,+491724801332,basf,Holland,Marketing Qualified Lead,Event,james.wilson@speexx.com,2024-08-07,2024-10-06,True
+CTX-1293,Laura,Wagner,laura.wagner@continental.com,+498834402141,Continental,SWITZERLAND,MQL,direct,james.wilson,2024-05-21,2025-01-06,false
+CTX-1294,Peter,Hoffmann,peter.hoffmann@hellofresh.com,,HelloFresh,Switzerland,Sales qualified,n/a,,2024-04-14,2025-02-18,True
+CTX-1295,Anna,Weber,anna.weber@eon.com,0366-3849886,E.ON SE,AUSTRIA,OPPORTUNITY,,Ana Garcia,2024-01-26,2024-03-25,0
+CTX-1296,Anna,Schneider,anna.schneider@thyssenkrupp.com,tba,ThyssenKrupp,italy,customer,,sarah.mueller@speexx.com,2024-01-05,2024-02-01,false
+CTX-1297,Julia,Mueller,julia.mueller@thyssenkrupp.com,+491635885849,Thyssenkrupp AG,ITALY,Customer,linkedin,Marie Dupont,2023-06-17,2023-11-03,false
+CTX-1298,Stefan,Mueller,contact@eon.com,+49 126 5769447,E.ON,POLAND,Marketing Qualified Lead,N/A,Unassigned,2023-07-04,2024-03-05,no
+CTX-1299,Sarah,Hoffmann,sarah.hoffmann@hellofresh.com,,HelloFresh SE,Germany,Marketing Qualified Lead,email,james.wilson,2023-12-04,2024-06-25,False
+CTX-1300,Anna,Fischer,anna.fischer@sap.com,,SAP SE,Holland,Marketing Qualified Lead,Email Campaign,,2024-02-17,2024-05-22,yes
+CTX-1301,Maria,Schmidt,maria.schmidt,+497305953323,Siemens ag,US,SQL,DIRECT,Unassigned,2023-12-16,2024-07-21,1
+CTX-1302,Stefan,Mueller,stefan.mueller@merck.com,+493514994916,Merck KGaA,Deutschland,New Lead,LinkedIn Ads,Unassigned,2023-02-16,2023-03-30,yes
+CTX-1303,Sarah,Meyer,sarah@merck.com,0180-5350628,MERCK KGAA,england,MQL,linkedin,marie.dupont@speexx.com,2024-11-17,2025-11-06,yes
+CTX-1304,Stefan,Becker,stefan.becker@volkswagen.com,N/A,Volkswagen AG,AUSTRIA,Lost,LinkedIn,marie.dupont@speexx.com,2024-09-23,2025-08-09,
+1305,Michael,Schmidt,michael.schmidt@volkswagen.com,,Volkswagen AG,england,MQL,PPC,marie.dupont@speexx.com,2023-06-01,2024-01-08,yes
+CTX-1306,David,Hoffmann,contact@fresenius.com,690 6174 2040,Fresenius SE,Poland,CUSTOMER,EMAIL,,2026-07-16,2027-03-26,0
+CTX-1307,David,Wagner,david.wagner@siemens.com,+498350343413,SIEMENS AG,Spain,CLOSED LOST,Referral,james.wilson,2023-10-22,2023-12-05,no
+CTX-1308,Julia,Schneider,julia.schneider@sap.com,tba,sap se,Spain,mql,Paid Search,ana.garcia@speexx.com,2024-09-12,2025-07-25,false
+CTX-1309,Thomas,Richter,thomas.richter@deutsche.com,0718-2747213,Deutsche Telekom AG,USA,New Lead,PPC,Unassigned,2023-09-22,2024-06-07,False
+CTX-1310,Julia,Schmidt,info@deutsche.com,N/A,Deutsche Telekom,The Netherlands,OPPORTUNITY,direct,Luca Bianchi,2023-06-10,2023-10-24,0
+CTX-1311,Maria,Meyer,maria.meyer@zalando.com,0569-9659648,Zalando SE,CH,Marketing Qualified Lead,webinar,ana.garcia@speexx.com,2023-09-09,2023-12-02,yes
+CTX-1312,Anna,Wagner,anna.wagner@siemens.com,+498484828793,Siemens ag,CH,Lead,email,luca.bianchi@speexx.com,2024-10-18,2025-07-23,no
+CTX-1313,Peter,Wagner,,+49 390 4585870,sap se,Italia,CUSTOMER,Partner Referral,J. Wilson,2026-06-13,2026-11-15,yes
+CTX-1314,LAURA,Schmidt,laura.schmidt@siemens.com,,siemens,The Netherlands,opportunity,direct,marie.dupont@speexx.com,2023-09-23,2024-07-12,true
+CTX-1315,Maria,Richter,maria.richter@dt.com,0183-2547674,DT AG,FRANCE,Opp,,Ana Garcia,2023-12-02,2024-08-23,yes
+CTX-1316,Sarah,Hoffmann,sarah.hoffmann@thyssenkrupp.com,004978878589,ThyssenKrupp,AT,CLOSED WON,n/a,sarah.mueller@speexx.com,2024-03-09,2024-12-20,0
+CTX-1317,Thomas,Hoffmann,thomas.hoffmann@henkel.com,531 1797 5999,Henkel AG,france,Sales Qualified Lead,LinkedIn Ads,Unassigned,2023-05-04,2023-05-05,False
+CTX-1318,Laura,Meyer,laura.meyer@allianz.com,004953649791,Allianz SE,germany,CUSTOMER,email,ana.garcia@speexx.com,2024-03-03,2025-02-09,no
+CTX-1319,Sarah,Schmidt,sarah.schmidt@sap.com,tba,SAP SE,GERMANY,sql,organic search,james.wilson,2024-08-08,2024-12-11,no
+CTX-1320,Thomas,Richter,thomas.richter@fresenius.com,201 9876 3755,Fresenius SE,Netherlands,SQL,LinkedIn Ads,james.wilson,2024-02-16,2024-05-04,1
+CTX-1321,Maria,Schneider,maria.schneider@siemens.com,tba,siemens,AUSTRIA,LEAD,unknown,Ana Garcia,2023-11-30,2024-04-15,True
+CTX-1322,Peter,Becker,peter.becker@merck.com,+497041927717,Merck KGaA,UK,Opp,linkedin,,2023-03-09,2023-10-11,
+CTX-1323,DAVID,Mueller,david.mueller@siemens.com,+49 712 5209218,Siemens AG,england,sql,Paid Search,james.wilson,2024-09-27,2025-09-19,False
+CTX-1324,Julia,Richter,julia.richter@bmw.com,+496676393078,BMW AG,GB,Lost,Organic Search,l.bianchi@speexx.com,2023-08-04,2023-08-08,true
+CTX-1325,Maria,Richter,maria.richter@delivery.com,+49 952 8468826,Delivery Hero SE,USA,marketing qualified lead,N/A,ana.garcia@speexx.com,2024-02-07,2024-09-21,True
+CTX-1326,Michael,Mueller,michael.mueller@bmw.com,,BMW AG,SWITZERLAND,marketing qualified lead,Direct,l.bianchi@speexx.com,2024-12-27,2025-03-24,
+CTX-1327,Michael,Hoffmann,michael.hoffmann@hellofresh.com,+49 683 4824620,HelloFresh,SWITZERLAND,closed won,organic,Unassigned,2024-09-09,2025-04-18,yes
+CTX-1328,SARAH,Schmidt,sarah.schmidt@hellofresh.com,004936119862,HelloFresh,United states,Lead,Email Campaign,Sarah Mueller,2024-04-22,2024-07-31,true
+CTX-1329,Peter,Weber,peter.weber@allianz.com,tba,Allianz SE,AT,New Lead,REFERRAL,Sarah Mueller,2024-10-02,2025-08-15,no
+CTX-1330,Thomas,Becker,thomas.becker@merck.com,0163-8414160,MERCK KGAA,france,lost,organic,Luca Bianchi,29/03/2023,2023-10-20,False
+CTX-1331,Stefan,Wagner,stefan.wagner@deutsche.com,+491826700966,Deutsche Telekom AG,Austria,Lost,unknown,james.wilson,2024-11-06,2025-07-10,no
+CTX-1332,Julia,Fischer,julia.fischer@robert.com,+49 697 3443176,Robert Bosch GmbH,germany,Sales qualified,unknown,Unassigned,2023-03-03,2023-03-30,yes
+CTX-1333,Peter,Fischer,,N/A,sap se,AT,CUSTOMER,ORGANIC,luca.bianchi@speexx.com,2023-07-26,2023-07-27,false
+CTX-1334,Michael,Becker,michael.becker@fresenius.com,+492558287806,Fresenius,ES,opportunity,,J. Wilson,2023-09-02,2024-03-04,True
+CTX-1335,Anna,Fischer,anna.fischer@sap.com,0280-5392083,sap se,IT,OPPORTUNITY,Referral,james.wilson,2023-06-28,2024-01-03,0
+CTX-1336,Julia,Richter,julia.richter@fresenius.com,435 5049 1872,Fresenius,GB,customer,google ads,Unassigned,2024-12-29,2025-10-24,no
+CTX-1337,Michael,Schmidt,michael.schmidt@thyssenkrupp.com,+49 610 9705569,Thyssenkrupp AG,CH,Sales Qualified Lead,referral,,2024-09-21,2025-01-19,yes
+CTX-1338,Michael,Weber,michael.weber@henkel.com,N/A,Henkel,Holland,CLOSED WON,Email Campaign,Ana Garcia,2024-08-08,2025-04-19,0
+CTX-1339,Sarah,Wagner,sarah@siemens.com,+49 625 2311290,SIEMENS AG,SPAIN,Closed Lost,LINKEDIN,ana.garcia@speexx.com,2024-03-28,2024-09-12,1
+CTX-1340,Sarah,Weber,sarah.weber@sap.com,,sap se,Austria,Sales qualified,referral,Marie Dupont,2023-05-22,2024-01-19,false
+CTX-1341,Laura,Hoffmann,laura.hoffmann@,+49 527 4516248,Merck KGaA,england,Won,WEBINAR,ana.garcia@speexx.com,2024-04-17,2024-11-20,yes
+CTX-1342,Laura,Weber,,N/A,VW AG,PL,marketing qualified lead,webinar,l.bianchi@speexx.com,2023-01-24,2023-12-17,1
+CTX-1343,Thomas,,thomas.schneider@allianz.com,+49 495 5761669,ALLIANZ,SWITZERLAND,sql,Webinar,Unassigned,2024-07-20,2025-02-05,true
+CTX-1344,Thomas,Schneider,info@eon.com,0937-8965487,eon,UK,Customer,email,l.bianchi@speexx.com,2024-05-04,2025-01-28,0
+CTX-1345,Stefan,Becker,stefan@continental.com,,Continental,england,lost,LinkedIn Ads,Marie Dupont,2026-02-10,2026-08-30,True
+CTX-1346,Michael,Schneider,michael.schneider@bmw.com,,BMW AG,AT,closed won,,james.wilson@speexx.com,2024-07-04,2025-03-20,True
+CTX-1347,David,Mueller,david.mueller@allianz.com,N/A,Allianz SE,AT,Marketing Qualified Lead,paid search,Luca Bianchi,2024-12-12,2025-12-12,no
+CTX-1348,Julia,Becker,julia.becker@bmw.com,004930601948,BMW AG,Spain,Lead,ORGANIC,,2023-06-24,2023-10-12,no
+CTX-1349,Anna,Richter,anna.richter@zalando.com,+49 890 7331646,Zalando,CH,closed won,organic search,sarah.mueller@speexx.com,2024-11-06,2025-02-12,False
+CTX-1350,Michael,Schmidt,michael.schmidt@hellofresh.com,,HelloFresh SE,Spain,OPPORTUNITY,LinkedIn Ads,sarah.mueller@speexx.com,2023-06-21,2023-11-29,True
+CTX-1351,Maria,,info@continental.com,+496031378588,Continental,Espana,OPPORTUNITY,LinkedIn Ads,marie.dupont@speexx.com,2023-03-09,2024-02-24,0
+CTX-1352,David,Schmidt,david.schmidt@volkswagen.com,0338-1355901,volkswagen,GERMANY,mql,google ads,ana.garcia@speexx.com,2024-09-15,2024-12-27,true
+CTX-1353,Maria,Fischer,maria.fischer@zalando.com,004996979318,Zalando,germany,customer,webinar,ana.garcia@speexx.com,2023-09-01,2024-06-03,True
+CTX-1354,MICHAEL,Fischer,michael.fischer@fresenius.com,004926852512,Fresenius SE,Holland,Sales qualified,unknown,Sarah Mueller,2024-06-17,2025-02-11,1
+CTX-1355,Julia,Fischer,julia.fischer@dt.com,tba,DT AG,GB,CLOSED LOST,Email Campaign,,2023-06-30,2024-03-02,True
+CTX-1356,Maria,Wagner,maria.wagner@allianz.com,+495603945749,Allianz Se,Italia,Sales Qualified Lead,Organic Search,sarah.mueller@speexx.com,2024-09-01,2025-03-11,no
+CTX-1357,Maria,Wagner,maria.wagner@basf.com,+49 227 7456309,basf,The Netherlands,Lost,Email,,2024-01-29,2024-06-03,false
+CTX-1358,David,Mueller,david.mueller@deutsche.com,,Deutsche Lufthansa AG,AT,Lead,paid search,Luca Bianchi,2024-12-24,2025-07-28,true
+CTX-1359,Maria,Weber,maria.weber@delivery.com,866 4432 7520,Delivery Hero SE,Italia,MQL,linkedin,Unassigned,2024-05-27,2024-07-15,False
+CTX-1360,Maria,Richter,maria.richter@henkel.com,160 3993 4143,Henkel AG,Switzerland,CUSTOMER,EMAIL,luca.bianchi@speexx.com,2023-10-23,2024-09-06,False
+CTX-1361,JULIA,Schmidt,julia.schmidt@bmw.com,004999298044,bmw,France,won,Organic Search,Ana Garcia,2024-01-22,2024-06-06,no
+CTX-1362,David,Meyer,david.meyer@,N/A,Fresenius SE,GB,customer,email,Marie Dupont,2023-12-11,2024-02-20,True
+CTX-1363,Stefan,Schmidt,info@eon.com,N/A,E.ON,italy,Sales qualified,Unknown,Ana Garcia,2024-12-17,2025-01-27,0
+CTX-1364,Maria,Becker,maria.becker@hellofresh.com,N/A,HelloFresh SE,FRANCE,marketing qualified lead,n/a,marie.dupont@speexx.com,2024-01-30,2024-06-02,false
+CTX-1365,Julia,Schmidt,julia.schmidt@allianz.com,,ALLIANZ,GB,customer,referral,,2023-01-30,2023-12-03,False
+CTX-1366,Peter,Wagner,peter.wagner@delivery.com,+495677818216,Delivery Hero,Holland,customer,Webinar,Ana Garcia,2024-10-31,2024-10-31,1
+CTX-1367,Anna,Hoffmann,anna.hoffmann@eon.com,004971821057,eon,spain,Won,N/A,james.wilson@speexx.com,2024-02-02,2024-04-16,True
+CTX-1368,Stefan,Meyer,stefan@volkswagen.com,+49 606 5890476,Volkswagen AG,US,customer,LinkedIn Ads,Unassigned,2024-12-06,2025-06-24,1
+CTX-1369,Julia,Mueller,julia.mueller@merck.com,234 6298 1886,Merck KGaA,United Kingdom,CLOSED WON,linkedin,l.bianchi@speexx.com,2023-12-12,2024-12-02,no
+1370,Sarah,Schneider,sarah.schneider@deutsche.com,0485-8165734,Deutsche Telekom,ES,won,webinar,l.bianchi@speexx.com,2023-07-20,2023-10-04,yes
+CTX-1371,Michael,Mueller,michael.mueller@bosch.com,+49 808 2503425,Bosch GmbH,Italy,marketing qualified lead,Google Ads,Sarah Mueller,2024-02-11,2025-01-04,
+CTX-1372,Michael,Mueller,michael.mueller@merck.com,,MERCK KGAA,POLAND,Customer,organic search,Ana Garcia,2024-08-09,2025-05-10,
+CTX-1373,David,Schmidt,,+49 220 4031041,E.ON,PL,SQL,Referral,marie.dupont@speexx.com,2024-07-05,2025-04-18,1
+CTX-1374,Anna,Schmidt,anna.schmidt@bosch.com,,Bosch GmbH,US,CLOSED LOST,unknown,J. Wilson,2023-11-02,2024-10-06,True
+CTX-1375,Michael,Mueller,michael.mueller@sap.com,,sap se,Francia,CLOSED WON,paid search,james.wilson,2023-11-03,2024-10-23,true
+CTX-1376,Laura,Fischer,laura.fischer@allianz.com,0719-3752186,Allianz SE,AT,Opportunity,Google Ads,Luca Bianchi,2023-10-03,2024-07-09,yes
+CTX-1377,Thomas,Meyer,thomas.meyer@zalando.com,N/A,Zalando SE,France,marketing qualified lead,,ana.garcia@speexx.com,2024-01-07,2024-05-30,
+CTX-1378,Sarah,Hoffmann,sarah.hoffmann@allianz.com,+495842885728,ALLIANZ,DE,SQL,Email,l.bianchi@speexx.com,2023-06-24,2023-07-21,0
+CTX-1379,Michael,Hoffmann,michael.hoffmann@,0412-2458649,Henkel AG,england,Marketing Qualified Lead,REFERRAL,Sarah Mueller,2023-07-07,2023-08-05,False
+CTX-1380,Sarah,Richter,sarah.richter@thyssenkrupp.com,tba,ThyssenKrupp,Germany,lead,WEBINAR,J. Wilson,2024-03-10,2025-02-11,
+CTX-1381,Stefan,Mueller,stefan.mueller@fresenius.com,,Fresenius SE,United kingdom,marketing qualified lead,webinar,,2023-06-22,2024-03-24,False
+CTX-1382,Sarah,Weber,sarah.weber@thyssenkrupp.com,,Thyssenkrupp AG,IT,MQL,N/A,ana.garcia@speexx.com,2023-09-29,2023-11-22,True
+CTX-1383,Peter,Schneider,peter.schneider@basf.com,,basf,NL,closed won,LinkedIn Ads,Luca Bianchi,2023-01-10,2023-03-06,no
+CTX-1384,David,Schneider,david.schneider@robert.com,N/A,Robert Bosch GmbH,NL,Closed Lost,Unknown,,2026-12-07,2027-02-10,0
+CTX-1385,Maria,Richter,maria.richter@basf.com,0153-6740173,BASF SE,FR,LEAD,Email Campaign,J. Wilson,2023-04-23,2024-01-09,true
+CTX-1386,Michael,Weber,michael@bosch.com,235 7574 1628,Bosch GmbH,ITALY,Sales Qualified Lead,LinkedIn,Ana Garcia,12-18-2024,2025-01-13,yes
+CTX-1387,Maria,Richter,maria.richter@volkswagen.com,+499345116088,Volkswagen AG,AT,mql,Organic Search,sarah.mueller@speexx.com,2023-08-25,2024-02-05,false
+CTX-1388,Sarah,Becker,sarah.becker@bmw.com,004958504268,BMW AG,Austria,Lost,Direct,J. Wilson,2023-04-14,2023-05-28,False
+CTX-1389,Julia,Hoffmann,julia.hoffmann@bosch.com,+494268418626,Bosch GmbH,germany,Sales Qualified Lead,EMAIL,Luca Bianchi,2024-08-23,2025-06-05,0
+CTX-1390,Peter,Becker,peter.becker@zalando.com,N/A,Zalando SE,france,lost,unknown,Sarah Mueller,2024-03-22,2024-12-07,yes
+1391,Laura,Wagner,laura.wagner@basf.com,972 4609 5855,basf,Austria,Closed Lost,Google Ads,james.wilson@speexx.com,2023-10-06,2024-07-05,false
+CTX-1392,Sarah,Mueller,sarah.mueller@zalando.com,0647-2949258,Zalando SE,Francia,Lead,Partner Referral,Marie Dupont,2023-10-12,2024-08-20,1
+CTX-1393,Peter,Mueller,peter.mueller@zalando.com,+492899169638,Zalando SE,Germany,CLOSED WON,referral,Marie Dupont,2023-12-31,2024-07-06,true
+CTX-1394,David,Schmidt,david.schmidt@thyssenkrupp.com,004919321974,ThyssenKrupp,SPAIN,CLOSED WON,email,Sarah Mueller,2024-04-15,2024-06-24,True
+1395,Stefan,Schmidt,stefan.schmidt@basf.com,,BASF SE,Holland,customer,paid search,J. Wilson,2023-01-22,2023-11-06,no
+CTX-1396,Julia,Weber,julia.weber@volkswagen.com,,volkswagen,United States,Closed Won,LinkedIn,ana.garcia@speexx.com,2023-06-08,2023-10-01,yes
+CTX-1397,Thomas,Becker,thomas.becker@sap.com,+496059762573,SAP SE,france,CUSTOMER,DIRECT,l.bianchi@speexx.com,2023-08-18,2024-02-12,False
+CTX-1398,Sarah,,sarah.becker,,HelloFresh SE,The Netherlands,lead,Direct,james.wilson@speexx.com,2023-09-29,2023-12-03,true
+CTX-1399,Maria,Meyer,maria.meyer@vw.com,tba,VW AG,USA,Customer,referral,Ana Garcia,2024-03-10,2024-10-11,
+CTX-1147,David,Meyer,david.meyer@eon.com,,E.ON SE,Italia,New Lead,webinar,ana.garcia@speexx.com,2023-06-24,2023-11-21,no
+CTX-1198,David,Meyer,david.meyer@continental.com,+49 656 8887754,Continental,germany,Sales Qualified Lead,N/A,Marie Dupont,2023-12-05,2024-08-27,false
+1177,DAVID,Fischer,david.fischer@merck.com,+49 744 9600719,MERCK KGAA,Spain,CUSTOMER,direct,Sarah Mueller,2024-10-24,2025-08-30,no
+CTX-1191,Peter,Richter,peter.richter@merck.com,,Merck KGaA,ITALY,CLOSED LOST,direct,luca.bianchi@speexx.com,2026-02-12,2026-04-27,true
+CTX-1056,David,Mueller,david.mueller@siemens.com,tba,siemens,The Netherlands,Lost,LinkedIn Ads,sarah.mueller@speexx.com,2023-10-21,2024-06-01,no
+CTX-1179,Julia,Becker,julia.becker@fresenius.com,,Fresenius,Austria,Sales qualified,n/a,,2023-02-09,2023-08-07,False
+CTX-1022,Anna,Wagner,,+49 646 1452421,volkswagen,CH,Opportunity,Email,ana.garcia@speexx.com,2024-11-26,2025-05-12,0
+CTX-1060,Laura,Fischer,laura.fischer@volkswagen.com,+49 491 9437374,Volkswagen AG,United States,Lost,n/a,Unassigned,2023-07-18,2023-09-08,
+CTX-1092,Thomas,Becker,thomas.becker@deutsche.com,004954689713,Deutsche Lufthansa AG,France,lead,Google Ads,Marie Dupont,2024-07-02,2025-03-04,false
+CTX-1000,Thomas,Mueller,thomas.mueller@bmw.com,004985329037,BMW AG,Italy,CLOSED WON,Direct,,2023-08-17,2023-11-06,yes
+CTX-1052,Michael,Richter,michael.richter@bosch.com,316 3248 5186,Bosch GmbH,NL,OPPORTUNITY,Google Ads,sarah.mueller@speexx.com,2024-03-16,2024-10-22,true
+CTX-1004,Maria,Hoffmann,maria.hoffmann@,+49 796 2921859,Allianz SE,Holland,lead,Partner Referral,Luca Bianchi,2024-01-26,2024-10-11,False
+CTX-1092,Thomas,Becker,thomas.becker@deutsche.com,004954689713,Deutsche Lufthansa AG,France,lead,Google Ads,Marie Dupont,2024-07-02,2025-03-04,false
+CTX-1142,Michael,Schneider,michael.schneider@volkswagen.com,627 3604 2075,Volkswagen AG,United kingdom,Lead,unknown,Ana Garcia,2023-11-25,2024-08-19,True
+CTX-1121,Thomas,Weber,thomas.weber@delivery.com,004978293320,Delivery Hero,POLAND,mql,n/a,ana.garcia@speexx.com,2024-10-04,2024-12-19,true
+CTX-1034,Anna,Richter,anna.richter@continental.com,+49 308 5480460,Continental,UK,Lost,REFERRAL,Marie Dupont,2023-02-25,2023-12-04,True
+CTX-1028,Thomas,Richter,thomas.richter@delivery.com,tba,Delivery Hero SE,SPAIN,SQL,Direct,sarah.mueller@speexx.com,2023-07-16,2024-04-24,1
+CTX-1015,David,,david.fischer@sap.com,,sap se,england,MQL,Google Ads,,2023-12-25,2024-03-25,1
+CTX-1089,David,Meyer,david.meyer@bosch.com,004989717834,BOSCH,italy,lead,ORGANIC,Ana Garcia,2023-07-13,2024-04-14,false
+CTX-1092,Thomas,Becker,thomas.becker@deutsche.com,004954689713,Deutsche Lufthansa AG,France,lead,Google Ads,Marie Dupont,2024-07-02,2025-03-04,false

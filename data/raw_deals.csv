@@ -1,0 +1,251 @@
+deal_id	deal_name	company	country	deal_stage	lifecycle_stage	arr_value	currency	owner	created_date	expected_close_date	lead_source	probability_pct	notes
+DL-5000	Robert - Enterprise License	Robert Bosch GmbH	Espana	Won	mql	150434	EUR	Sarah Mueller	10/29/2023	3/8/2024	LinkedIn	90	
+DL-5001	SIEMENS - Enterprise License	SIEMENS AG	Spain	discovery	MQL	49575	EUR	ana.garcia@speexx.com	12/13/2024	4/14/2025	REFERRAL	20	Follow up next week
+DL-5002	Merck - Enterprise License	Merck	United States	Closed Won	closed won	50266	USD	luca.bianchi@speexx.com	3/2/2024	4/23/2024	Organic Search	70	FOLLOW UP
+DL-5003	BOSCH - Enterprise License	BOSCH	england	Demo Scheduled	Closed Lost	24511	â‚¬		3/3/2023	2/6/2023	DIRECT	50	awaiting legal
+DL-5004	SAP - Enterprise License	SAP SE	SPAIN	DISCOVERY	Customer	â‚¬49,910	EUR	Unassigned	10/6/2023	11/12/2023	n/a	80	
+DL-5005	Zalando - Enterprise License	Zalando	The Netherlands	proposal sent	CLOSED LOST	24699	USD	sarah.mueller@speexx.com	2/19/2024	6/9/2024	linkedin		FOLLOW UP
+DL-5006		Allianz SE	italy	Proposal Sent	Marketing Qualified Lead	4706 EUR	EUR	l.bianchi@speexx.com	8/5/2023	7/6/2023	n/a	10	Follow up next week
+DL-5007	VW - Enterprise License	VW AG	NL	Proposal Sent	SQL	150012	EUR	ana.garcia@speexx.com	4/6/2023	3/25/2023	unknown	20	no champion
+DL-5008	BOSCH - Enterprise License	BOSCH	SWITZERLAND	Closed Won	CLOSED WON	25372	EUR		1/25/2023	7/8/2023	referral	50	tbd
+DL-5009	HelloFresh - Enterprise License	HelloFresh	Switzerland	Demo Scheduled	won	250013	USD	luca.bianchi@speexx.com	10/31/2024	12/20/2024	webinar	70	Awaiting legal review
+DL-5010	Fresenius - Enterprise License	Fresenius	POLAND	Negotiation	Lost	â‚¬10,125		Sarah Mueller	3/17/2024	4/10/2024	LinkedIn	70	no champion
+DL-5011	Allianz - Enterprise License	Allianz Se	NL	Demo Scheduled	Marketing Qualified Lead	99665	EUR	james.wilson@speexx.com	5/25/2024	7/2/2024	N/A	70	Champion identified
+DL-5012	BMW - Enterprise License	BMW Group	United Kingdom	discovery	closed won	149999	EUR	luca.bianchi@speexx.com	3/28/2024	9/24/2024	Webinar	80	FOLLOW UP
+DL-5013	HelloFresh - Enterprise License	HelloFresh	Poland	prospecting	MQL	25159	EUR	Unassigned	2/28/2024	7/20/2024	Email	30	Champion?
+DL-5014	basf - Enterprise License	basf	england	NEGOTIATION	marketing qualified lead	49857	EUR	james.wilson@speexx.com	3/16/2023	5/26/2023	email	90	Sent proposal
+DL-5015	basf - Enterprise License	basf	england	closed lost	mql	25219	EUR	luca.bianchi@speexx.com	12/3/2023	1/2/2024	Referral	80	Champion?
+DL-5016	Siemens - Enterprise License	Siemens ag	GERMANY	proposal sent	LEAD	49984	GBP	james.wilson	9/7/2024	12/27/2024	LinkedIn Ads	20	follow up
+DL-5017	Allianz - Enterprise License	Allianz SE	SPAIN	NEGOTIATION	Customer	75037	EUR	Sarah Mueller	10/8/2023	2/2/2024	Email Campaign	80	tbd
+DL-5018	Volkswagen - Enterprise License	Volkswagen AG	GB	negotiation	Opp	EUR 25048	GBP	Unassigned	6/18/2023	21.08.2023	LINKEDIN	20	
+DL-5019	HelloFresh - Enterprise License	HelloFresh SE	Netherlands	Proposal	marketing qualified lead	5418	GBP	james.wilson	8/15/2024	2/2/2025	Organic Search	100	TBD
+DL-5020	Robert - Enterprise License	Robert Bosch GmbH	u.s.	Closed Lost	LEAD	4723	EUR	l.bianchi@speexx.com	10/11/2024	2/17/2025	WEBINAR	50	Sent proposal
+DL-5021	HelloFresh - Enterprise License	HelloFresh	france	proposal sent	Lead	5418		marie.dupont@speexx.com	8/13/2024	8/30/2024	EMAIL	90	Awaiting legal review
+DL-5022	Lufthansa - Enterprise License	Lufthansa Group	Poland	Proposal	CLOSED LOST	4680	EUR	Luca Bianchi	7/9/2024	11/9/2024	direct	unknown	
+DL-5023	HelloFresh - Enterprise License	HelloFresh	FRANCE	closed lost	Marketing Qualified Lead		EUR	l.bianchi@speexx.com	3/23/2024	9/15/2024	PPC	100	
+DL-5024	Fresenius - Enterprise License	Fresenius	ES	closed won	Sales qualified	24533 EUR		Luca Bianchi	7/11/2024	8/19/2024	LINKEDIN	100	FOLLOW UP
+DL-5025	Lufthansa - Enterprise License	Lufthansa Group	Espana	Lost	won	50258	â‚¬	james.wilson	4/20/2024	8/17/2024	Partner Referral	70	TBD
+DL-5026	Henkel - Enterprise License	Henkel AG	United states	negotiation	Customer	4526	USD	ana.garcia@speexx.com	11/20/2024	10/21/2024	Email Campaign	50	no champion
+DL-5027	basf - Enterprise License	basf	Holland	prospecting	lead	75091	EUR	Ana Garcia	7/17/2023	1/4/2024		30	awaiting legal
+DL-5028	Deutsche - Enterprise License	Deutsche Telekom AG	ITALY	Lost	Customer		EUR	ana.garcia@speexx.com	4/12/2023	5/28/2023	paid search	10	awaiting legal
+DL-5029	Siemens - Enterprise License	Siemens AG	GERMANY	closed lost	lead	-1	EUR	luca.bianchi@speexx.com	10/5/2024	3/19/2025	WEBINAR	30	Sent proposal
+DL-5030	Zalando - Enterprise License	Zalando	CH	demo scheduled	mql	50326	â‚¬	Sarah Mueller	8/16/2023	11/14/2023	organic search	unknown	Champion?
+DL-5031	ALLIANZ - Enterprise License	ALLIANZ	Deutschland	discovery	Won	4789	USD		4/24/2023	9/2/2023	email	20	Champion identified
+DL-5032	SIEMENS - Enterprise License	SIEMENS AG	AT	Lost	CLOSED WON	5203	EUR	james.wilson@speexx.com	2/28/2024	3/31/2024	LinkedIn Ads	unknown	Champion?
+DL-5033	Zalando - Enterprise License	Zalando SE	Germany	Proposal	sql	-1	â‚¬		9/13/2024	10/5/2024	organic search		Follow up next week
+DL-5034	E.ON - Enterprise License	E.ON	France	proposal sent	lead	4722	EUR	james.wilson	6/8/2024	7/31/2024	LINKEDIN	20	Awaiting legal review
+DL-5035	Delivery - Enterprise License	Delivery Hero	SPAIN	Closed Won	Sales Qualified Lead	10469	â‚¬	Ana Garcia	7/18/2024	1/14/2025	DIRECT	30	tbd
+DL-5036	Deutsche - Enterprise License	Deutsche Telekom	Austria	negotiation	Closed Won		GBP	J. Wilson	5/14/2024	9/15/2024	Event	unknown	TBD
+DL-5037	Allianz - Enterprise License	Allianz SE	Switzerland	closed won	won	9919	USD	Ana Garcia	4/5/2024	31.05.2024	LinkedIn Ads	80	awaiting legal
+DL-5038		SAP	Germany	proposal sent	Lead	10298	USD	J. Wilson	1/2/2024	3/18/2024	Webinar	50	no champion
+DL-5039	Allianz - Enterprise License	Allianz SE	CH	closed won	Marketing Qualified Lead	10074	GBP	marie.dupont@speexx.com	1/30/2024	4/25/2024	Webinar	80	Sent proposal
+DL-5040	sap - Enterprise License	sap se	PL	demo	Closed Won	9627	eur	l.bianchi@speexx.com	2/20/2023	10.07.2023	organic search	unknown	tbd
+DL-5041		Merck	Switzerland	Negotiation	MQL	0	EUR	luca.bianchi@speexx.com	1/5/2023	5/17/2023	EMAIL	70	sent proposal
+DL-5042	VW - Enterprise License	VW AG	england	Proposal	Won	24548	EUR	Unassigned	12/21/2023	4/15/2024	PPC	10	Sent proposal
+DL-5043	siemens - Enterprise License	siemens	spain	Proposal	lead	75241	USD	Unassigned	1/11/2023	3/1/2023	Organic Search	10	sent proposal
+DL-5044	Siemens - Enterprise License	Siemens ag	italy	Discovery	Lead	â‚¬10,204	EUR		4/24/2023	5/20/2023	N/A	20	follow up
+DL-5045	VW - Enterprise License	VW AG	POLAND	negotiation	Won	25184		james.wilson	6/1/2023	11/11/2023	n/a	50	FOLLOW UP
+DL-5046	BMW - Enterprise License	BMW Group	Deutschland	demo scheduled	Won		EUR	J. Wilson	10/31/2023	05.12.2023	Referral	100	TBD
+DL-5047	BASF - Enterprise License	BASF SE	Italia	Demo	Lead	75279		marie.dupont@speexx.com	7/12/2023	11/27/2023	unknown	20	follow up
+DL-5048		Deutsche Telekom AG	GB	closed lost	sql	25298	â‚¬	Unassigned	1/8/2024	4/29/2024	PPC	30	Champion identified
+DL-5049	ALLIANZ - Enterprise License	ALLIANZ	ITALY	Demo Scheduled	marketing qualified lead	9987 EUR	EUR	ana.garcia@speexx.com	4/23/2023	4/8/2023	LinkedIn	90	no champion
+DL-5050	Henkel - Enterprise License	Henkel	GB	demo	Sales Qualified Lead	9550 EUR	â‚¬	J. Wilson	6/4/2024	9/11/2024	Direct		Champion?
+DL-5051	ThyssenKrupp - Enterprise License	ThyssenKrupp	germany	prospecting	closed lost	25481	â‚¬	J. Wilson	6/15/2024	17.10.2024	PPC	70	Sent proposal
+DL-5052	Fresenius - Enterprise License	Fresenius	ES	discovery	sql		eur	ana.garcia@speexx.com	12/17/2024	4/13/2025	direct	10	FOLLOW UP
+DL-5053	SAP - Enterprise License	SAP	Deutschland	Proposal Sent	sql	75204	EUR	ana.garcia@speexx.com	5/30/2024	11/19/2024	LinkedIn	10	
+DL-5054	Thyssenkrupp - Enterprise License	Thyssenkrupp AG	United States	Discovery	closed lost		EUR	luca.bianchi@speexx.com	3/14/2024	3/5/2024	n/a	20	Follow up next week
+DL-5055		SIEMENS AG	Italia	closed won	New Lead	25273	USD	luca.bianchi@speexx.com	8/3/2024	10/30/2024	WEBINAR		sent proposal
+DL-5056	HelloFresh - Enterprise License	HelloFresh SE	CH	Prospecting	customer	EUR 74808		Sarah Mueller	5/13/2024	7/30/2024		unknown	Follow up next week
+DL-5057	BOSCH - Enterprise License	BOSCH	GB	DISCOVERY	Opp	9531	eur	Marie Dupont	2/25/2024	5/5/2024	Email	unknown	FOLLOW UP
+DL-5058	BMW - Enterprise License	BMW AG	SWITZERLAND	NEGOTIATION	Opp	250397	USD	Ana Garcia	10/3/2024	3/5/2025	Direct	70	Sent proposal
+DL-5059	Siemens - Enterprise License	Siemens ag	NL	closed lost	opportunity	5314	EUR	sarah.mueller@speexx.com	8/16/2024	1/10/2025	LinkedIn	100	
+DL-5060	BOSCH - Enterprise License	BOSCH	england	Demo Scheduled	mql	9795	eur	james.wilson	6/19/2024	9/15/2024	Google Ads	10	Champion identified
+DL-5061	Volkswagen - Enterprise License	Volkswagen AG	US	Prospecting	lost	4641	EUR	Sarah Mueller	1/6/2023	5/10/2023	LinkedIn	50	awaiting legal
+DL-5062	MERCK - Enterprise License	MERCK KGAA	GB	Closed Won	Closed Won		EUR		3/24/2023	6/20/2023	DIRECT		sent proposal
+DL-5063	SAP - Enterprise License	SAP	FR	Proposal	closed won	EUR 74642	eur	james.wilson	7/31/2024	12/3/2024	DIRECT		
+DL-5064	Continental - Enterprise License	Continental	SWITZERLAND	negotiation	Lead	5039	USD	luca.bianchi@speexx.com	7/12/2024	9/10/2024	N/A	90	awaiting legal
+DL-5065	Continental - Enterprise License	Continental	Italy	negotiation	closed lost	â‚¬4,643	USD	james.wilson@speexx.com	1/29/2023	1/4/2023	direct	10	tbd
+DL-5066	basf - Enterprise License	basf	France	NEGOTIATION	mql	75395	â‚¬	Unassigned	5/9/2023	9/3/2023	PPC	80	Champion?
+DL-5067	ALLIANZ - Enterprise License	ALLIANZ	DE	Proposal	Lead	74624	eur	Luca Bianchi	10/25/2023	3/31/2024	Unknown	30	Sent proposal
+DL-5068	HelloFresh - Enterprise License	HelloFresh	spain	Proposal Sent	marketing qualified lead	50459	EUR	sarah.mueller@speexx.com	10/17/2024	12/9/2024	Google Ads		FOLLOW UP
+DL-5069	DT - Enterprise License	DT AG	United States	closed won	sql	0	eur	Unassigned	7/29/2023	9/7/2023	Partner Referral		
+DL-5070	Continental - Enterprise License	Continental AG	Italy	DISCOVERY	sql	24689	eur	luca.bianchi@speexx.com	11/4/2024	4/24/2025	direct	unknown	FOLLOW UP
+DL-5071	MERCK - Enterprise License	MERCK KGAA	GB	Negotiation	SQL	10319	EUR	james.wilson	5/19/2024	9/4/2024	Email	10	Champion?
+DL-5072	Volkswagen - Enterprise License	Volkswagen AG	england	closed lost	CUSTOMER	0		james.wilson	2/4/2023	02.08.2023	linkedin	80	no champion
+DL-5073	E.ON - Enterprise License	E.ON SE	Switzerland	closed won	lead	9564	USD	luca.bianchi@speexx.com	8/4/2023	11/15/2023	google ads	70	tbd
+DL-5074	HelloFresh - Enterprise License	HelloFresh SE	POLAND	Lost	Lead	25485	â‚¬	james.wilson@speexx.com	11/7/2023	2/29/2024	WEBINAR		Champion?
+DL-5075	basf - Enterprise License	basf	United States	Demo Scheduled	OPPORTUNITY	10181	eur		3/11/2023	2/15/2023	REFERRAL	20	follow up
+DL-5076	BASF - Enterprise License	BASF SE	The Netherlands	demo	CLOSED LOST	5367	EUR		3/6/2024	4/5/2024	PPC	100	awaiting legal
+DL-5077	Robert - Enterprise License	Robert Bosch GmbH	Spain	Demo	closed won	9948 EUR	eur	Sarah Mueller	10/14/2024	3/23/2025	PPC	50	Follow up next week
+DL-5078	Robert - Enterprise License	Robert Bosch GmbH	Switzerland	Closed Lost	won	24573		J. Wilson	1/6/2023	4/22/2023	n/a		Awaiting legal review
+DL-5079		Lufthansa Group	France	Discovery	SQL	10140	â‚¬	Sarah Mueller	9/25/2024	3/1/2025	referral	10	Champion?
+DL-5080	eon - Enterprise License	eon	Spain	Proposal Sent	opportunity	99757	EUR	Luca Bianchi	12/5/2023	12/24/2023			no champion
+DL-5081	Volkswagen - Enterprise License	Volkswagen AG	GERMANY	discovery	mql	0	USD	Ana Garcia	2/13/2024	8/3/2024	webinar	10	follow up
+DL-5082	Deutsche - Enterprise License	Deutsche Telekom	AUSTRIA	prospecting	Lead	9574	EUR	ana.garcia@speexx.com	7/14/2024	10/20/2024	EMAIL		
+DL-5083	Fresenius - Enterprise License	Fresenius	Espana	DISCOVERY	Lost	9542	USD	Ana Garcia	3/24/2023	8/26/2023	referral	10	Follow up next week
+DL-5084	SIEMENS - Enterprise License	SIEMENS AG	Holland	Negotiation	LEAD	50255	GBP	Marie Dupont	7/20/2023	12/17/2023	Email Campaign		follow up
+DL-5085		Bosch GmbH	Espana	proposal sent	Marketing Qualified Lead	9851	EUR	J. Wilson	3/24/2024	5/7/2024	ORGANIC	10	TBD
+DL-5086	DT - Enterprise License	DT AG	Italy	NEGOTIATION	opportunity	4544	EUR	l.bianchi@speexx.com	2/28/2023	4/2/2023	Google Ads	unknown	FOLLOW UP
+DL-5087	Allianz - Enterprise License	Allianz SE	The Netherlands	proposal sent	LEAD	100379	â‚¬	Unassigned	9/14/2023	2/14/2024		70	Awaiting legal review
+DL-5088	Delivery - Enterprise License	Delivery Hero SE	France	proposal sent	Sales Qualified Lead	-1	EUR	Unassigned	7/8/2024	11/27/2024	referral	70	
+DL-5089	Merck - Enterprise License	Merck KGaA	england	DISCOVERY	marketing qualified lead	EUR 4740	EUR	luca.bianchi@speexx.com	8/4/2023	9/18/2023	Direct	70	Champion?
+DL-5090	BASF - Enterprise License	BASF SE	germany	closed lost	Sales qualified		eur	Ana Garcia	11/4/2023	12/9/2023	Email Campaign		Follow up next week
+DL-5091	HelloFresh - Enterprise License	HelloFresh SE	ITALY	proposal sent	New Lead	â‚¬100,431	eur		11/9/2023	01.12.2023	Email Campaign	90	tbd
+DL-5092	siemens - Enterprise License	siemens	POLAND	Proposal Sent	LEAD	75460	â‚¬	james.wilson@speexx.com	4/22/2023	9/24/2023	N/A	50	follow up
+DL-5093	Siemens - Enterprise License	Siemens AG	AUSTRIA	demo scheduled	Opportunity	49802	USD	james.wilson	10/15/2023	1/7/2024	Organic Search	20	sent proposal
+DL-5094	Merck - Enterprise License	Merck	NL	Demo Scheduled	Won	9517	eur	Ana Garcia	11/7/2024	11.02.2025	paid search	70	Champion?
+DL-5095	Merck - Enterprise License	Merck KGaA	Espana	demo	Lost	49782	EUR	james.wilson@speexx.com	11/18/2023	12/18/2023	organic	50	FOLLOW UP
+DL-5096	Zalando - Enterprise License	Zalando	ITALY	NEGOTIATION	Opportunity	â‚¬24,542	EUR	marie.dupont@speexx.com	2/9/2023	4/11/2023	WEBINAR		
+DL-5097	Siemens - Enterprise License	Siemens ag	Netherlands	Discovery	closed lost	24615	USD	Unassigned	9/6/2024	11/19/2024	EMAIL	20	
+DL-5098	Henkel - Enterprise License	Henkel	IT	proposal sent	CLOSED LOST	0	EUR	james.wilson@speexx.com	10/17/2023	9/27/2023	direct	30	Champion?
+DL-5099	SIEMENS - Enterprise License	SIEMENS AG	NL	Proposal	Sales Qualified Lead	25299	GBP	Unassigned	4/19/2023	10/5/2023	LinkedIn	90	tbd
+DL-5100	Zalando - Enterprise License	Zalando	u.s.	demo scheduled	lead	25088 EUR	EUR	Unassigned	3/22/2023	4/24/2023	organic		Champion identified
+DL-5101	HelloFresh - Enterprise License	HelloFresh SE	Italy	demo	New Lead	5089	USD	J. Wilson	6/21/2024	11/15/2024	Google Ads	50	Champion identified
+DL-5102	Henkel - Enterprise License	Henkel AG	United kingdom	closed won	New Lead	4870 EUR	GBP	J. Wilson	1/6/2024	2/9/2024	google ads		Sent proposal
+DL-5103	Henkel - Enterprise License	Henkel AG	UK	closed lost	closed won	9793	EUR	l.bianchi@speexx.com	11/21/2024	5/3/2025	LINKEDIN	30	Champion identified
+DL-5104	Siemens - Enterprise License	Siemens AG	germany	Won	Customer	49981	GBP	sarah.mueller@speexx.com	6/20/2023	8/3/2023	Paid Search	30	no champion
+DL-5105	E.ON - Enterprise License	E.ON	NETHERLANDS	Negotiation	closed lost	EUR 49747	EUR	Marie Dupont	2/2/2024	03.06.2024	WEBINAR	100	awaiting legal
+DL-5106	Zalando - Enterprise License	Zalando SE	US	Closed Won	Marketing Qualified Lead	50251	EUR		4/5/2024	08.08.2024	Event	unknown	
+DL-5107		Continental	Italia	closed won	Won	-1	USD	sarah.mueller@speexx.com	1/24/2024	4/29/2024			no champion
+DL-5108	Henkel - Enterprise License	Henkel	ES	Demo Scheduled	closed won		â‚¬	l.bianchi@speexx.com	10/20/2023	1/24/2024	Webinar	20	Awaiting legal review
+DL-5109	bmw - Enterprise License	bmw	ITALY	Closed Won	CLOSED LOST	10406	EUR		6/19/2023	8/2/2023	Direct	30	FOLLOW UP
+DL-5110	Deutsche - Enterprise License	Deutsche Telekom	spain	Prospecting	MQL	-1		Unassigned	7/19/2024	12/10/2024	Event	50	sent proposal
+DL-5111	Merck - Enterprise License	Merck	france	NEGOTIATION	CLOSED WON	EUR 9612	GBP	luca.bianchi@speexx.com	3/12/2024	7/17/2024	google ads	70	
+DL-5112	HelloFresh - Enterprise License	HelloFresh SE	england	demo scheduled	Lost	49834	EUR	Marie Dupont	4/30/2023	8/12/2023	ORGANIC	90	FOLLOW UP
+DL-5113	Delivery - Enterprise License	Delivery Hero	AT	Won	MQL	â‚¬50,398	eur	james.wilson@speexx.com	6/17/2024	9/20/2024	referral	unknown	Sent proposal
+DL-5114	BMW - Enterprise License	BMW Group	France	Demo Scheduled	won	49789	eur	sarah.mueller@speexx.com	4/26/2024	6/17/2024	Unknown		Champion?
+DL-5115	Deutsche - Enterprise License	Deutsche Telekom	United States	demo	won	â‚¬25,146	EUR		12/28/2024	12/5/2024	referral	70	
+DL-5116	ThyssenKrupp - Enterprise License	ThyssenKrupp	IT	proposal sent	closed won	24802		ana.garcia@speexx.com	5/16/2024	11/7/2024	Email Campaign	20	follow up
+DL-5117	Continental - Enterprise License	Continental	USA	Negotiation	CLOSED LOST		GBP	marie.dupont@speexx.com	11/23/2023	1/5/2024	direct	70	no champion
+DL-5118	Deutsche - Enterprise License	Deutsche Telekom	GB	Proposal	Closed Won	9825	â‚¬		2/23/2024	23.03.2024	Unknown	50	Awaiting legal review
+DL-5119	Zalando - Enterprise License	Zalando SE	france	demo scheduled	CLOSED LOST	24670	USD	james.wilson@speexx.com	2/16/2023	5/19/2023	organic search	10	tbd
+DL-5120	BASF - Enterprise License	BASF SE	spain	Won	sql	4550	GBP	Unassigned	4/3/2023	7/11/2023	direct	30	Awaiting legal review
+DL-5121	volkswagen - Enterprise License	volkswagen	United states	demo scheduled	marketing qualified lead		GBP		2/28/2024	5/7/2024	linkedin	70	sent proposal
+DL-5122	SIEMENS - Enterprise License	SIEMENS AG	Switzerland	demo scheduled	Closed Won	5267	EUR	Unassigned	8/24/2023	2/15/2024	Direct	20	FOLLOW UP
+DL-5123	Allianz - Enterprise License	Allianz SE	United Kingdom	Won	Sales Qualified Lead	24655	â‚¬		5/31/2024	5/7/2024	unknown	10	sent proposal
+DL-5124		BMW AG	UK	Lost	Closed Lost	24885	â‚¬	luca.bianchi@speexx.com	4/14/2024	6/18/2024	unknown	50	awaiting legal
+DL-5125	SIEMENS - Enterprise License	SIEMENS AG	United Kingdom	Won	LEAD	49963	eur	luca.bianchi@speexx.com	5/23/2024	9/14/2024	PPC	unknown	sent proposal
+DL-5126	volkswagen - Enterprise License	volkswagen	Italy	discovery	Marketing Qualified Lead		EUR	Ana Garcia	5/28/2023	11/19/2023	n/a		
+DL-5127	Merck - Enterprise License	Merck	Netherlands	demo	Lead	10258	GBP	Unassigned	8/27/2023	25.09.2023	Referral		tbd
+DL-5128	ThyssenKrupp - Enterprise License	ThyssenKrupp	France	Lost	marketing qualified lead	EUR 9972	GBP	Marie Dupont	7/12/2024	30.11.2024	google ads	10	follow up
+DL-5129	E.ON - Enterprise License	E.ON	United states	discovery	Won	4934	EUR	Marie Dupont	5/5/2023	6/30/2023	EMAIL	90	Follow up next week
+DL-5130	bmw - Enterprise License	bmw	Spain	demo	SQL		â‚¬	Luca Bianchi	5/1/2023	9/3/2023	Event		Champion?
+DL-5131	BMW - Enterprise License	BMW Group	Spain	Proposal	won	-1		sarah.mueller@speexx.com	4/28/2024	9/7/2024	LinkedIn Ads	30	Champion identified
+DL-5132		Allianz SE	AUSTRIA	Demo	CLOSED WON	50050	EUR	Sarah Mueller	1/6/2023	4/9/2023	referral	80	
+DL-5133	Siemens - Enterprise License	Siemens AG	ITALY	negotiation	Closed Lost	24813	eur	Sarah Mueller	7/17/2023	10/9/2023	PPC	50	sent proposal
+DL-5134	SAP - Enterprise License	SAP	PL	closed won	CLOSED LOST	25284	â‚¬		9/27/2023	3/3/2024	n/a	50	follow up
+DL-5135		Siemens AG	Deutschland	closed lost	CUSTOMER	4668	EUR	james.wilson@speexx.com	8/26/2023	11/3/2023		90	
+DL-5136	Thyssenkrupp - Enterprise License	Thyssenkrupp AG	United States	discovery	Opp	9902	â‚¬	Unassigned	12/1/2023	3/1/2024		20	Champion?
+DL-5137	Deutsche - Enterprise License	Deutsche Telekom	ITALY	DISCOVERY	lost	75073	EUR	Luca Bianchi	6/20/2023	12/13/2023	WEBINAR	30	Follow up next week
+DL-5138	Deutsche - Enterprise License	Deutsche Lufthansa AG	Holland	Demo	Opp	-1	EUR		4/22/2024	8/2/2024	Organic Search	50	Champion identified
+DL-5139	Deutsche - Enterprise License	Deutsche Lufthansa AG	Germany	Proposal	CLOSED LOST	0	â‚¬	sarah.mueller@speexx.com	6/22/2024	6/12/2024	n/a	90	Follow up next week
+DL-5140	Delivery - Enterprise License	Delivery Hero SE	United States	prospecting	CLOSED LOST	150343		luca.bianchi@speexx.com	12/22/2024	3/10/2025	PPC	10	Awaiting legal review
+DL-5141	SIEMENS - Enterprise License	SIEMENS AG	france	Demo Scheduled	mql	74634		marie.dupont@speexx.com	9/19/2024	11/11/2024	Webinar	20	TBD
+DL-5142	eon - Enterprise License	eon	Spain	Prospecting	CUSTOMER		USD	Luca Bianchi	10/12/2023	14.12.2023	email	90	TBD
+DL-5143	HelloFresh - Enterprise License	HelloFresh SE	italy	closed won	CLOSED LOST	4773	eur	Marie Dupont	11/16/2024	12/15/2024	LinkedIn Ads	unknown	
+DL-5144		Siemens AG	england	discovery	Marketing Qualified Lead		EUR		11/15/2023	2/7/2024	paid search	30	Awaiting legal review
+DL-5145	MERCK - Enterprise License	MERCK KGAA	Italy	Prospecting	opportunity	9883	eur	Marie Dupont	10/3/2024	10/22/2024	google ads	70	Follow up next week
+DL-5146	BASF - Enterprise License	BASF SE	spain	DISCOVERY	sql	24923	â‚¬	james.wilson	12/23/2024	3/20/2025	Partner Referral	20	Champion identified
+DL-5147	Lufthansa - Enterprise License	Lufthansa Group	germany	Lost	Customer	25349 EUR	GBP	james.wilson@speexx.com	8/15/2024	11/30/2024	Referral	90	Awaiting legal review
+DL-5148		Zalando	ES	closed won	Opportunity	25260	eur	luca.bianchi@speexx.com	11/29/2024	2/24/2025	Google Ads		
+DL-5149	Zalando - Enterprise License	Zalando SE	germany	Closed Lost	OPPORTUNITY	10077	EUR	marie.dupont@speexx.com	7/10/2023	11/22/2023	Organic Search	30	awaiting legal
+DL-5150	Thyssenkrupp - Enterprise License	Thyssenkrupp AG	SPAIN	discovery	LEAD	4866	EUR	luca.bianchi@speexx.com	12/9/2023	3/18/2024	N/A		Champion?
+DL-5151	Delivery - Enterprise License	Delivery Hero SE	United Kingdom	demo scheduled	opportunity	â‚¬9,882	EUR		3/21/2024	7/15/2024	unknown	20	awaiting legal
+DL-5152	Henkel - Enterprise License	Henkel	United states	Prospecting	Sales Qualified Lead	0	EUR	james.wilson@speexx.com	10/3/2023	3/12/2024	organic	20	sent proposal
+DL-5153	BOSCH - Enterprise License	BOSCH	Italia	NEGOTIATION	Marketing Qualified Lead	4651	EUR	J. Wilson	12/21/2023	4/30/2024	Email Campaign	20	
+DL-5154	DT - Enterprise License	DT AG	SWITZERLAND	proposal sent	Closed Won	4663	eur		6/7/2023	11/10/2023	Email	100	
+DL-5155	DT - Enterprise License	DT AG	GB	DISCOVERY	CLOSED LOST	0	GBP	Luca Bianchi	4/9/2023	31.07.2023	Unknown	unknown	
+DL-5156	MERCK - Enterprise License	MERCK KGAA	Germany	Demo Scheduled	CLOSED LOST	49877	GBP		1/28/2023	08.04.2023	referral	30	Champion identified
+DL-5157	sap - Enterprise License	sap se	Italia	Discovery	Closed Won	10169		sarah.mueller@speexx.com	2/15/2023	4/24/2023	EMAIL	30	follow up
+DL-5158	basf - Enterprise License	basf	United Kingdom	NEGOTIATION	New Lead	EUR 74854	EUR	james.wilson@speexx.com	11/29/2024	4/24/2025	unknown	90	
+DL-5159	Continental - Enterprise License	Continental	AT	Negotiation	marketing qualified lead	9555		Luca Bianchi	1/12/2023	5/30/2023	n/a	80	TBD
+DL-5160		eon	Germany	negotiation	OPPORTUNITY		â‚¬	J. Wilson	1/9/2024	2/20/2024	N/A	90	Follow up next week
+DL-5161	Continental - Enterprise License	Continental	ITALY	Closed Won	closed won		USD	marie.dupont@speexx.com	10/16/2023	11/9/2023	organic search		sent proposal
+DL-5162	SAP - Enterprise License	SAP	germany	NEGOTIATION	Closed Lost	10151	GBP	J. Wilson	10/28/2023	2/10/2024	PPC	30	
+DL-5163	BOSCH - Enterprise License	BOSCH	United states	demo	closed lost	EUR 9969		sarah.mueller@speexx.com	10/10/2024	27.02.2025	Event	10	follow up
+DL-5164	Fresenius - Enterprise License	Fresenius SE	GERMANY	Discovery	sql	10152	â‚¬	Marie Dupont	10/15/2024	11/23/2024	paid search	90	FOLLOW UP
+DL-5165	sap - Enterprise License	sap se	DE	closed lost	Opp	25374		J. Wilson	8/7/2024	10/26/2024	Email Campaign	70	
+DL-5166	Delivery - Enterprise License	Delivery Hero SE	Germany	prospecting	closed won	25431	eur	sarah.mueller@speexx.com	7/10/2023	10/2/2023	google ads	70	sent proposal
+DL-5167		Continental	IT	demo scheduled	lead	10226		l.bianchi@speexx.com	9/5/2024	2/28/2025	webinar		awaiting legal
+DL-5168	Thyssenkrupp - Enterprise License	Thyssenkrupp AG	USA	Proposal	Sales Qualified Lead	9955	EUR	marie.dupont@speexx.com	7/25/2024	8/11/2024	email	10	
+DL-5169	Merck - Enterprise License	Merck	IT	proposal sent	LEAD	-1	USD	luca.bianchi@speexx.com	3/22/2023	9/13/2023	organic search	30	Champion?
+DL-5170	MERCK - Enterprise License	MERCK KGAA	Poland	negotiation	lead	10283		J. Wilson	6/20/2023	12/10/2023	google ads	90	Champion?
+DL-5171	Bosch - Enterprise License	Bosch GmbH	United Kingdom	discovery	Closed Lost		GBP	ana.garcia@speexx.com	4/10/2023	8/3/2023	EMAIL		sent proposal
+DL-5172	VW - Enterprise License	VW AG	Espana	Lost	customer	49825	GBP	luca.bianchi@speexx.com	1/7/2024	6/30/2024	direct	100	follow up
+DL-5173	SAP - Enterprise License	SAP	Holland	Proposal	closed lost	50171	GBP	Ana Garcia	2/14/2024	1/18/2024	organic search		Sent proposal
+DL-5174		Robert Bosch GmbH	AUSTRIA	Discovery	Sales qualified	25249	EUR	l.bianchi@speexx.com	9/16/2024	3/7/2025	paid search	80	Follow up next week
+DL-5175	Fresenius - Enterprise License	Fresenius SE	Italy	Demo	sql	74665			10/31/2024	2/21/2025	LINKEDIN	80	follow up
+DL-5176	bmw - Enterprise License	bmw	SPAIN	NEGOTIATION	CLOSED WON	â‚¬25,200	EUR		3/8/2023	3/29/2023	webinar	30	Sent proposal
+DL-5177		Continental	UK	negotiation	Opportunity		EUR	Marie Dupont	3/13/2023	3/28/2023	organic search	100	Champion identified
+DL-5178	siemens - Enterprise License	siemens	United kingdom	prospecting	closed won	0	EUR	Sarah Mueller	10/27/2023	2/19/2024	Partner Referral		tbd
+DL-5179	Bosch - Enterprise License	Bosch GmbH	FRANCE	Proposal	OPPORTUNITY	4748	EUR	luca.bianchi@speexx.com	6/23/2023	10/8/2023	Unknown	50	tbd
+DL-5180	BMW - Enterprise License	BMW Group	germany	Proposal	LEAD	50216	EUR	james.wilson@speexx.com	12/17/2023	3/15/2024	organic search	50	Awaiting legal review
+DL-5181	Merck - Enterprise License	Merck	IT	Demo Scheduled	SQL	24812	EUR	james.wilson@speexx.com	1/7/2024	4/4/2024	Email	70	
+DL-5182	Deutsche - Enterprise License	Deutsche Telekom AG	United states	DISCOVERY	Closed Won	24765		l.bianchi@speexx.com	1/29/2023	4/7/2023	WEBINAR	unknown	follow up
+DL-5183	MERCK - Enterprise License	MERCK KGAA	United States	Negotiation	sql	74996 EUR			5/28/2024	8/30/2024	Paid Search	80	Sent proposal
+DL-5184	Volkswagen - Enterprise License	Volkswagen AG	USA	closed lost	CLOSED WON	50308	EUR	Unassigned	7/31/2023	10/10/2023		50	
+DL-5185	sap - Enterprise License	sap se	u.s.	discovery	customer	150019	EUR		1/8/2024	30.01.2024		50	Sent proposal
+DL-5186	BMW - Enterprise License	BMW Group	italy	demo scheduled	Closed Lost	49967	â‚¬	Sarah Mueller	7/7/2023	1/3/2024	Paid Search	30	no champion
+DL-5187	Volkswagen - Enterprise License	Volkswagen AG	DE	Closed Lost	OPPORTUNITY	49988	EUR	J. Wilson	3/4/2023	5/10/2023		20	Champion identified
+DL-5188	sap - Enterprise License	sap se	france	closed lost	lead	25082			4/13/2023	9/12/2023	N/A	10	sent proposal
+DL-5189	Henkel - Enterprise License	Henkel AG	Italia	Demo Scheduled	Opportunity	9994	eur	ana.garcia@speexx.com	9/7/2024	11/29/2024	unknown	70	
+DL-5190	Continental - Enterprise License	Continental AG	Deutschland	Proposal	LEAD	100021	GBP	marie.dupont@speexx.com	4/25/2023	6/24/2023		80	
+DL-5191	HelloFresh - Enterprise License	HelloFresh	United states	discovery	Won	49718	EUR	marie.dupont@speexx.com	7/5/2024	9/3/2024	Referral		
+DL-5192	BOSCH - Enterprise License	BOSCH	Netherlands	Negotiation	won	50372		marie.dupont@speexx.com	11/28/2023	1/21/2024	EMAIL	70	Sent proposal
+DL-5193	BMW - Enterprise License	BMW Group	Italia	Proposal Sent	closed won		GBP		4/28/2024	7/28/2024	email	10	awaiting legal
+DL-5194	Lufthansa - Enterprise License	Lufthansa Group	ITALY	demo	opportunity	5221	USD	sarah.mueller@speexx.com	10/23/2024	12/11/2024	Email	80	no champion
+DL-5195	Merck - Enterprise License	Merck KGaA	United States	NEGOTIATION	lead	74609		sarah.mueller@speexx.com	7/24/2023	10/1/2023	Email	100	Sent proposal
+DL-5196	BMW - Enterprise License	BMW AG	IT	discovery	marketing qualified lead	4850		james.wilson@speexx.com	9/13/2024	2/24/2025	Paid Search	80	tbd
+DL-5197	Henkel - Enterprise License	Henkel AG	u.s.	Closed Lost	LEAD	4590	â‚¬	Luca Bianchi	6/5/2023	7/27/2023	direct	10	follow up
+DL-5198	Allianz - Enterprise License	Allianz SE	Netherlands	proposal sent	CLOSED WON	99956	eur	luca.bianchi@speexx.com	12/17/2024	3/21/2025	LINKEDIN	unknown	
+DL-5199	BMW - Enterprise License	BMW Group	USA	Prospecting	New Lead	5157	EUR	Unassigned	9/19/2023	3/5/2024	unknown	80	Follow up next week
+DL-5200	Merck - Enterprise License	Merck	Deutschland	Proposal	lead	50003	EUR	l.bianchi@speexx.com	3/23/2024	4/14/2024	Google Ads		follow up
+DL-5201	E.ON - Enterprise License	E.ON SE	GB	closed lost	Customer	49695	â‚¬	luca.bianchi@speexx.com	3/31/2023	9/7/2023	LinkedIn	unknown	Awaiting legal review
+DL-5202	Allianz - Enterprise License	Allianz SE	GERMANY	NEGOTIATION	Closed Won	25209	â‚¬	sarah.mueller@speexx.com	7/6/2023	1/1/2024	Email	10	Follow up next week
+DL-5203	Deutsche - Enterprise License	Deutsche Telekom AG	CH	demo scheduled	Sales Qualified Lead	25286	USD		11/27/2023	3/29/2024	LinkedIn	50	tbd
+DL-5204	BOSCH - Enterprise License	BOSCH	u.s.	Prospecting	Opp		EUR	ana.garcia@speexx.com	7/31/2023	10/31/2023	referral	unknown	Sent proposal
+DL-5205	sap - Enterprise License	sap se	FR	demo	CUSTOMER	10441		Sarah Mueller	11/7/2023	1/1/2024	Email	10	Champion identified
+DL-5206	Deutsche - Enterprise License	Deutsche Telekom	France	Negotiation	sql	5289	EUR	james.wilson@speexx.com	1/25/2024	2/20/2024	Google Ads	100	
+DL-5207	Fresenius - Enterprise License	Fresenius SE	US	Demo	marketing qualified lead	250318		sarah.mueller@speexx.com	1/2/2024	06.04.2024	EMAIL	90	TBD
+DL-5208	ALLIANZ - Enterprise License	ALLIANZ	France	Discovery	Lost	10368 EUR	GBP		12/30/2023	4/14/2024	Direct	unknown	Awaiting legal review
+DL-5209	Siemens - Enterprise License	Siemens ag	germany	Prospecting	mql	4659	eur	Unassigned	5/25/2023	8/10/2023	direct	80	Champion?
+DL-5210	Henkel - Enterprise License	Henkel AG	The Netherlands	closed won	CUSTOMER	150259	EUR		6/11/2023	10/10/2023	Unknown	50	sent proposal
+DL-5211	basf - Enterprise License	basf	United States	demo	mql	24529	EUR		10/2/2024	1/19/2025	Email		
+DL-5212		E.ON	United States	proposal sent	CLOSED WON	99594	GBP	Unassigned	6/23/2023	8/16/2023		30	TBD
+DL-5213	Fresenius - Enterprise License	Fresenius SE	The Netherlands	Closed Won	CLOSED LOST	99763	EUR	luca.bianchi@speexx.com	10/14/2024	10/28/2024	LINKEDIN	30	Sent proposal
+DL-5214	E.ON - Enterprise License	E.ON SE	FRANCE	Discovery	Sales qualified	50234	eur	james.wilson	5/13/2023	7/2/2023	DIRECT	80	
+DL-5215	Continental - Enterprise License	Continental	GB	Closed Lost	Opp	249773	EUR	l.bianchi@speexx.com	11/15/2024	4/29/2025	ORGANIC	90	
+DL-5216	siemens - Enterprise License	siemens	POLAND	prospecting	Won	74743		Unassigned	7/22/2023	7/1/2023	email	100	Sent proposal
+DL-5217	Continental - Enterprise License	Continental	NETHERLANDS	discovery	CUSTOMER	50171	EUR	james.wilson	9/28/2024	12/18/2024	Unknown		Champion identified
+DL-5218		HelloFresh SE	u.s.	demo	SQL	4874	EUR	J. Wilson	4/9/2023	7/19/2023	Google Ads	20	no champion
+DL-5219		Delivery Hero	US	Proposal Sent	sql	-1	GBP	Unassigned	10/30/2023	12/15/2023	unknown	50	follow up
+DL-5220	HelloFresh - Enterprise License	HelloFresh	United states	proposal sent	mql	25298	USD	Luca Bianchi	8/16/2023	9/3/2023		30	Awaiting legal review
+DL-5221	SAP - Enterprise License	SAP SE	AUSTRIA	closed lost	closed won	10452	eur	james.wilson	4/13/2023	08.06.2023	email	70	awaiting legal
+DL-5222	E.ON - Enterprise License	E.ON	Poland	DISCOVERY	lost	49807	â‚¬	J. Wilson	3/7/2024	7/20/2024	Paid Search	10	tbd
+DL-5223	Henkel - Enterprise License	Henkel AG	United Kingdom	Demo Scheduled	New Lead	-1	EUR	marie.dupont@speexx.com	5/24/2023	7/13/2023	LINKEDIN	50	TBD
+DL-5224	Lufthansa - Enterprise License	Lufthansa Group	SWITZERLAND	demo	SQL	4911	eur	luca.bianchi@speexx.com	3/14/2023	5/24/2023	Direct	80	Follow up next week
+DL-5225	Zalando - Enterprise License	Zalando SE	Italia	discovery	Customer	50112	EUR	Luca Bianchi	5/1/2023	9/25/2023	N/A	30	FOLLOW UP
+DL-5226	volkswagen - Enterprise License	volkswagen	USA	demo	LEAD	4977	â‚¬	J. Wilson	10/6/2023	10/30/2023	paid search		Champion?
+DL-5227	Deutsche - Enterprise License	Deutsche Lufthansa AG	italy	negotiation	CUSTOMER	10153	â‚¬	marie.dupont@speexx.com	9/5/2023	1/23/2024	EMAIL	unknown	TBD
+DL-5228	BMW - Enterprise License	BMW Group	italy	Closed Won	marketing qualified lead	10006		Luca Bianchi	1/1/2024	12/9/2023	Email		no champion
+DL-5229	HelloFresh - Enterprise License	HelloFresh SE	france	Closed Lost	LEAD	-1	eur	ana.garcia@speexx.com	1/27/2024	2/20/2024	EMAIL	90	
+DL-5230	Siemens - Enterprise License	Siemens ag	AT	NEGOTIATION	lead	25035	GBP	marie.dupont@speexx.com	12/22/2023	6/18/2024	Referral		follow up
+DL-5231	SIEMENS - Enterprise License	SIEMENS AG	NL	negotiation	Customer	75246	USD	ana.garcia@speexx.com	10/7/2024	1/13/2025	REFERRAL	70	Champion identified
+DL-5232	siemens - Enterprise License	siemens	Poland	Lost	Lost	10312	USD	Marie Dupont	11/29/2023	4/8/2024	WEBINAR	30	TBD
+DL-5233	ThyssenKrupp - Enterprise License	ThyssenKrupp	Italia	Won	marketing qualified lead	-1	EUR	marie.dupont@speexx.com	4/2/2023	7/10/2023	Unknown	unknown	follow up
+DL-5234	BASF - Enterprise License	BASF SE	Spain	Closed Won	sql	10325	USD	sarah.mueller@speexx.com	7/27/2023	10/16/2023	DIRECT		
+DL-5235	Zalando - Enterprise License	Zalando	France	Won	Lead	EUR 5133	GBP	Unassigned	7/27/2024	10/24/2024	webinar		Awaiting legal review
+DL-5236	basf - Enterprise License	basf	United kingdom	Proposal Sent	Customer	25494	EUR	J. Wilson	5/17/2023	9/6/2023	Direct	10	Champion identified
+DL-5237		Deutsche Telekom AG	Italy	demo scheduled	MQL	10331		Unassigned	12/12/2024	2/20/2025	LINKEDIN	90	follow up
+DL-5238	E.ON - Enterprise License	E.ON	ITALY	Negotiation	closed won	50223	USD	ana.garcia@speexx.com	8/17/2024	12/11/2024	REFERRAL	80	no champion
+DL-5239	Lufthansa - Enterprise License	Lufthansa Group	US	demo scheduled	Lead	50092		Luca Bianchi	3/20/2023	5/7/2023	referral	80	
+DL-5240	Delivery - Enterprise License	Delivery Hero SE	United kingdom	demo scheduled	Won		GBP	Sarah Mueller	10/22/2024	3/26/2025	linkedin	10	no champion
+DL-5241	Continental - Enterprise License	Continental AG	Deutschland	proposal sent	lead	25223	â‚¬	l.bianchi@speexx.com	7/26/2024	1/22/2025	organic search		Champion identified
+DL-5242	Henkel - Enterprise License	Henkel	NETHERLANDS	Demo	Sales qualified	49817	GBP	james.wilson@speexx.com	12/22/2024	2/8/2025	Webinar	10	Champion?
+DL-5243	siemens - Enterprise License	siemens	spain	Discovery	Sales qualified	25042	EUR	Unassigned	12/30/2024	4/14/2025	Unknown	20	Awaiting legal review
+DL-5244	Allianz - Enterprise License	Allianz Se	NETHERLANDS	Negotiation	sql	EUR 74890	EUR	james.wilson	4/7/2023	8/2/2023	Email Campaign	70	Champion identified
+DL-5245	Allianz - Enterprise License	Allianz Se	FRANCE	demo scheduled	won	10162 EUR	â‚¬	sarah.mueller@speexx.com	7/8/2023	9/26/2023	organic		Follow up next week
+DL-5246		HelloFresh	POLAND	closed won	closed lost	4834	USD	Unassigned	1/18/2024	25.02.2024	LinkedIn Ads	50	
+DL-5247	Fresenius - Enterprise License	Fresenius	POLAND	proposal sent	sql	0		Marie Dupont	5/25/2024	7/24/2024	LinkedIn Ads		follow up
+DL-5248	Continental - Enterprise License	Continental AG	SWITZERLAND	discovery	sql	0	EUR		2/1/2023	1/14/2023	LINKEDIN		follow up
+DL-5249	Fresenius - Enterprise License	Fresenius	Poland	Won	Marketing Qualified Lead	75302	USD	J. Wilson	12/12/2023	4/20/2024	REFERRAL	100	Sent proposal

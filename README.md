@@ -7,9 +7,7 @@ clean, analysis-ready tables with a data quality scorecard.
 Built as a portfolio project for the **Working Student Revenue Operations**
 role at Speexx.
 
-**Live demo:** https://github.com/Arqamfaiz/speexx-revops-pipeline
-
-**GitHub:** https://github.com/Arqamfaiz/speexx-revops-pipeline
+**Live demo:** https://speexx-revops-pipeline-4b2tlnj2wgnowpyohhhg8k.streamlit.app/
 
 ---
 
